@@ -19,7 +19,7 @@
 132203:  Country codes: 1 Reg Country Codes: 1
 135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 10>
 135377:  Country codes: 4 Reg Country Codes: 1
-14061 : DIGITALOCEAN-ASN <IPs: 3>
+14061 : DIGITALOCEAN-ASN <IPs: 4>
 14061 :  [AKA: DigitalOcean LLC]
 14061 :  Country codes: 3 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
@@ -58,8 +58,8 @@
 209043:  Country codes: 1 Reg Country Codes: 1
 20960 : TK Telekom sp. z o.o. <IPs: 1>
 20960 :  Country codes: 1
-210644: Aeza International Ltd <IPs: 4>
-210644:  Country codes: 3 Reg Country Codes: 4
+210644: Aeza International Ltd <IPs: 5>
+210644:  Country codes: 4 Reg Country Codes: 4
 211298: Driftnet Ltd <IPs: 27>
 211298:  [AKA: Constantine Cybersecurity Ltd.]
 211298:  Country codes: 2 Reg Country Codes: 1
@@ -108,7 +108,7 @@
 398324: CENSYS-ARIN-01 <IPs: 106>
 398324:  [AKA: Censys Inc.]
 398324:  Country codes: 1
-398705: CENSYS-ARIN-02 <IPs: 21>
+398705: CENSYS-ARIN-02 <IPs: 22>
 398705:  [AKA: Censys Inc.]
 398705:  Country codes: 1
 398722: CENSYS-ARIN-03 <IPs: 29>
@@ -133,6 +133,8 @@
 45102 :  Country codes: 5 Reg Country Codes: 2
 45820 : Tata Teleservices ISP AS <IPs: 1>
 45820 :  Country codes: 1
+4766  : Korea Telecom <IPs: 1>
+4766  :  Country codes: 1
 4812  : China Telecom Group <IPs: 1>
 4812  :  Country codes: 1
 49532 : Eonix Corporation <IPs: 1>
@@ -146,7 +148,7 @@
 51167 : Contabo GmbH <IPs: 5>
 51167 :  Country codes: 2 Reg Country Codes: 2
 51396 : Pfcloud UG <IPs: 12>
-51396 :  Country codes: 2 Reg Country Codes: 1
+51396 :  Country codes: 1 Reg Country Codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
 51765 :  Country codes: 1 Reg Country Codes: 1
 51852 : Private Layer INC <IPs: 6>
@@ -182,6 +184,6 @@
 9808  : China Mobile Communications Group Co., Ltd. <IPs: 3>
 9808  :  [AKA: Shanghai UCloud Information Technology Company Limited]
 9808  :  Country codes: 1
-List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP MY NL NO PL PT RU SC SE SG SK TH TR US ZA
+List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1038, ASNs: 81, Countries: 35, Reg Countries: 17
+IPs: 1042, ASNs: 82, Countries: 36, Reg Countries: 17

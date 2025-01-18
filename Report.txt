@@ -147,7 +147,7 @@
 5089  :  Country codes: 1
 51167 : Contabo GmbH <IPs: 5>
 51167 :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 12>
+51396 : Pfcloud UG <IPs: 13>
 51396 :  Country codes: 1 Reg Country Codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
 51765 :  Country codes: 1 Reg Country Codes: 1
@@ -170,7 +170,7 @@
 701   : UUNET <IPs: 2>
 701   :  [AKA: Verizon Business]
 701   :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 197>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 198>
 8075  :  [AKA: [Microsoft Azure Cloud]]
 8075  :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -186,4 +186,4 @@
 9808  :  Country codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1042, ASNs: 82, Countries: 36, Reg Countries: 17
+IPs: 1044, ASNs: 82, Countries: 36, Reg Countries: 17

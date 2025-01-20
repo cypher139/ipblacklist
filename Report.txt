@@ -60,7 +60,7 @@
 20960 :  Country codes: 1
 210644: Aeza International Ltd <IPs: 5>
 210644:  Country codes: 4 Reg Country Codes: 4
-211298: Driftnet Ltd <IPs: 27>
+211298: Driftnet Ltd <IPs: 29>
 211298:  [AKA: Constantine Cybersecurity Ltd.]
 211298:  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
@@ -102,7 +102,7 @@
 36103 :  Country codes: 1
 39351 : 31173 Services AB <IPs: 100>
 39351 :  Country codes: 7 Reg Country Codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 68>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 69>
 396982:  [AKA: Palo Alto Networks Inc]
 396982:  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 106>
@@ -155,6 +155,8 @@
 51852 :  Country codes: 1 Reg Country Codes: 1
 5413  : Daisy Corporate Services Trading Ltd <IPs: 1>
 5413  :  Country codes: 1
+56655 : Gigahost AS <IPs: 1>
+56655 :  Country codes: 1
 57043 : Hostkey B.v. <IPs: 3>
 57043 :  [AKA: Snowd Security Ou, InterLIR Marketplace]
 57043 :  Country codes: 2 Reg Country Codes: 1
@@ -170,7 +172,7 @@
 701   : UUNET <IPs: 2>
 701   :  [AKA: Verizon Business]
 701   :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 198>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 199>
 8075  :  [AKA: [Microsoft Azure Cloud]]
 8075  :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -186,4 +188,4 @@
 9808  :  Country codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1044, ASNs: 82, Countries: 36, Reg Countries: 17
+IPs: 1049, ASNs: 83, Countries: 36, Reg Countries: 17

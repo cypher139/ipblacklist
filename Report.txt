@@ -3,8 +3,8 @@
 11417 : NIU <IPs: 2>
 11417 :  [AKA: Northern Illinois University]
 11417 :  Country codes: 1
-11878 : TZULO <IPs: 2>
-11878 :  Country codes: 1 Reg Country Codes: 1
+11878 : TZULO <IPs: 3>
+11878 :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
 12322 :  Country codes: 1
 12586 : GHOSTnet GmbH <IPs: 1>
@@ -19,7 +19,7 @@
 132203:  Country codes: 1 Reg Country Codes: 1
 135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 10>
 135377:  Country codes: 4 Reg Country Codes: 1
-14061 : DIGITALOCEAN-ASN <IPs: 4>
+14061 : DIGITALOCEAN-ASN <IPs: 5>
 14061 :  [AKA: DigitalOcean LLC]
 14061 :  Country codes: 3 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
@@ -172,7 +172,7 @@
 701   : UUNET <IPs: 2>
 701   :  [AKA: Verizon Business]
 701   :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 199>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 200>
 8075  :  [AKA: [Microsoft Azure Cloud]]
 8075  :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -188,4 +188,4 @@
 9808  :  Country codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1049, ASNs: 83, Countries: 36, Reg Countries: 17
+IPs: 1052, ASNs: 83, Countries: 36, Reg Countries: 17

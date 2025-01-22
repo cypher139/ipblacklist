@@ -102,7 +102,7 @@
 36103 :  Country codes: 1
 39351 : 31173 Services AB <IPs: 100>
 39351 :  Country codes: 7 Reg Country Codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 69>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 70>
 396982:  [AKA: Palo Alto Networks Inc]
 396982:  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 106>
@@ -111,7 +111,7 @@
 398705: CENSYS-ARIN-02 <IPs: 22>
 398705:  [AKA: Censys Inc.]
 398705:  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 29>
+398722: CENSYS-ARIN-03 <IPs: 30>
 398722:  [AKA: Censys Inc.]
 398722:  Country codes: 1
 399979: AS-493NETWORKING <IPs: 1>
@@ -129,7 +129,7 @@
 42132 :  Country codes: 1
 43205 : Vivacom Bulgaria EAD <IPs: 1>
 43205 :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 35>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 36>
 45102 :  Country codes: 5 Reg Country Codes: 2
 45820 : Tata Teleservices ISP AS <IPs: 1>
 45820 :  Country codes: 1
@@ -172,7 +172,7 @@
 701   : UUNET <IPs: 2>
 701   :  [AKA: Verizon Business]
 701   :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 200>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 201>
 8075  :  [AKA: [Microsoft Azure Cloud]]
 8075  :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -188,4 +188,4 @@
 9808  :  Country codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1052, ASNs: 83, Countries: 36, Reg Countries: 17
+IPs: 1056, ASNs: 83, Countries: 36, Reg Countries: 17

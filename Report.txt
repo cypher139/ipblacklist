@@ -19,6 +19,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 10>
       :  Country codes: 4 Reg Country Codes: 1
+140061: Qinghai Telecom <IPs: 1>
+      :  Country codes: 1
 14061 : DIGITALOCEAN-ASN <IPs: 5>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 3 Reg Country Codes: 1
@@ -65,7 +67,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 9>
+212238: Datacamp Limited <IPs: 10>
       :  Country codes: 2 Reg Country Codes: 2
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -149,8 +151,8 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 14>
-      :  Country codes: 1 Reg Country Codes: 1
+51396 : Pfcloud UG <IPs: 15>
+      :  Country codes: 1 Reg Country Codes: 2
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
       :  Country codes: 1 Reg Country Codes: 1
 51852 : Private Layer INC <IPs: 6>
@@ -191,5 +193,5 @@
 None  : Unknown: No Data Given <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
-List of Registered Country Codes: AE BG DE EE GB HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1064, ASNs: 85, Countries: 36, Reg Countries: 17
+List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
+IPs: 1067, ASNs: 86, Countries: 36, Reg Countries: 18

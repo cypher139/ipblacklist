@@ -176,7 +176,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 204>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 205>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -194,4 +194,4 @@ None  : Unknown: No Data Given <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1070, ASNs: 86, Countries: 36, Reg Countries: 18
+IPs: 1071, ASNs: 86, Countries: 36, Reg Countries: 18

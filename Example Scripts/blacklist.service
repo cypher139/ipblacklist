@@ -1,0 +1,8 @@
+[Unit]
+Description=Blacklist IP addresses from block list.
+
+[Service]
+ExecStart=/bin/bash /home/user/blacklist.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+[Unit]
+Description=Blacklist IP addresses from block list.
+
+[Timer]
+OnBootSec=15min
+OnUnitActiveSec=23h
+
+[Install]
+WantedBy=timers.target

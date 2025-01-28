@@ -106,7 +106,7 @@
       :  Country codes: 7 Reg Country Codes: 1
 39493 : CJSC Kolomna-Sviaz TV <IPs: 1>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 71>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 72>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 107>
@@ -176,7 +176,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 205>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 206>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 2>
@@ -194,4 +194,4 @@ None  : Unknown: No Data Given <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1071, ASNs: 86, Countries: 36, Reg Countries: 18
+IPs: 1073, ASNs: 86, Countries: 36, Reg Countries: 18

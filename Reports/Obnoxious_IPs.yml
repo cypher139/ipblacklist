@@ -1,16 +1,24 @@
 109.123.240.84:
   f: 15-60m
   i: Contabo GmbH
+  p: 500
   u: ServerSeeker
 131.156.156.126:
-  f: 5m
+  f: 3m
   i: Northern Illinois University
+  p: 287
 131.156.156.127:
-  f: 13-18m
+  f: 7-13m
   i: Northern Illinois University
+  p: 174
+131.156.156.134:
+  f: 13m
+  i: Northern Illinois University
+  p: 19
 132.145.34.181:
-  f: 45m
+  f: 25m
   i: Oracle Public Cloud
+  p: 23
 154.213.185.46:
   f: 15m
   i: PFCloud
@@ -21,63 +29,81 @@
 154.42.7.39:
   f: 10-35m
   i: New Itime AG
+  p: 22
 156.146.63.144:
   f: 12-60m
   i: DataCamp Limited
+  p: 33
 156.146.63.160:
   f: 12-60m
   i: DataCamp Limited
+  p: 20
 164.68.124.86:
-  f: 5-15m
+  f: 11m
   i: Contabo GmbH
+  p: 147
 188.126.94.91:
   f: 30m
   i: GleSYS AB
 191.101.31.64:
   f: 4m
   i: Cyber Assets Fzco
+  p: 344
 193.25.217.28:
   f: 6m
   i: Gravhosting Ltd
+  p: 103
 195.154.199.60:
   f: 1-4m
   i: Scaleway
+  p: 6067
 195.201.95.90:
   f: 1h
   i: Hetzner Online GmbH
+  p: 953
 195.226.194.14:
   f: 20-30m
   i: Snowd Security Ou
 5.42.101.164:
   f: 15m
   i: Aeza International
+  p: 228
 51.15.34.47:
   f: 5h
   i: Scaleway SAS
+  p: 192
 51.15.58.25:
   f: 15-60m
   i: Scaleway SAS
+  p: 83
 51.158.174.200:
   f: 24h
   i: Scaleway
 54.36.120.8:
-  f: 18m
+  f: 14m
   i: OVH
+  p: 469
 62.60.247.100:
   f: 20m
   i: Easy Chain Network
+  p: 42
 77.221.138.182:
-  f: 15m
+  f: 12m
   i: Aeza International
+  p: 273
 77.68.6.60:
-  f: 5m
+  f: 3m
   i: Fasthosts Internet Limited
+  p: 214
 84.239.16.162:
   f: 7m
   i: Invite Systems SRL
+  p: 48
 87.120.112.234:
-  f: 3-30m
+  f: 10m
   i: Ekabi LLC
+  p: 16
 87.120.126.53:
   f: 3-60m
   i: Ekabi LLC
+  p: 87

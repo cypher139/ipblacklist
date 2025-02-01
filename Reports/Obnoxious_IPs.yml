@@ -14,7 +14,7 @@
 131.156.156.134:
   f: 13m
   i: Northern Illinois University
-  p: 19
+  p: 43
 132.145.34.181:
   f: 25m
   i: Oracle Public Cloud
@@ -37,7 +37,7 @@
 156.146.63.160:
   f: 12-60m
   i: DataCamp Limited
-  p: 20
+  p: 40
 164.68.124.86:
   f: 11m
   i: Contabo GmbH
@@ -45,6 +45,7 @@
 188.126.94.91:
   f: 30m
   i: GleSYS AB
+  p: 35
 191.101.31.64:
   f: 4m
   i: Cyber Assets Fzco

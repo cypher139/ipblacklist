@@ -108,14 +108,15 @@ Obnoxious:
   156.146.63.160:
     f: 12-60m
     i: "DataCamp Limited"
-    p: 20
+    p: 40
   188.126.94.91:
     f: 30m
     i: "GleSYS AB"
+    p: 35
   131.156.156.134:
     f: 13m
     i: "Northern Illinois University"
-    p: 19
+    p: 43
 #
 Spam_Player_Names:
 # Player names, if an actual connection via Mojang auth was tried, are listed here.
@@ -129,7 +130,9 @@ Spam_Player_Names:
   Schesser: "193.35.18.165"
   # Once discovered keeps checking every 15m
   ServerSeeker: "109.123.240.84"
-  ServerSeekerV2: "46.101.233.169"
+  ServerSeekerV2: 
+    - 46.101.233.169
+    - 45.135.194.65
   ServerOverflow:
     - 132.145.71.44
     - 176.124.204.168
@@ -238,6 +241,7 @@ IP_Blacklist:
 # (11417) NIU <Northern Illinois University>
 - 131.156.156.126
 - 131.156.156.127
+- 131.156.156.134
 # (11878) TZULO
 - 198.44.140.173
 - 198.54.131.58
@@ -479,6 +483,8 @@ IP_Blacklist:
 - 207.90.244.6
 # (17488) Hathway IP Over Cable Internet
 - 125.99.46.49
+# (17561) LARUS Limited
+- 154.213.184.72
 # (17638) ASN for TIANJIN Provincial Net of CT
 - 123.150.138.197
 # (18403) FPT Telecom Company
@@ -562,8 +568,6 @@ IP_Blacklist:
 - 84.239.33.137
 # (212317) Hetzner Online GmbH
 - 5.78.115.200
-# (214943) Railnet LLC
-- 66.63.187.97
 # (215292) Gravhosting LLC
 - 193.25.217.28
 # (21859) ZEN-ECN <Zenlayer Inc>
@@ -1042,7 +1046,6 @@ IP_Blacklist:
 - 173.212.248.30
 - 84.247.163.158
 # (51396) Pfcloud UG
-- 154.213.184.72
 - 154.213.185.46
 - 154.213.187.114
 - 154.213.187.121
@@ -1079,8 +1082,6 @@ IP_Blacklist:
 - 194.32.107.127
 # (57043) Hostkey B.v. <Snowd Security Ou, InterLIR Marketplace>
 - 195.226.194.14
-- 84.54.51.121
-- 84.54.51.253
 # (57269) Digi Spain Telecom S.l.
 - 79.117.11.138
 # (58461) CT-HangZhou-IDC <ChinaNet Zhejiang Province Network [Contains Known Abusive IPs]>
@@ -1090,6 +1091,7 @@ IP_Blacklist:
 - 139.144.52.241
 - 172.105.207.193
 - 172.233.11.88
+- 2a01:7e01:0:0:f03c:92ff:fea9:a7d3
 - 45.56.101.69
 # (6855) Slovak Telekom, a.s.
 - 95.102.111.188
@@ -1304,6 +1306,8 @@ IP_Blacklist:
 - 57.152.56.146
 - 57.152.56.220
 - 57.152.56.31
+# (8100) ASN-QUADRANET-GLOBAL
+- 66.63.187.97
 # (8560) IONOS SE <IONOS SE, Fasthosts Internet Limited>
 - 194.164.207.233
 - 77.68.6.60
@@ -1394,6 +1398,8 @@ IP_Blacklist:
 # (None) Unknown: No Data Given
 - 193.35.18.165
 - 193.35.18.92
+- 84.54.51.121
+- 84.54.51.253
 Auto_Blacklist_ASNs:
 - '12876'
 - '135377'
@@ -1431,6 +1437,7 @@ Discovered_ASNs:
 - '16509'
 - '174'
 - '17488'
+- '17561'
 - '17638'
 - '18403'
 - '197540'
@@ -1447,7 +1454,6 @@ Discovered_ASNs:
 - '211680'
 - '212238'
 - '212317'
-- '214943'
 - '215292'
 - '21859'
 - '24940'
@@ -1496,6 +1502,7 @@ Discovered_ASNs:
 - '6855'
 - '701'
 - '8075'
+- '8100'
 - '8560'
 - '9009'
 - '9605'
@@ -1504,3 +1511,5 @@ Discovered_ASNs:
 Unknown_ASN_IPs:
 - 193.35.18.165
 - 193.35.18.92
+- 84.54.51.121
+- 84.54.51.253

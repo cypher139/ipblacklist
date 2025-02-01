@@ -1,6 +1,6 @@
 10439 : CARINET <IPs: 6>
       :  Country codes: 1
-11417 : NIU <IPs: 2>
+11417 : NIU <IPs: 3>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
 11878 : TZULO <IPs: 3>
@@ -38,6 +38,8 @@
       :  Country codes: 6 Reg Country Codes: 4
 17488 : Hathway IP Over Cable Internet <IPs: 1>
       :  Country codes: 1
+17561 : LARUS Limited <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
 17638 : ASN for TIANJIN Provincial Net of CT <IPs: 1>
       :  Country codes: 1
 18403 : FPT Telecom Company <IPs: 1>
@@ -73,8 +75,6 @@
       :  Country codes: 2 Reg Country Codes: 2
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-214943: Railnet LLC <IPs: 1>
-      :  Country codes: 1
 215292: Gravhosting LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 21859 : ZEN-ECN <IPs: 6>
@@ -155,7 +155,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 15>
+51396 : Pfcloud UG <IPs: 14>
       :  Country codes: 1 Reg Country Codes: 2
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
       :  Country codes: 1 Reg Country Codes: 1
@@ -165,16 +165,16 @@
       :  Country codes: 1
 56655 : Gigahost AS <IPs: 1>
       :  Country codes: 1
-57043 : Hostkey B.v. <IPs: 3>
+57043 : Hostkey B.v. <IPs: 1>
       :  [AKA: Snowd Security Ou, InterLIR Marketplace]
-      :  Country codes: 2 Reg Country Codes: 1
+      :  Country codes: 1 Reg Country Codes: 1
 57269 : Digi Spain Telecom S.l. <IPs: 1>
       :  Country codes: 1
 58461 : CT-HangZhou-IDC <IPs: 2>
       :  [AKA: ChinaNet Zhejiang Province Network [Contains Known Abusive IPs]]
       :  Country codes: 1
-63949 : Akamai Connected Cloud <IPs: 4>
-      :  Country codes: 3 Reg Country Codes: 1
+63949 : Akamai Connected Cloud <IPs: 5>
+      :  Country codes: 4 Reg Country Codes: 1
 6855  : Slovak Telekom, a.s. <IPs: 1>
       :  Country codes: 1
 701   : UUNET <IPs: 2>
@@ -183,6 +183,8 @@
 8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 207>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
+8100  : ASN-QUADRANET-GLOBAL <IPs: 1>
+      :  Country codes: 1
 8560  : IONOS SE <IPs: 2>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 2
@@ -194,8 +196,8 @@
 9808  : China Mobile Communications Group Co., Ltd. <IPs: 4>
       :  [AKA: Shanghai UCloud Information Technology Company Limited]
       :  Country codes: 1
-None  : Unknown: No Data Given <IPs: 2>
+None  : Unknown: No Data Given <IPs: 4>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1078, ASNs: 88, Countries: 37, Reg Countries: 18
+IPs: 1080, ASNs: 89, Countries: 37, Reg Countries: 18

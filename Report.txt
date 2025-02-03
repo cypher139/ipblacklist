@@ -71,13 +71,13 @@
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 10>
-      :  Country codes: 2 Reg Country Codes: 2
+212238: Datacamp Limited <IPs: 11>
+      :  Country codes: 3 Reg Country Codes: 2
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 215292: Gravhosting LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-21859 : ZEN-ECN <IPs: 6>
+21859 : ZEN-ECN <IPs: 7>
       :  [AKA: Zenlayer Inc]
       :  Country codes: 3 Reg Country Codes: 1
 24940 : Hetzner Online GmbH <IPs: 3>
@@ -180,7 +180,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 208>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 209>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 1>
@@ -200,4 +200,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1083, ASNs: 89, Countries: 37, Reg Countries: 18
+IPs: 1086, ASNs: 89, Countries: 37, Reg Countries: 18

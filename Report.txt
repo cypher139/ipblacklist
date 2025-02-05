@@ -108,10 +108,10 @@
       :  Country codes: 7 Reg Country Codes: 1
 39493 : CJSC Kolomna-Sviaz TV <IPs: 1>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 72>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 73>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 109>
+398324: CENSYS-ARIN-01 <IPs: 110>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 24>
@@ -202,4 +202,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1089, ASNs: 90, Countries: 38, Reg Countries: 18
+IPs: 1091, ASNs: 90, Countries: 38, Reg Countries: 18

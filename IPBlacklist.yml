@@ -145,7 +145,7 @@ Spam_Player_Names:
   # Logs on and immediately disconnects once a day with different user each time
   Various: 84.54.51.253
   # Sent bad login packets
-  Various_Bad: 45.97.147.247
+  Various_Bad: 45.95.147.247
 #
 # Ranges of IPs to disallow access to server:
 # Useful for catching datacenter blocks of IPs
@@ -295,6 +295,7 @@ IP_Blacklist:
 - 161.35.73.75
 - 164.90.159.75
 - 165.22.38.36
+- 209.38.102.131
 - 209.38.166.182
 - 46.101.233.169
 # (142403) YISU CLOUD LTD
@@ -472,6 +473,7 @@ IP_Blacklist:
 # (174) COGENT-174 <Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG>
 - 102.129.152.14
 - 154.42.7.39
+- 181.214.167.40
 - 185.142.236.34
 - 185.142.236.35
 - 185.142.236.36
@@ -1194,6 +1196,7 @@ IP_Blacklist:
 - 172.169.2.65
 - 172.169.2.80
 - 172.169.205.252
+- 172.169.206.122
 - 172.169.206.224
 - 172.169.207.233
 - 172.169.207.62
@@ -1478,12 +1481,12 @@ Discovered_ASNs:
   '132203': 1
   '135377': 10
   '140061': 1
-  '14061': 6
+  '14061': 7
   '142403': 1
   '14618': 2
   '16276': 16
   '16509': 149
-  '174': 17
+  '174': 18
   '17488': 1
   '17561': 1
   '17638': 1
@@ -1557,7 +1560,7 @@ Discovered_ASNs:
   '63949': 5
   '6855': 1
   '701': 2
-  '8075': 219
+  '8075': 220
   '8100': 0
   '834': 2
   '8560': 2

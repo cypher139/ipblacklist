@@ -19,9 +19,9 @@
       :  Country codes: 4 Reg Country Codes: 1
 140061: Qinghai Telecom <IPs: 1>
       :  Country codes: 1
-14061 : DIGITALOCEAN-ASN <IPs: 6>
+14061 : DIGITALOCEAN-ASN <IPs: 7>
       :  [AKA: DigitalOcean LLC]
-      :  Country codes: 4 Reg Country Codes: 1
+      :  Country codes: 5 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
       :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
@@ -31,7 +31,7 @@
 16509 : AMAZON-02 <IPs: 149>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 2 Reg Country Codes: 1
-174   : COGENT-174 <IPs: 17>
+174   : COGENT-174 <IPs: 18>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 6 Reg Country Codes: 4
 17488 : Hathway IP Over Cable Internet <IPs: 1>
@@ -192,7 +192,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 219>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 220>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 834   : IPXO <IPs: 2>
@@ -212,4 +212,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1116, ASNs: 95, Countries: 39, Reg Countries: 18
+IPs: 1119, ASNs: 95, Countries: 39, Reg Countries: 18

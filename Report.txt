@@ -24,6 +24,8 @@
       :  Country codes: 5 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
       :  Country codes: 1
+14593 : SPACEX-STARLINK <IPs: 4>
+      :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
       :  Country codes: 1
 16276 : OVH SAS <IPs: 16>
@@ -137,11 +139,13 @@
       :  Country codes: 1
 42132 : Digit One LLC <IPs: 1>
       :  Country codes: 1
+42473 : ANEXIA Internetdienstleistungs GmbH <IPs: 1>
+      :  Country codes: 1
 42708 : GleSYS AB <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 43205 : Vivacom Bulgaria EAD <IPs: 1>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 37>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 42>
       :  Country codes: 5 Reg Country Codes: 2
 45820 : Tata Teleservices ISP AS <IPs: 1>
       :  Country codes: 1
@@ -192,7 +196,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 221>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 223>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 834   : IPXO <IPs: 2>
@@ -212,4 +216,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1123, ASNs: 95, Countries: 39, Reg Countries: 18
+IPs: 1135, ASNs: 97, Countries: 39, Reg Countries: 18

@@ -49,7 +49,7 @@
 198610: Beget LLC <IPs: 1>
       :  Country codes: 1
 200019: Alexhost Srl <IPs: 2>
-      :  Country codes: 1
+      :  Country codes: 1 Reg Country Codes: 1
 202425: IP Volume inc <IPs: 5>
       :  [AKA: Al Spera, FiberXpress BV]
       :  Country codes: 2
@@ -61,14 +61,14 @@
       :  Country codes: 1 Reg Country Codes: 1
 208046: ColocationX Ltd. <IPs: 2>
       :  [AKA: ShadowShield Ltd]
-      :  Country codes: 1 Reg Country Codes: 1
+      :  Country codes: 1
 209043: IPRoyal Services FZE LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 20960 : TK Telekom sp. z o.o. <IPs: 1>
       :  Country codes: 1
-210644: Aeza International Ltd <IPs: 4>
-      :  Country codes: 3 Reg Country Codes: 4
-211298: Driftnet Ltd <IPs: 31>
+210644: Aeza International Ltd <IPs: 5>
+      :  Country codes: 4 Reg Country Codes: 4
+211298: Driftnet Ltd <IPs: 33>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
@@ -120,7 +120,7 @@
 398324: CENSYS-ARIN-01 <IPs: 112>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398705: CENSYS-ARIN-02 <IPs: 27>
+398705: CENSYS-ARIN-02 <IPs: 28>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398722: CENSYS-ARIN-03 <IPs: 32>
@@ -131,11 +131,7 @@
 400161: HAWAIIRESEARCH <IPs: 2>
       :  [AKA: Academy for Internet Research Limited Liability Company]
       :  Country codes: 1
-401115: EKABI <IPs: 2>
-      :  Country codes: 1
-401116: NYBULA <IPs: 1>
-      :  Country codes: 1
-4134  : Chinanet <IPs: 6>
+4134  : Chinanet <IPs: 7>
       :  Country codes: 1
 42132 : Digit One LLC <IPs: 1>
       :  Country codes: 1
@@ -166,7 +162,7 @@
 51167 : Contabo GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
 51396 : Pfcloud UG <IPs: 11>
-      :  Country codes: 1 Reg Country Codes: 3
+      :  Country codes: 2 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
@@ -207,13 +203,15 @@
 9009  : M247 Europe SRL <IPs: 76>
       :  [AKA: [VPN provider?]]
       :  Country codes: 12 Reg Country Codes: 2
+9123  : TimeWeb Ltd. <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
 9605  : NTT DOCOMO, INC. <IPs: 1>
       :  Country codes: 1
 9808  : China Mobile Communications Group Co., Ltd. <IPs: 4>
       :  [AKA: Shanghai UCloud Information Technology Company Limited]
       :  Country codes: 1
-None  : Unknown: No Data Given <IPs: 5>
+None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
-List of Registered Country Codes: AE BG DE EE GB HK IR KN NL NO PA RO RU SC SE SG US ZA
-IPs: 1135, ASNs: 97, Countries: 39, Reg Countries: 18
+List of Registered Country Codes: AE BG DE EE GB GR HK IR NL NO PA RO RU SC SE SG US ZA
+IPs: 1140, ASNs: 96, Countries: 39, Reg Countries: 18

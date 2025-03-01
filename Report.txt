@@ -38,8 +38,6 @@
       :  Country codes: 6 Reg Country Codes: 4
 17488 : Hathway IP Over Cable Internet <IPs: 1>
       :  Country codes: 1
-17561 : LARUS Limited <IPs: 1>
-      :  Country codes: 1 Reg Country Codes: 1
 17638 : ASN for TIANJIN Provincial Net of CT <IPs: 1>
       :  Country codes: 1
 18403 : FPT Telecom Company <IPs: 1>
@@ -88,7 +86,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 24961 : WIIT AG <IPs: 1>
       :  Country codes: 1
-264556: NETS TELECOMUNICACOES LTDA <IPs: 1>
+264556: GARCIA TELECOMUNICACOES LTDA <IPs: 1>
       :  Country codes: 1
 265091: AGS Antenas LTDA ME <IPs: 1>
       :  Country codes: 1
@@ -123,7 +121,7 @@
 398705: CENSYS-ARIN-02 <IPs: 28>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 32>
+398722: CENSYS-ARIN-03 <IPs: 33>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399979: AS-493NETWORKING <IPs: 1>
@@ -163,8 +161,8 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 11>
-      :  Country codes: 2 Reg Country Codes: 1
+51396 : Pfcloud UG <IPs: 12>
+      :  Country codes: 1 Reg Country Codes: 2
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
@@ -194,7 +192,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 227>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 228>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 834   : IPXO <IPs: 2>
@@ -209,8 +207,10 @@
       :  Country codes: 1 Reg Country Codes: 1
 9605  : NTT DOCOMO, INC. <IPs: 1>
       :  Country codes: 1
-None  : Unknown: No Data Given <IPs: 7>
+984   : OWS <IPs: 4>
+      :  Country codes: 1
+None  : Unknown: No Data Given <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB GR HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1150, ASNs: 96, Countries: 39, Reg Countries: 18
+IPs: 1152, ASNs: 96, Countries: 39, Reg Countries: 18

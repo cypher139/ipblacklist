@@ -66,7 +66,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 5>
       :  Country codes: 4 Reg Country Codes: 4
-211298: Driftnet Ltd <IPs: 36>
+211298: Driftnet Ltd <IPs: 37>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
@@ -118,7 +118,7 @@
 398324: CENSYS-ARIN-01 <IPs: 113>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398705: CENSYS-ARIN-02 <IPs: 28>
+398705: CENSYS-ARIN-02 <IPs: 29>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398722: CENSYS-ARIN-03 <IPs: 33>
@@ -192,7 +192,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 229>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 231>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 834   : IPXO <IPs: 2>
@@ -213,4 +213,4 @@ None  : Unknown: No Data Given <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
 List of Registered Country Codes: AE BG DE EE GB GR HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1155, ASNs: 96, Countries: 39, Reg Countries: 18
+IPs: 1159, ASNs: 96, Countries: 39, Reg Countries: 18

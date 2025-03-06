@@ -33,7 +33,7 @@
 16509 : AMAZON-02 <IPs: 149>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 2 Reg Country Codes: 1
-174   : COGENT-174 <IPs: 18>
+174   : COGENT-174 <IPs: 20>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 6 Reg Country Codes: 4
 17488 : Hathway IP Over Cable Internet <IPs: 1>
@@ -66,7 +66,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 5>
       :  Country codes: 4 Reg Country Codes: 4
-211298: Driftnet Ltd <IPs: 37>
+211298: Driftnet Ltd <IPs: 38>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 6>
@@ -74,6 +74,8 @@
 212238: Datacamp Limited <IPs: 12>
       :  Country codes: 3 Reg Country Codes: 2
 212317: Hetzner Online GmbH <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
+214834: Rekade International LTD <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 214943: Railnet LLC <IPs: 1>
       :  Country codes: 1
@@ -108,6 +110,8 @@
 36103 : CENTRALUTAH <IPs: 1>
       :  [AKA: Centracom Interactive]
       :  Country codes: 1
+36680 : NETIFACELLC <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
 39351 : 31173 Services AB <IPs: 101>
@@ -212,5 +216,5 @@
 None  : Unknown: No Data Given <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR US VN ZA
-List of Registered Country Codes: AE BG DE EE GB GR HK IR NL NO PA RO RU SC SE SG US ZA
-IPs: 1163, ASNs: 96, Countries: 39, Reg Countries: 18
+List of Registered Country Codes: AE BG DE EE GB GR HK IR LT NL NO PA RO RU SC SE SG US ZA
+IPs: 1168, ASNs: 98, Countries: 39, Reg Countries: 19

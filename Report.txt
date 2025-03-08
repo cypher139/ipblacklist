@@ -167,7 +167,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 12>
+51396 : Pfcloud UG <IPs: 13>
       :  Country codes: 1 Reg Country Codes: 2
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -189,6 +189,8 @@
       :  Country codes: 1
 60068 : Datacamp Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+60223 : Netiface Limited <IPs: 2>
+      :  Country codes: 1 Reg Country Codes: 1
 62425 : Mailbox Internet Hizmetleri Ltd. Sti. <IPs: 1>
       :  Country codes: 1
 63949 : Akamai Connected Cloud <IPs: 5>
@@ -198,7 +200,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 235>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 236>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 834   : IPXO <IPs: 2>
@@ -219,4 +221,4 @@ None  : Unknown: No Data Given <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT BE BG BR CA CH CL CN DE DK EC EG ES FI FR GB HK HU IE IN IT JP KR LU MY NL NO PL PT RU SC SE SG SK TH TR TW US VN ZA
 List of Registered Country Codes: AE BG DE EE GB GI GR HK IR LT NL NO PA RO RU SC SE SG US ZA
-IPs: 1174, ASNs: 99, Countries: 40, Reg Countries: 20
+IPs: 1178, ASNs: 100, Countries: 40, Reg Countries: 20

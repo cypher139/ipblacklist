@@ -1,0 +1,5 @@
+# Some IPs that are blacklisted from the server also used their Mojang Account UUIDs used in connection attempts.
+# recommend using a plugin to block these UUIDs from sucessfully connecting to server.
+Blacklist_UUIDs:
+  ad37bc56401c47b299c61080f2603c50: martusin
+  ebbdeeb35d9f40c0bbe0ff1e56170d72: ServerOverflow6

@@ -1,0 +1,22 @@
+# Some IPs that are blacklisted from the server also used their Mojang Account UUIDs used in connection attempts.
+# recommend using a plugin to block these UUIDs from sucessfully connecting to server.
+Blacklist_UUIDs:
+  9bc731b5-3727-4c6e-a645-d05cee470c8f: Chaosgurke46
+  5cb30a9c-744a-4a18-8756-7c1a97a5eb13: Hellsend17
+  6cbbd1a0-e18b-4965-843c-6e37da299f32: ItsMassiveWink
+  9050bce9-854f-4fc6-8e9c-17d687f98b5e: JohnPorkkkkkk
+  60c5abe1-f4b4-4b2b-855c-eeed1434914a: Kysggggg
+  2522b09d-ee19-49f6-9bfb-9efd4a3140c2: MegaMagikarp
+  94c3600e-d01a-4d72-8ee4-48bb25727d5a: Naiwd_Gmerr
+  04477669-cdbf-4f8c-8742-2e7ed05990fb: PriceZamm
+  ebbdeeb3-5d9f-40c0-bbe0-ff1e56170d72: ServerOverflow6
+  42644be8-5c39-4566-8e74-0874bdcb5eb0: Shadow_loll
+  19dd8525-e71a-443a-b7af-e78484006b34: ThaRealDx1
+  4f206d5b-82e2-4501-97f8-503cf075c2c5: Throw_it_or_not
+  aab8bba8-b1cb-4103-9734-0bede58753ef: Tightt
+  5212c15b-e5c4-44d0-b62e-8c30b8c45c81: TwitcherMicher
+  d845fa5d-532f-4e83-9b63-7565c927621d: Xbeamer242
+  6342ad61-c8ae-4949-8cc1-dbd9f0d36844: josh3231
+  ad37bc56-401c-47b2-99c6-1080f2603c50: martusin
+  6832e24c-e085-4c81-9444-9dfeb266e1be: notoofy
+  2940c4f7-f3c8-4838-a1d4-f19981af3950: nutties_nuts

@@ -9,13 +9,13 @@
       :  Country codes: 1
 12741 : Netia SA <IPs: 2>
       :  Country codes: 1
-12876 : Scaleway S.a.s. <IPs: 12>
+12876 : Scaleway S.a.s. <IPs: 13>
       :  Country codes: 1 Reg Country Codes: 1
 13213 : UK-2 Limited <IPs: 4>
       :  Country codes: 1
 132203: Tencent Building, Kejizhongyi Avenue <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 12>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 18>
       :  Country codes: 5 Reg Country Codes: 1
 136557: Host Universal Pty Ltd <IPs: 6>
       :  Country codes: 1
@@ -59,8 +59,8 @@
       :  Country codes: 1
 204457: Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd <IPs: 1>
       :  Country codes: 1
-20473 : AS-VULTR <IPs: 1>
-      :  Country codes: 1 Reg Country Codes: 1
+20473 : AS-VULTR <IPs: 2>
+      :  Country codes: 2 Reg Country Codes: 1
 207990: HostRoyale Technologies Pvt Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 208046: ColocationX Ltd. <IPs: 2>
@@ -83,7 +83,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
-214834: Rekade International LTD <IPs: 3>
+214834: Rekade International LTD <IPs: 4>
       :  Country codes: 1 Reg Country Codes: 1
 214943: Railnet LLC <IPs: 1>
       :  Country codes: 1
@@ -191,7 +191,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 8>
       :  Country codes: 1 Reg Country Codes: 1
-51852 : Private Layer INC <IPs: 7>
+51852 : Private Layer INC <IPs: 8>
       :  Country codes: 1 Reg Country Codes: 1
 5413  : Daisy Corporate Services Trading Ltd <IPs: 1>
       :  Country codes: 1
@@ -213,14 +213,14 @@
       :  Country codes: 1
 62425 : Mailbox Internet Hizmetleri Ltd. Sti. <IPs: 1>
       :  Country codes: 1
-63949 : Akamai Connected Cloud <IPs: 5>
+63949 : Akamai Connected Cloud <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 1
 6855  : Slovak Telekom, a.s. <IPs: 1>
       :  Country codes: 1
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 236>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 239>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -245,4 +245,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG DE EE GB GI GR HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1369, ASNs: 112, Countries: 48, Reg Countries: 22
+IPs: 1383, ASNs: 112, Countries: 48, Reg Countries: 22

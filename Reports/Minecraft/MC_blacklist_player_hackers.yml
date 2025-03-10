@@ -1,5 +1,5 @@
 #These IPs were observed using hacked clients or otherwise trying to screw with server. 
-#Recommend blockt hese IPs at the firewall level.
+#Recommend to block these IPs at the firewall level.
 Hacker_Players_IP:
   # 45.95.147.247 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.Exception: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
   - 45.95.147.247

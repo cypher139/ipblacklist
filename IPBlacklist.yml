@@ -131,9 +131,9 @@ Obnoxious:
     i: PFCloud
     p: 59
   156.253.227.129:
-    f: 3-15m
+    f: 10m
     i: Rekade International
-    p: 40
+    p: 89
 #
 Spam_Player_Names:
 # Player names, if an actual connection via Mojang auth was tried, are listed here.
@@ -141,11 +141,17 @@ Spam_Player_Names:
   Bunger: 
     - 3.77.238.21
     - 3.73.52.141
-  # Cornbread21xxxx (replace x with randomized numbers)" 
+  # Cornbread21xxxx (replace x with randomized numbers) ping:30m
+  # Cornbread numbers seen: 210010,210016,210021,210022,210024,210028,210029,210030,210032,210036,210040,210044,210046,210047,21005,210065,210070,210076,210079,21008,210081,210096
   Cornbread21xxxx: 154.213.185.46
-  # advertised pfcloud and other unwanted spam before immediately disconnecting
-  martusin: 94.103.124.169
+  ItsMassiveWink: 94.103.124.169
+  JohnPorkkkkkk: 94.103.124.169
   JustAScanner: 156.253.227.141
+  kinho_fsc: 170.233.250.30
+  # martusin connected, advertised pfcloud and other unwanted spam before immediately disconnecting. Same IP also tried logging in with other usernames:
+  martusin: 94.103.124.169
+  NotABot: 195.226.194.14
+  Notch: 131.156.156.12
   Schesser: 193.35.18.165
   # Server Seeker and variants: Once discovered keeps checking every 5-15m via 1 second connection through mojang auth, causing "com.mojang.authlib.GameProfile....lost connection: Disconnected" console spam
   ServerSeeker: 
@@ -200,11 +206,15 @@ Spam_Player_Names:
   # UUID of player ServerOverflow6 is ebbdeeb3-5d9f-40c0-bbe0-ff1e56170d72
   ServerOverflow6: 94.131.100.102
   ServerOverflow:
+    - 91.92.43.1
     - 132.145.71.44
     - 176.124.204.168
+  Shadow_loll: 94.103.124.169
   Shepan: 149.102.143.151
+  test: 209.38.102.131
   ThisIsARobbery: 193.35.18.92
   # Logs on and immediately disconnects once a day with different user each time
+  # Users: Chaosgurke46, Hellsend17, Kysggggg, MegaMagikarp, Naiwd_Gmerr, PriceZamm, ThaRealDx1, Tightt, josh3231, martusin, notoofy, nutties_nuts
   Various: 84.54.51.253
   # Sent bad login packets
   Various_Bad: 45.95.147.247
@@ -349,6 +359,7 @@ IP_Blacklist:
 - 163.172.173.107
 - 195.154.199.60
 - 195.154.84.90
+- 51.15.2.150
 - 51.15.34.47
 - 51.15.58.25
 - 51.158.167.216
@@ -365,17 +376,23 @@ IP_Blacklist:
 - 43.157.63.14
 # (135377) UCLOUD INFORMATION TECHNOLOGY HK LIMITED
 - 101.36.108.134
+- 101.36.127.85
 - 118.193.47.212
 - 118.194.250.232
 - 118.194.251.128
+- 152.32.128.85
 - 152.32.150.7
 - 152.32.164.115
+- 152.32.169.36
 - 152.32.183.240
 - 152.32.207.179
+- 152.32.216.168
+- 165.154.118.9
 - 165.154.119.27
 - 165.154.129.43
 - 165.154.135.215
 - 165.154.182.154
+- 165.154.182.182
 # (136557) Host Universal Pty Ltd
 - 103.108.229.56
 - 103.108.229.76
@@ -620,6 +637,7 @@ IP_Blacklist:
 # (204457) Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd
 - 94.103.124.169
 # (20473) AS-VULTR
+- 70.34.205.243
 - 95.179.210.230
 # (207990) HostRoyale Technologies Pvt Ltd
 - 185.141.119.155
@@ -753,6 +771,7 @@ IP_Blacklist:
 # (214834) Rekade International LTD
 - 156.253.227.129
 - 156.253.227.141
+- 156.253.227.23
 - 156.253.227.246
 # (214943) Railnet LLC
 - 66.63.187.97
@@ -1341,6 +1360,7 @@ IP_Blacklist:
 - 46.19.140.218
 - 81.17.16.76
 - 81.17.16.84
+- 81.17.16.87
 - 81.17.16.90
 # (5413) Daisy Corporate Services Trading Ltd
 - 195.224.225.242
@@ -1368,6 +1388,7 @@ IP_Blacklist:
 - 77.90.47.187
 # (63949) Akamai Connected Cloud
 - 139.144.52.241
+- 172.104.4.17
 - 172.105.207.193
 - 172.233.11.88
 - 2a01:7e01:0:0:f03c:92ff:fea9:a7d3
@@ -1473,6 +1494,7 @@ IP_Blacklist:
 - 172.202.246.89
 - 172.203.233.227
 - 172.206.138.225
+- 172.206.138.255
 - 172.206.141.109
 - 172.206.141.237
 - 172.206.142.100
@@ -1502,6 +1524,7 @@ IP_Blacklist:
 - 20.118.69.90
 - 20.118.69.96
 - 20.163.15.172
+- 20.171.28.232
 - 20.192.21.51
 - 20.225.1.106
 - 20.225.3.171
@@ -1510,6 +1533,7 @@ IP_Blacklist:
 - 20.29.36.54
 - 20.65.192.171
 - 20.65.193.225
+- 20.65.194.120
 - 20.65.194.56
 - 4.151.226.185
 - 4.151.228.179
@@ -1810,10 +1834,10 @@ Discovered_ASNs:
   '12322': 1
   '12586': 0
   '12741': 2
-  '12876': 12
+  '12876': 13
   '13213': 4
   '132203': 1
-  '135377': 12
+  '135377': 18
   '136557': 6
   '140061': 1
   '14061': 7
@@ -1834,7 +1858,7 @@ Discovered_ASNs:
   '203020': 3
   '204035': 1
   '204457': 1
-  '20473': 1
+  '20473': 2
   '207990': 1
   '208046': 2
   '209043': 1
@@ -1845,7 +1869,7 @@ Discovered_ASNs:
   '212238': 63
   '212317': 1
   '213277': 1
-  '214834': 3
+  '214834': 4
   '214943': 1
   '215292': 1
   '21859': 8
@@ -1898,7 +1922,7 @@ Discovered_ASNs:
   '51396': 13
   '51430': 1
   '51765': 8
-  '51852': 7
+  '51852': 8
   '5413': 1
   '56655': 1
   '57043': 1
@@ -1908,10 +1932,10 @@ Discovered_ASNs:
   '60223': 2
   '6233': 3
   '62425': 1
-  '63949': 5
+  '63949': 6
   '6855': 1
   '701': 2
-  '8075': 236
+  '8075': 239
   '8100': 4
   '834': 2
   '8560': 2

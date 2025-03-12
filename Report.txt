@@ -70,8 +70,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 20960 : TK Telekom sp. z o.o. <IPs: 1>
       :  Country codes: 1
-210644: Aeza International Ltd <IPs: 6>
-      :  Country codes: 4 Reg Country Codes: 5
+210644: Aeza International Ltd <IPs: 7>
+      :  Country codes: 5 Reg Country Codes: 6
 211298: Driftnet Ltd <IPs: 38>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
@@ -220,7 +220,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 240>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 241>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -244,5 +244,5 @@
 None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
-List of Registered Country Codes: AE BG DE EE GB GI GR HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1388, ASNs: 112, Countries: 48, Reg Countries: 22
+List of Registered Country Codes: AE BG CH DE EE GB GI GR HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
+IPs: 1390, ASNs: 112, Countries: 48, Reg Countries: 23

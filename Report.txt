@@ -3,7 +3,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 25>
+11878 : TZULO <IPs: 26>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
       :  Country codes: 1
@@ -110,7 +110,7 @@
       :  Country codes: 1
 31898 : ORACLE-BMC-31898 <IPs: 4>
       :  Country codes: 3 Reg Country Codes: 1
-32002 : SNAKECRAFT-HOSTING-LLC <IPs: 6>
+32002 : SNAKECRAFT-HOSTING-LLC <IPs: 7>
       :  Country codes: 1 Reg Country Codes: 1
 3215  : Orange <IPs: 2>
       :  [AKA: Orange S. A.]
@@ -126,7 +126,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 101>
+39351 : 31173 Services AB <IPs: 102>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 1>
       :  Country codes: 1
@@ -222,7 +222,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 243>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 244>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -232,7 +232,7 @@
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 138>
+9009  : M247 Europe SRL <IPs: 139>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : TimeWeb Ltd. <IPs: 1>
@@ -247,4 +247,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CH DE EE GB GI GR HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1401, ASNs: 113, Countries: 48, Reg Countries: 23
+IPs: 1406, ASNs: 113, Countries: 48, Reg Countries: 23

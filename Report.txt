@@ -76,7 +76,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 6
-211298: Driftnet Ltd <IPs: 38>
+211298: Driftnet Ltd <IPs: 41>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 7>
@@ -126,11 +126,11 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 107>
+39351 : 31173 Services AB <IPs: 109>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 81>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 82>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 115>
@@ -139,7 +139,7 @@
 398705: CENSYS-ARIN-02 <IPs: 29>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 34>
+398722: CENSYS-ARIN-03 <IPs: 35>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399979: AS-493NETWORKING <IPs: 1>
@@ -232,7 +232,7 @@
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 143>
+9009  : M247 Europe SRL <IPs: 144>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : TimeWeb Ltd. <IPs: 1>
@@ -247,4 +247,4 @@ None  : Unknown: No Data Given <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CH DE EE GB GI GR HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1434, ASNs: 113, Countries: 48, Reg Countries: 23
+IPs: 1442, ASNs: 113, Countries: 48, Reg Countries: 23

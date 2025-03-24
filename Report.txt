@@ -28,7 +28,7 @@
       :  Country codes: 5 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
       :  Country codes: 1
-14593 : SPACEX-STARLINK <IPs: 7>
+14593 : SPACEX-STARLINK <IPs: 8>
       :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
       :  Country codes: 1
@@ -76,7 +76,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 6
-211298: Driftnet Ltd <IPs: 43>
+211298: Driftnet Ltd <IPs: 45>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 8>
@@ -135,7 +135,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 83>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 117>
+398324: CENSYS-ARIN-01 <IPs: 118>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 29>
@@ -251,4 +251,4 @@ None  : Unknown: No Data Given <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
 List of Country Codes: AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1462, ASNs: 115, Countries: 49, Reg Countries: 22
+IPs: 1466, ASNs: 115, Countries: 49, Reg Countries: 22

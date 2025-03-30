@@ -1,8 +1,9 @@
 #These IPs were observed using hacked clients or otherwise trying to screw with server. 
 #Recommend to block these IPs at the firewall level.
 Hacker_Players_IP:
-  # 45.95.147.247 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.Exception: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
+  # Internal Exception: io.netty.handler.codec.DecoderException: java.io.Exception: Packet 2/0 (PacketLoginInStart) was larger than I expected, found 1 bytes extra whilst reading packet 0
   - 45.95.147.247
-  # /156.253.227.129:33944 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(20) + length(8) exceeds writerIndex(27): PooledUnsafeDirectByteBuf(ridx: 20, widx: 27, cap: 27)
+  - 151.115.75.240
+  # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(20) + length(8) exceeds writerIndex(27): PooledUnsafeDirectByteBuf(ridx: 20, widx: 27, cap: 27)
   # [[research: bad NBT tags / hacked client spawn in bad items]]
   - 156.253.227.129 

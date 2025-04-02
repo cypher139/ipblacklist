@@ -3,7 +3,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 30>
+11878 : TZULO <IPs: 31>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
       :  Country codes: 1
@@ -23,7 +23,7 @@
       :  Country codes: 1
 140061: Qinghai Telecom <IPs: 1>
       :  Country codes: 1
-14061 : DIGITALOCEAN-ASN <IPs: 7>
+14061 : DIGITALOCEAN-ASN <IPs: 8>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 5 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
@@ -256,4 +256,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1510, ASNs: 117, Countries: 50, Reg Countries: 23
+IPs: 1512, ASNs: 117, Countries: 50, Reg Countries: 23

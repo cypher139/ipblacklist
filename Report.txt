@@ -3,7 +3,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 32>
+11878 : TZULO <IPs: 33>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
       :  Country codes: 1
@@ -81,7 +81,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 8>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 70>
+212238: Datacamp Limited <IPs: 71>
       :  Country codes: 16 Reg Country Codes: 3
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -215,8 +215,8 @@
       :  Country codes: 1
 60068 : Datacamp Limited <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
-60223 : Netiface Limited <IPs: 11>
-      :  Country codes: 2 Reg Country Codes: 1
+60223 : Netiface Limited <IPs: 12>
+      :  Country codes: 3 Reg Country Codes: 2
 6233  : XTOM <IPs: 3>
       :  Country codes: 1
 63949 : Akamai Connected Cloud <IPs: 6>
@@ -226,7 +226,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 270>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 271>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -234,7 +234,7 @@
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 154>
+9009  : M247 Europe SRL <IPs: 155>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : TimeWeb Ltd. <IPs: 1>
@@ -252,4 +252,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1529, ASNs: 115, Countries: 50, Reg Countries: 23
+IPs: 1534, ASNs: 115, Countries: 50, Reg Countries: 23

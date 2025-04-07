@@ -6,7 +6,7 @@
 112.171.19.96:
   f: 30m
   i: Korea Telecom
-  p: 20
+  p: 27
 131.156.156.126:
   f: 3m
   i: Northern Illinois University
@@ -85,6 +85,10 @@
 195.226.194.14:
   f: 20-30m
   i: Snowd Security Ou
+23.176.184.152:
+  f: 33m
+  i: Netiface Limited
+  p: 34
 37.46.113.164:
   f: 50m
   i: AltusHost B.V.

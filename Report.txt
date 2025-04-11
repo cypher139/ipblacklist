@@ -191,7 +191,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 5089  : Virgin Media <IPs: 1>
       :  Country codes: 1
-51167 : Contabo GmbH <IPs: 6>
+51167 : Contabo GmbH <IPs: 7>
       :  Country codes: 2 Reg Country Codes: 2
 51396 : Pfcloud UG <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
@@ -226,7 +226,7 @@
 701   : UUNET <IPs: 2>
       :  [AKA: Verizon Business]
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 278>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 279>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -252,4 +252,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MX MY NL NO PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1549, ASNs: 115, Countries: 50, Reg Countries: 23
+IPs: 1551, ASNs: 115, Countries: 50, Reg Countries: 23

@@ -7,3 +7,5 @@ Hacker_Players_IP:
   # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(20) + length(8) exceeds writerIndex(27): PooledUnsafeDirectByteBuf(ridx: 20, widx: 27, cap: 27)
   # [[research: bad NBT tags / hacked client spawn in bad items]]
   - 156.253.227.129 
+  # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(16) + length(8) exceeds writerIndex(23): PooledUnsafeDirectByteBuf(ridx: 16, widx: 23, cap: 23)
+  - 104.28.196.199

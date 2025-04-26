@@ -1,4 +1,4 @@
-10439 : CARINET <IPs: 6>
+10439 : CARINET <IPs: 7>
       :  Country codes: 1
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
@@ -163,7 +163,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 401116: NYBULA <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-4134  : Chinanet <IPs: 8>
+4134  : Chinanet <IPs: 9>
       :  Country codes: 1
 42132 : Digit One LLC <IPs: 1>
       :  Country codes: 1
@@ -205,7 +205,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 8>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 5>
+51396 : Pfcloud UG <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -240,7 +240,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 296>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 298>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -268,4 +268,4 @@ None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1604, ASNs: 123, Countries: 52, Reg Countries: 23
+IPs: 1609, ASNs: 123, Countries: 52, Reg Countries: 23

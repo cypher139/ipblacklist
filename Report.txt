@@ -122,7 +122,7 @@
       :  Country codes: 1
 31898 : ORACLE-BMC-31898 <IPs: 4>
       :  Country codes: 3 Reg Country Codes: 1
-32002 : RACKGENI <IPs: 8>
+32002 : RACKGENI <IPs: 9>
       :  Country codes: 1 Reg Country Codes: 1
 3215  : Orange <IPs: 2>
       :  [AKA: Orange S. A.]
@@ -144,7 +144,7 @@
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 99>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 100>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 126>
@@ -242,7 +242,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 307>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 308>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -270,4 +270,4 @@ None  : Unknown: No Data Given <IPs: 5>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1629, ASNs: 124, Countries: 52, Reg Countries: 23
+IPs: 1632, ASNs: 124, Countries: 52, Reg Countries: 23

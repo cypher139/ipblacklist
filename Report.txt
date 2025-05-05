@@ -19,7 +19,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 13335 : CLOUDFLARENET <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 18>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 19>
       :  Country codes: 5 Reg Country Codes: 1
 136197: Xiongan, Hebei Province, P.R.China. <IPs: 1>
       :  Country codes: 1
@@ -93,13 +93,11 @@
       :  Country codes: 1 Reg Country Codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
-213511: VSVK Onderhoud B.V. <IPs: 1>
-      :  Country codes: 1
 213887: WAIcore Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 214556: Vexura UG (Haftungsbeschraenkt) <IPs: 1>
       :  Country codes: 1
-214943: Railnet LLC <IPs: 6>
+214943: Railnet LLC <IPs: 2>
       :  Country codes: 2
 215292: Gravhosting LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -180,7 +178,7 @@
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
 44477 : Stark Industries Solutions Ltd <IPs: 2>
-      :  Country codes: 1 Reg Country Codes: 1
+      :  Country codes: 1 Reg Country Codes: 2
 44592 : SkyLink Data Center BV <IPs: 1>
       :  Country codes: 1
 45102 : Alibaba US Technology Co., Ltd. <IPs: 46>
@@ -191,6 +189,8 @@
       :  Country codes: 1
 48014 : Albanian Hosting SH.P.K. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+4808  : China Unicom Beijing Province Network <IPs: 4>
+      :  Country codes: 1
 4812  : China Telecom Group <IPs: 1>
       :  Country codes: 1
 48753 : Ava Host Srl <IPs: 1>
@@ -242,7 +242,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 308>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 311>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -261,13 +261,10 @@
       :  Country codes: 1
 9605  : NTT DOCOMO, INC. <IPs: 1>
       :  Country codes: 1
-9808  : China Mobile Communications Group Co., Ltd. <IPs: 4>
-      :  [AKA: Shanghai UCloud Information Technology Company Limited]
-      :  Country codes: 1
 984   : OWS <IPs: 14>
       :  Country codes: 2 Reg Country Codes: 1
-None  : Unknown: No Data Given <IPs: 5>
+None  : Unknown: No Data Given <IPs: 10>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
-List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1632, ASNs: 124, Countries: 52, Reg Countries: 23
+List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
+IPs: 1636, ASNs: 123, Countries: 52, Reg Countries: 24

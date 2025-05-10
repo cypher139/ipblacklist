@@ -145,7 +145,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 102>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 127>
+398324: CENSYS-ARIN-01 <IPs: 128>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 30>
@@ -242,7 +242,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 318>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 319>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 2 Reg Country Codes: 3
 8100  : ASN-QUADRANET-GLOBAL <IPs: 4>
@@ -267,4 +267,4 @@ None  : Unknown: No Data Given <IPs: 10>
       :  Country codes: 1
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1649, ASNs: 123, Countries: 52, Reg Countries: 24
+IPs: 1651, ASNs: 123, Countries: 52, Reg Countries: 24

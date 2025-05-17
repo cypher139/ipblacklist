@@ -9,3 +9,5 @@ Hacker_Players_IP:
   - 156.253.227.129 
   # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(16) + length(8) exceeds writerIndex(23): PooledUnsafeDirectByteBuf(ridx: 16, widx: 23, cap: 23)
   - 104.28.196.199
+  # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+  - 156.146.63.209

@@ -97,6 +97,8 @@
       :  Country codes: 1
 213887: WAIcore Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+214640: Hostup AB <IPs: 1>
+      :  Country codes: 1
 214943: Railnet LLC <IPs: 3>
       :  Country codes: 2
 215292: Gravhosting LLC <IPs: 1>
@@ -246,7 +248,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 330>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 331>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -269,4 +271,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1675, ASNs: 124, Countries: 53, Reg Countries: 24
+IPs: 1677, ASNs: 125, Countries: 53, Reg Countries: 24

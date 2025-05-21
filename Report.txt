@@ -145,11 +145,11 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 116>
+39351 : 31173 Services AB <IPs: 117>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 103>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 104>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 131>
@@ -257,7 +257,7 @@
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 159>
+9009  : M247 Europe SRL <IPs: 161>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : TimeWeb LLC <IPs: 1>
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1683, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1687, ASNs: 127, Countries: 53, Reg Countries: 24

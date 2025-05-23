@@ -86,9 +86,9 @@
 211298: Driftnet Ltd <IPs: 54>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
-211680: Sistemas Informaticos, S.A. <IPs: 11>
+211680: Sistemas Informaticos, S.A. <IPs: 12>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 74>
+212238: Datacamp Limited <IPs: 75>
       :  Country codes: 17 Reg Country Codes: 3
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -251,7 +251,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 334>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 336>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1693, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1697, ASNs: 127, Countries: 53, Reg Countries: 24

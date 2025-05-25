@@ -43,7 +43,7 @@
 16509 : AMAZON-02 <IPs: 150>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 3 Reg Country Codes: 1
-174   : COGENT-174 <IPs: 23>
+174   : COGENT-174 <IPs: 24>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 7 Reg Country Codes: 5
 17488 : Hathway IP Over Cable Internet <IPs: 1>
@@ -83,7 +83,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 6
-211298: Driftnet Ltd <IPs: 56>
+211298: Driftnet Ltd <IPs: 57>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 2 Reg Country Codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 12>
@@ -149,7 +149,7 @@
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 104>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 105>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 131>
@@ -214,7 +214,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 9>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 8>
+51396 : Pfcloud UG <IPs: 10>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -251,7 +251,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 337>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 338>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1701, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1707, ASNs: 127, Countries: 53, Reg Countries: 24

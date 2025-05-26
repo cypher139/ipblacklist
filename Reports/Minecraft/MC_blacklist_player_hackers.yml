@@ -11,3 +11,7 @@ Hacker_Players_IP:
   - 104.28.196.199
   # Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
   - 156.146.63.209
+  # Internal Exception: io.netty.handler.codec.DecoderException: com.viaversion.viaversion.exception.InformativeException: Please report this on the Via support Discord or open an issue on the relevant GitHub repository
+  # Packet Type: null, Client Protocol: 1.21.5, Server Protocol: 1.19.4, Index: 1, Type: StringType, Data: [], Packet ID: 0, Source 0: com.viaversion.viaversion.protocols.v1_20to1_20_2.Protocol1_20To1_20_2$$Lambda$5617/0x0000000801c94cf8
+  # <note: ASN 174 - spammer>
+  - 191.101.31.23

@@ -21,20 +21,20 @@
       :  Country codes: 1 Reg Country Codes: 1
 13335 : CLOUDFLARENET <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 19>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 20>
       :  Country codes: 5 Reg Country Codes: 1
 136197: Xiongan, Hebei Province, P.R.China. <IPs: 1>
       :  Country codes: 1
 136557: Host Universal Pty Ltd <IPs: 6>
       :  Country codes: 1
-140061: Qinghai Telecom <IPs: 1>
+140061: Qinghai Telecom <IPs: 2>
       :  Country codes: 1
 14061 : DIGITALOCEAN-ASN <IPs: 8>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 5 Reg Country Codes: 1
 142403: YISU CLOUD LTD <IPs: 1>
       :  Country codes: 1
-14593 : SPACEX-STARLINK <IPs: 9>
+14593 : SPACEX-STARLINK <IPs: 10>
       :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
       :  Country codes: 1
@@ -214,7 +214,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 9>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 10>
+51396 : Pfcloud UG <IPs: 11>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -251,13 +251,13 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 338>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 339>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 162>
+9009  : M247 Europe SRL <IPs: 163>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : TimeWeb LLC <IPs: 1>
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1707, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1713, ASNs: 127, Countries: 53, Reg Countries: 24

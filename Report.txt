@@ -60,8 +60,6 @@
       :  Country codes: 2 Reg Country Codes: 1
 20115 : CHARTER-20115 <IPs: 2>
       :  Country codes: 1
-201409: Hostshield Ltd <IPs: 2>
-      :  Country codes: 1
 201814: MEVSPACE sp. z o.o. <IPs: 1>
       :  Country codes: 1
 202425: IP Volume inc <IPs: 6>
@@ -79,13 +77,15 @@
       :  Country codes: 1 Reg Country Codes: 1
 209043: IPRoyal Services FZE LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+209101: IPVENDETTAINC <IPs: 2>
+      :  Country codes: 1
 20960 : TK Telekom sp. z o.o. <IPs: 1>
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 6
 211298: Driftnet Ltd <IPs: 57>
       :  [AKA: Constantine Cybersecurity Ltd.]
-      :  Country codes: 2 Reg Country Codes: 1
+      :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 12>
       :  Country codes: 1
 212238: Datacamp Limited <IPs: 75>
@@ -152,7 +152,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 105>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 131>
+398324: CENSYS-ARIN-01 <IPs: 132>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 30>
@@ -251,7 +251,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 339>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 342>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -268,10 +268,10 @@
       :  Country codes: 1
 9605  : NTT DOCOMO, INC. <IPs: 1>
       :  Country codes: 1
-984   : OWS <IPs: 4>
+984   : OWS-NETWORK <IPs: 4>
       :  Country codes: 1 Reg Country Codes: 1
 None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1713, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1717, ASNs: 127, Countries: 53, Reg Countries: 24

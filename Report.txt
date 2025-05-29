@@ -149,10 +149,10 @@
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 105>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 106>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 132>
+398324: CENSYS-ARIN-01 <IPs: 133>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 30>
@@ -212,7 +212,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 5089  : Virgin Media <IPs: 1>
       :  Country codes: 1
-51167 : Contabo GmbH <IPs: 9>
+51167 : Contabo GmbH <IPs: 11>
       :  Country codes: 2 Reg Country Codes: 2
 51396 : Pfcloud UG <IPs: 11>
       :  Country codes: 1 Reg Country Codes: 1
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1723, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1727, ASNs: 127, Countries: 53, Reg Countries: 24

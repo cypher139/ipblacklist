@@ -158,7 +158,7 @@
 398705: CENSYS-ARIN-02 <IPs: 30>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 40>
+398722: CENSYS-ARIN-03 <IPs: 41>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399979: AS-493NETWORKING <IPs: 1>
@@ -251,7 +251,7 @@
       :  Country codes: 1
 7765  : KOUMBIT <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 343>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 345>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -274,4 +274,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1727, ASNs: 127, Countries: 53, Reg Countries: 24
+IPs: 1730, ASNs: 127, Countries: 53, Reg Countries: 24

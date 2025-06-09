@@ -94,6 +94,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
+213619: Tinux-IT <IPs: 1>
+      :  Country codes: 1
 213887: WAIcore Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 214640: Hostup AB <IPs: 1>
@@ -154,7 +156,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 109>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 134>
+398324: CENSYS-ARIN-01 <IPs: 135>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 30>
@@ -244,7 +246,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 60223 : Netiface Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-6233  : XTOM <IPs: 3>
+6233  : XTOM <IPs: 4>
       :  Country codes: 1
 63949 : Akamai Connected Cloud <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 1
@@ -257,7 +259,7 @@
       :  Country codes: 1
 7922  : COMCAST-7922 <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 355>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 356>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -280,4 +282,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1755, ASNs: 130, Countries: 53, Reg Countries: 24
+IPs: 1759, ASNs: 131, Countries: 53, Reg Countries: 24

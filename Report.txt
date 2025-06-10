@@ -109,7 +109,7 @@
       :  Country codes: 3 Reg Country Codes: 1
 23959 : Owl Limited <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
-24940 : Hetzner Online GmbH <IPs: 3>
+24940 : Hetzner Online GmbH <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
 24961 : WIIT AG <IPs: 1>
       :  Country codes: 1
@@ -192,7 +192,7 @@
       :  Country codes: 1 Reg Country Codes: 2
 44592 : SkyLink Data Center BV <IPs: 1>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 48>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 49>
       :  Country codes: 5 Reg Country Codes: 2
 45820 : Tata Teleservices ISP AS <IPs: 1>
       :  Country codes: 1
@@ -259,7 +259,7 @@
       :  Country codes: 1
 7922  : COMCAST-7922 <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 356>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 357>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -282,4 +282,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1759, ASNs: 131, Countries: 53, Reg Countries: 24
+IPs: 1762, ASNs: 131, Countries: 53, Reg Countries: 24

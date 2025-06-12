@@ -3,7 +3,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 37>
+11878 : TZULO <IPs: 39>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
       :  Country codes: 1
@@ -38,8 +38,8 @@
       :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
       :  Country codes: 1
-16276 : OVH SAS <IPs: 16>
-      :  Country codes: 3
+16276 : OVH SAS <IPs: 17>
+      :  Country codes: 4
 16509 : AMAZON-02 <IPs: 150>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 3 Reg Country Codes: 1
@@ -90,8 +90,8 @@
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 12>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 80>
-      :  Country codes: 17 Reg Country Codes: 3
+212238: Datacamp Limited <IPs: 86>
+      :  Country codes: 18 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
@@ -125,6 +125,8 @@
       :  Country codes: 1
 27951 : Media Commerce Partners S.A <IPs: 1>
       :  Country codes: 1
+2914  : NTT-DATA-2914 <IPs: 4>
+      :  Country codes: 1
 31898 : ORACLE-BMC-31898 <IPs: 5>
       :  Country codes: 3 Reg Country Codes: 2
 32002 : RACKGENI <IPs: 9>
@@ -140,8 +142,6 @@
       :  Country codes: 1
 34989 : ServeTheWorld AS <IPs: 1>
       :  Country codes: 1
-35916 : MULTA-ASN1 <IPs: 6>
-      :  Country codes: 1 Reg Country Codes: 1
 36103 : CENTRALUTAH <IPs: 1>
       :  [AKA: Centracom Interactive]
       :  Country codes: 1
@@ -151,7 +151,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 118>
+39351 : 31173 Services AB <IPs: 122>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
@@ -246,8 +246,8 @@
       :  Country codes: 1
 60068 : Datacamp Limited <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
-60223 : Netiface Limited <IPs: 1>
-      :  Country codes: 1 Reg Country Codes: 1
+60223 : Netiface Limited <IPs: 7>
+      :  Country codes: 2 Reg Country Codes: 2
 6233  : XTOM <IPs: 4>
       :  Country codes: 1
 63949 : Akamai Connected Cloud <IPs: 7>
@@ -261,13 +261,13 @@
       :  Country codes: 1
 7922  : COMCAST-7922 <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 358>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 360>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 168>
+9009  : M247 Europe SRL <IPs: 167>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : Jsc timeweb <IPs: 1>
@@ -284,4 +284,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1772, ASNs: 132, Countries: 53, Reg Countries: 25
+IPs: 1790, ASNs: 132, Countries: 53, Reg Countries: 25

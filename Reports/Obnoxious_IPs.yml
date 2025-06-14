@@ -23,6 +23,10 @@
   f: 25m
   i: Oracle Public Cloud
   p: 23
+146.70.141.200:
+  f: 10m
+  i: M247 Europe SRL
+  p: 17
 146.70.22.200:
   f: 11m
   i: M247 Europe SRL
@@ -66,10 +70,18 @@
   f: 11m
   i: Contabo GmbH
   p: 147
+179.43.189.70:
+  f: 5m
+  i: Private Layer Inc
+  p: 47
 185.213.155.202:
   f: 11m
   i: 31173 Services AB
   p: 32
+185.65.135.176:
+  f: 4m
+  i: 31173 Services AB
+  p: 15
 188.126.94.91:
   f: 30m
   i: GleSYS AB
@@ -82,6 +94,10 @@
   f: 4m
   i: Cyber Assets Fzco
   p: 344
+193.138.218.200:
+  f: 11m
+  i: 31173 Services AB
+  p: 28
 193.138.7.140:
   f: 10m
   i: Blix Solutions AS
@@ -90,6 +106,10 @@
   f: 6m
   i: Gravhosting Ltd
   p: 103
+194.114.136.69:
+  f: 5m
+  i: Owl Limited
+  p: 13
 195.154.199.60:
   f: 1-4m
   i: Scaleway
@@ -155,7 +175,7 @@
 86.106.2.222:
   f: 3m
   i: procono s.a.
-  p: 21
+  p: 51
 87.120.112.234:
   f: 10m
   i: Ekabi LLC

@@ -74,6 +74,10 @@
   f: 5m
   i: Private Layer Inc
   p: 47
+185.195.232.132:
+  f: 6m
+  i: 31173 Services AB
+  p: 34
 185.213.155.202:
   f: 11m
   i: 31173 Services AB
@@ -102,10 +106,18 @@
   f: 10m
   i: Blix Solutions AS
   p: 26
+193.138.7.200:
+  f: 6m
+  i: Blix Solutions AS
+  p: 91
 193.25.217.28:
   f: 6m
   i: Gravhosting Ltd
   p: 103
+194.114.136.38:
+  f: 5m
+  i: Owl Limited
+  p: 21
 194.114.136.69:
   f: 5m
   i: Owl Limited
@@ -129,6 +141,10 @@
   f: 50m
   i: AltusHost B.V.
   p: 25
+45.134.213.209:
+  f: 5m
+  i: Datacamp Limited
+  p: 68
 45.135.194.8:
   f: 4m
   i: PFCloud

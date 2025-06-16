@@ -5,7 +5,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 45>
+11878 : TZULO <IPs: 47>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 1>
       :  Country codes: 1
@@ -92,7 +92,7 @@
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 12>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 92>
+212238: Datacamp Limited <IPs: 93>
       :  Country codes: 19 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -157,14 +157,14 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 131>
+39351 : 31173 Services AB <IPs: 134>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 111>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
-398324: CENSYS-ARIN-01 <IPs: 138>
+398324: CENSYS-ARIN-01 <IPs: 139>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 30>
@@ -192,7 +192,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 43205 : Vivacom Bulgaria EAD <IPs: 1>
       :  Country codes: 1
-43357 : Owl Limited <IPs: 24>
+43357 : Owl Limited <IPs: 25>
       :  Country codes: 4 Reg Country Codes: 1
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
@@ -271,13 +271,13 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 364>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 365>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 176>
+9009  : M247 Europe SRL <IPs: 178>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : Jsc timeweb <IPs: 1>
@@ -294,4 +294,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1850, ASNs: 137, Countries: 54, Reg Countries: 25
+IPs: 1861, ASNs: 137, Countries: 54, Reg Countries: 25

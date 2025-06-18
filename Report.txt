@@ -27,7 +27,7 @@
       :  Country codes: 5 Reg Country Codes: 1
 136197: Xiongan, Hebei Province, P.R.China. <IPs: 1>
       :  Country codes: 1
-136557: Host Universal Pty Ltd <IPs: 6>
+136557: Host Universal Pty Ltd <IPs: 7>
       :  Country codes: 1
 140061: Qinghai Telecom <IPs: 2>
       :  Country codes: 1
@@ -58,8 +58,8 @@
       :  Country codes: 2
 198610: Beget LLC <IPs: 1>
       :  Country codes: 1
-200019: Alexhost Srl <IPs: 4>
-      :  Country codes: 2 Reg Country Codes: 2
+200019: Alexhost Srl <IPs: 5>
+      :  Country codes: 3 Reg Country Codes: 3
 20115 : CHARTER-20115 <IPs: 2>
       :  Country codes: 1
 201814: MEVSPACE sp. z o.o. <IPs: 1>
@@ -90,9 +90,9 @@
 211298: Driftnet Ltd <IPs: 58>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
-211680: Sistemas Informaticos, S.A. <IPs: 12>
+211680: Sistemas Informaticos, S.A. <IPs: 13>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 95>
+212238: Datacamp Limited <IPs: 97>
       :  Country codes: 19 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -157,11 +157,11 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 135>
+39351 : 31173 Services AB <IPs: 136>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 111>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 112>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 1
 398324: CENSYS-ARIN-01 <IPs: 141>
@@ -226,7 +226,7 @@
       :  Country codes: 1
 51167 : Contabo GmbH <IPs: 12>
       :  Country codes: 2 Reg Country Codes: 2
-51396 : Pfcloud UG <IPs: 11>
+51396 : Pfcloud UG <IPs: 12>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -271,7 +271,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 365>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 366>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -294,4 +294,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PL PT RO RS RU SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1874, ASNs: 137, Countries: 54, Reg Countries: 25
+IPs: 1883, ASNs: 137, Countries: 54, Reg Countries: 25

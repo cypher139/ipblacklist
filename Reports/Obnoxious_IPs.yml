@@ -23,6 +23,10 @@
   f: 25m
   i: Oracle Public Cloud
   p: 23
+146.70.126.166:
+  f: 6m
+  i: M247 Europe SRL
+  p: 27
 146.70.141.200:
   f: 10m
   i: M247 Europe SRL
@@ -78,6 +82,10 @@
   f: 6m
   i: 31173 Services AB
   p: 34
+185.195.233.229:
+  f: 5m
+  i: 31173 Services AB
+  p: 19
 185.213.155.202:
   f: 11m
   i: 31173 Services AB
@@ -122,6 +130,10 @@
   f: 5m
   i: Owl Limited
   p: 13
+194.127.199.35:
+  f: 6m
+  i: Blix Solutions AS
+  p: 37
 195.154.199.60:
   f: 1-4m
   i: Scaleway

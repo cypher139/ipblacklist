@@ -16,3 +16,5 @@ Hacker_Players_IP:
   # <note: ASN 174 - spammer>
   - 191.101.31.23
   - 191.101.31.45
+  # Username '<user>' tried to join with an invalid session
+  - 190.5.196.217

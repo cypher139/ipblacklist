@@ -241,7 +241,15 @@ Obnoxious:
   45.130.200.103:
     f: 6m
     i: "Eisenia AB"
-    p: 75
+    p: 170
+  185.253.118.69:
+    f: 7m
+    i: "HZ hosting Ltd"
+    p: 57
+  45.134.142.208:
+    f: 7m
+    i: "Datacamp Limited"
+    p: 32
 #
 Spam_Player_Names:
 # Player names, if an actual connection via Mojang auth was tried, are listed here.
@@ -468,6 +476,16 @@ IP_Block_Blacklist:
   "82.102.19/24": "M247 Europe SRL"
   "92.60.40/24": "Owl Limited"
   "98.97/16": "SpaceX Starlink"
+  "103.125.233/24": "xTom"
+  "149.102.2/22": "Datacamp Limited"
+  "149.88.2/22": "Datacamp Limited"
+  "152.32/16": "ucloud"
+  "156.229.2/22": "MULTA-ASN1"
+  "165.154.1/22": "ucloud"
+  "169.150.201/24": "Datacamp Limited"
+  "169.150.196/24": "Datacamp Limited"
+  "176.65.14/23": "Pfcloud"
+  "23.162.40/24": "AS-CYBER-DATA"
 #
 # Main IP Blacklist:
 # Player names, if an actual connection via Mojang auth was tried, are listed separately.
@@ -1074,6 +1092,7 @@ IP_Blacklist:
 - 45.134.140.174
 - 45.134.142.199
 - 45.134.142.203
+- 45.134.142.208
 - 45.134.142.212
 - 45.134.142.216
 - 45.134.142.226
@@ -1911,6 +1930,7 @@ IP_Blacklist:
 - 176.65.148.216
 - 176.65.148.244
 - 176.65.148.4
+- 176.65.149.137
 - 176.65.149.246
 - 176.65.149.48
 - 204.76.203.27
@@ -1967,6 +1987,8 @@ IP_Blacklist:
 # (58461) CT-HangZhou-IDC <ChinaNet Zhejiang Province Network [Contains Known Abusive IPs]>
 - 115.231.78.14
 - 115.231.78.3
+# (59711) HZ Hosting Ltd
+- 185.253.118.69
 # (60068) Datacamp Limited
 - 138.199.15.149
 - 138.199.15.153
@@ -2063,6 +2085,7 @@ IP_Blacklist:
 - 135.119.16.61
 - 135.119.90.134
 - 135.233.96.133
+- 135.233.96.197
 - 135.237.125.109
 - 135.237.126.127
 - 135.237.126.149
@@ -2690,7 +2713,7 @@ Discovered_ASNs:
   '210644': 6
   '211298': 60
   '211680': 13
-  '212238': 97
+  '212238': 98
   '212317': 1
   '213277': 1
   '213511': 0
@@ -2769,7 +2792,7 @@ Discovered_ASNs:
   '5089': 1
   '51167': 12
   '51247': 1
-  '51396': 12
+  '51396': 13
   '51430': 1
   '51765': 9
   '51852': 10
@@ -2782,6 +2805,7 @@ Discovered_ASNs:
   '57043': 1
   '57269': 1
   '58461': 2
+  '59711': 1
   '60068': 6
   '60223': 1
   '60729': 2
@@ -2797,7 +2821,7 @@ Discovered_ASNs:
   '7765': 2
   '7922': 1
   '8048': 2
-  '8075': 373
+  '8075': 374
   '8100': 0
   '834': 0
   '8560': 3

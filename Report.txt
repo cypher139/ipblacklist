@@ -98,7 +98,7 @@
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 13>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 97>
+212238: Datacamp Limited <IPs: 98>
       :  Country codes: 19 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -250,7 +250,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 51247 : Serverio technologijos MB <IPs: 1>
       :  Country codes: 1
-51396 : Pfcloud UG <IPs: 12>
+51396 : Pfcloud UG <IPs: 13>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -278,6 +278,8 @@
 58461 : CT-HangZhou-IDC <IPs: 2>
       :  [AKA: ChinaNet Zhejiang Province Network [Contains Known Abusive IPs]]
       :  Country codes: 1
+59711 : HZ Hosting Ltd <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
 60068 : Datacamp Limited <IPs: 6>
       :  Country codes: 2 Reg Country Codes: 1
 60223 : Netiface Limited <IPs: 1>
@@ -307,7 +309,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 373>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 374>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -328,6 +330,6 @@
       :  Country codes: 1
 None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
-List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SC SE SG SK TH TR TW UA US VE VN ZA
+List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1983, ASNs: 155, Countries: 55, Reg Countries: 25
+IPs: 1987, ASNs: 156, Countries: 56, Reg Countries: 25

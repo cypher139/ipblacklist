@@ -94,6 +94,10 @@
   f: 7m
   i: Owl Limited
   p: 35
+185.253.118.69:
+  f: 7m
+  i: HZ hosting Ltd
+  p: 57
 185.65.135.176:
   f: 4m
   i: 31173 Services AB
@@ -164,7 +168,11 @@
 45.130.200.103:
   f: 6m
   i: Eisenia AB
-  p: 75
+  p: 170
+45.134.142.208:
+  f: 7m
+  i: Datacamp Limited
+  p: 32
 45.134.213.209:
   f: 5m
   i: Datacamp Limited

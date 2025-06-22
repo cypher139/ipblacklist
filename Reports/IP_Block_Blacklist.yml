@@ -1,4 +1,5 @@
 103.108.2/22: Host Universal Pty Ltd
+103.125.233/24: xTom
 103.136.147/24: Owl Limited
 104.156.155/24: Hawaii Research
 104.193.135/24: Cloudsingularity
@@ -20,17 +21,25 @@
 142.147.89/24: XTOM
 146.70/16: M247
 147.185.132/24: Palo Alto
+149.102.2/22: Datacamp Limited
+149.88.2/22: Datacamp Limited
 151.115.0/18: Scaleway
 151.115.64/18: Scaleway
+152.32/16: ucloud
 154.213/16: PFCloud
 156.146.63/24: DataCamp Limited
+156.229.2/22: MULTA-ASN1
 156.253.227/24: Rekade International
 162.142.125/24: Censys
 163.172.208/20: Scaleway
 163.172/16: Scaleway
+165.154.1/22: ucloud
 167.248.133/24: Censys
 167.94/16: Censys
+169.150.196/24: Datacamp Limited
+169.150.201/24: Datacamp Limited
 172/8: Microsoft
+176.65.14/23: Pfcloud
 178.249.2/22: Datacamp Limited
 18.1/16: AWS
 185.142.236/24: BlackHOST
@@ -68,6 +77,7 @@
 212.83.160/19: Scaleway
 216.75.0/18: CariNet
 216.98.128/19: CariNet
+23.162.40/24: AS-CYBER-DATA
 23.234/16: TZULO
 2a06:488/16: Constantine Cybersecurity
 3./8: AWS

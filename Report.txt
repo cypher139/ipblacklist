@@ -93,7 +93,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 4 Reg Country Codes: 6
-211298: Driftnet Ltd <IPs: 62>
+211298: Driftnet Ltd <IPs: 63>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 13>
@@ -120,6 +120,8 @@
       :  [AKA: Zenlayer Inc]
       :  Country codes: 3 Reg Country Codes: 1
 22047 : VTR BANDA ANCHA S.A. <IPs: 1>
+      :  Country codes: 1
+23470 : RELIABLESITE <IPs: 1>
       :  Country codes: 1
 23959 : Owl Limited <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
@@ -173,14 +175,14 @@
       :  Country codes: 1 Reg Country Codes: 1
 37069 : MOBINIL <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 138>
+39351 : 31173 Services AB <IPs: 139>
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 116>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 165>
+398324: CENSYS-ARIN-01 <IPs: 168>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -309,13 +311,13 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 375>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 377>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 188>
+9009  : M247 Europe SRL <IPs: 189>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : Jsc timeweb <IPs: 1>
@@ -332,4 +334,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 1993, ASNs: 156, Countries: 56, Reg Countries: 25
+IPs: 2002, ASNs: 157, Countries: 56, Reg Countries: 25

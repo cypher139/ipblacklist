@@ -133,7 +133,7 @@
       :  Country codes: 1
 265091: AGS Antenas LTDA ME <IPs: 1>
       :  Country codes: 1
-27650 : EMTEL S.A. E.S.P. <IPs: 2>
+27650 : EMTEL S.A. E.S.P. <IPs: 3>
       :  Country codes: 1
 27901 : Pacifico Cable SPA. <IPs: 1>
       :  Country codes: 1
@@ -179,7 +179,7 @@
       :  Country codes: 7 Reg Country Codes: 1
 394256: CLOUDSINGULARITY <IPs: 4>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 116>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 117>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
 398324: CENSYS-ARIN-01 <IPs: 168>
@@ -311,7 +311,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 377>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 378>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -334,4 +334,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2002, ASNs: 157, Countries: 56, Reg Countries: 25
+IPs: 2005, ASNs: 157, Countries: 56, Reg Countries: 25

@@ -23,8 +23,8 @@
       :  Country codes: 1
 132203: Tencent Building, Kejizhongyi Avenue <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-13335 : CLOUDFLARENET <IPs: 2>
-      :  Country codes: 1 Reg Country Codes: 1
+13335 : CLOUDFLARENET <IPs: 3>
+      :  Country codes: 2 Reg Country Codes: 1
 135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 22>
       :  Country codes: 6 Reg Country Codes: 1
 136197: Xiongan, Hebei Province, P.R.China. <IPs: 1>
@@ -182,7 +182,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 117>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 168>
+398324: CENSYS-ARIN-01 <IPs: 170>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -252,7 +252,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 51247 : Serverio technologijos MB <IPs: 1>
       :  Country codes: 1
-51396 : Pfcloud UG <IPs: 14>
+51396 : Pfcloud UG <IPs: 15>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -311,7 +311,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 378>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 379>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
@@ -334,4 +334,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2005, ASNs: 157, Countries: 56, Reg Countries: 25
+IPs: 2010, ASNs: 157, Countries: 56, Reg Countries: 25

@@ -23,6 +23,10 @@
   f: 25m
   i: Oracle Public Cloud
   p: 23
+138.199.6.196:
+  f: 6m
+  i: DataCamp Limited
+  p: 33
 146.70.126.166:
   f: 6m
   i: M247 Europe SRL
@@ -31,6 +35,10 @@
   f: 10m
   i: M247 Europe SRL
   p: 17
+146.70.199.223:
+  f: 8m
+  i: M247 Europe SRL
+  p: 33
 146.70.22.200:
   f: 11m
   i: M247 Europe SRL
@@ -74,6 +82,22 @@
   f: 11m
   i: Contabo GmbH
   p: 147
+167.86.121.64:
+  f: 8m
+  i: Contabo GmbH
+  p: 29
+169.150.201.30:
+  f: 10m
+  i: DataCamp Limited
+  p: 28
+169.150.201.4:
+  f: 6m
+  i: DataCamp Limited
+  p: 110
+178.255.149.130:
+  f: 6m
+  i: Blix Solutions AS
+  p: 84
 179.43.189.70:
   f: 5m
   i: Private Layer Inc
@@ -106,6 +130,10 @@
   f: 30m
   i: GleSYS AB
   p: 35
+190.77.47.70:
+  f: 3m
+  i: CANTV Servicios
+  p: 45
 191.101.217.28:
   f: 15m
   i: Cyber Assets Fzco
@@ -114,6 +142,10 @@
   f: 4m
   i: Cyber Assets Fzco
   p: 344
+193.138.218.160:
+  f: 6m
+  i: 31173 Services AB
+  p: 17
 193.138.218.200:
   f: 11m
   i: 31173 Services AB
@@ -208,6 +240,10 @@
   f: 20m
   i: Easy Chain Network
   p: 42
+62.93.167.135:
+  f: 10m
+  i: DataCamp Limited
+  p: 46
 77.221.138.182:
   f: 12m
   i: Aeza International

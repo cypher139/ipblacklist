@@ -314,11 +314,13 @@ Spam_Player_Names:
   ItsMassiveWink: 94.103.124.169
   JohnPorkkkkkk: 94.103.124.169
   JustAScanner: 156.253.227.141
+  kevincitopito: 85.235.71.200
   kinho_fsc: 170.233.250.30
   kons0las: 199.58.83.10
   # martusin connected, advertised pfcloud and other unwanted spam before immediately disconnecting. Same IP also tried logging in with other usernames:
   martusin: 94.103.124.169
   MartinReye: 191.119.57.63
+  Mateinho: 181.46.9.231
   notcheat: 86.106.2.222
   NotABot: 195.226.194.14
   Notch: 131.156.156.12
@@ -392,6 +394,7 @@ Spam_Player_Names:
   test: 209.38.102.131
   testuser_9161: 194.59.30.181
   ThisIsARobbery: 193.35.18.92
+  tuchicahermosa: 181.46.9.231
   # Logs on and immediately disconnects once a day with different user each time
   # Users: Chaosgurke46, Hellsend17, Kysggggg, MegaMagikarp, Naiwd_Gmerr, PriceZamm, ThaRealDx1, Tightt, josh3231, martusin, notoofy, nutties_nuts
   Various: 84.54.51.253
@@ -721,6 +724,8 @@ IP_Blacklist:
 # (14618) AMAZON-AES
 - 52.90.44.197
 - 54.146.226.82
+# (15704) Xtra Telecom S.A.
+- 85.235.71.200
 # (16276) OVH SAS
 - 135.125.134.128
 - 135.125.134.238
@@ -1060,6 +1065,7 @@ IP_Blacklist:
 - 45.156.129.67
 - 45.156.129.72
 - 45.156.130.10
+- 45.156.130.13
 - 45.156.130.16
 - 45.156.130.20
 - 45.156.130.33
@@ -1216,9 +1222,12 @@ IP_Blacklist:
 # (265091) AGS Antenas LTDA ME
 - 170.233.250.30
 # (27650) EMTEL S.A. E.S.P.
+- 190.5.196.213
 - 190.5.196.217
 - 190.5.196.220
 - 190.5.196.226
+# (27747) Telecentro S.A.
+- 181.46.9.231
 # (27901) Pacifico Cable SPA.
 - 190.114.46.121
 # (27947) Telconet S.A
@@ -1540,6 +1549,7 @@ IP_Blacklist:
 - 34.34.246.79
 - 34.34.246.87
 # (398324) CENSYS-ARIN-01 <Censys Inc.>
+- 162.142.125.114
 - 162.142.125.115
 - 162.142.125.116
 - 162.142.125.117
@@ -1561,6 +1571,7 @@ IP_Blacklist:
 - 162.142.125.202
 - 162.142.125.203
 - 162.142.125.204
+- 162.142.125.205
 - 162.142.125.206
 - 162.142.125.207
 - 162.142.125.209
@@ -1999,6 +2010,7 @@ IP_Blacklist:
 - 176.65.148.244
 - 176.65.148.4
 - 176.65.149.137
+- 176.65.149.193
 - 176.65.149.246
 - 176.65.149.48
 - 204.76.203.27
@@ -2762,6 +2774,7 @@ Discovered_ASNs:
   '142403': 1
   '14593': 10
   '14618': 2
+  '15704': 1
   '16276': 17
   '16509': 151
   '174': 25
@@ -2790,7 +2803,7 @@ Discovered_ASNs:
   '20960': 1
   '210644': 6
   '211298': 64
-  '211680': 13
+  '211680': 14
   '212238': 98
   '212317': 1
   '213277': 1
@@ -2811,7 +2824,8 @@ Discovered_ASNs:
   '24961': 1
   '264556': 1
   '265091': 1
-  '27650': 3
+  '27650': 4
+  '27747': 1
   '27901': 1
   '27947': 1
   '27951': 1
@@ -2836,7 +2850,7 @@ Discovered_ASNs:
   '394256': 4
   '39493': 0
   '396982': 117
-  '398324': 173
+  '398324': 175
   '398705': 31
   '398722': 50
   '399486': 1
@@ -2871,7 +2885,7 @@ Discovered_ASNs:
   '5089': 1
   '51167': 12
   '51247': 1
-  '51396': 15
+  '51396': 16
   '51430': 1
   '51765': 9
   '51852': 10
@@ -2924,11 +2938,13 @@ Spam_Player_ASNs:
 - 12876
 - 13335
 - 14061
+- 15704
 - 16509
 - 20115
 - 20473
 - 22047
 - 27650
+- 27747
 - 31898
 - 34977
 - 43357

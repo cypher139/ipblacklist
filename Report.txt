@@ -23,7 +23,7 @@
       :  Country codes: 1
 132203: Tencent Building, Kejizhongyi Avenue <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-13335 : CLOUDFLARENET <IPs: 3>
+13335 : CLOUDFLARENET <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
 135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 22>
       :  Country codes: 6 Reg Country Codes: 1
@@ -70,10 +70,10 @@
       :  Country codes: 1
 201814: MEVSPACE sp. z o.o. <IPs: 1>
       :  Country codes: 1
-202425: IP Volume inc <IPs: 6>
+202425: IP Volume inc <IPs: 7>
       :  [AKA: Al Spera, FiberXpress BV]
       :  Country codes: 2
-203020: HostRoyale Technologies Pvt Ltd <IPs: 5>
+203020: HostRoyale Technologies Pvt Ltd <IPs: 6>
       :  Country codes: 3 Reg Country Codes: 1
 204035: oneCorp GmbH <IPs: 1>
       :  Country codes: 1
@@ -100,7 +100,7 @@
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 14>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 98>
+212238: Datacamp Limited <IPs: 99>
       :  Country codes: 19 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -186,7 +186,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 117>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 175>
+398324: CENSYS-ARIN-01 <IPs: 177>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -220,7 +220,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 43205 : Vivacom Bulgaria EAD <IPs: 1>
       :  Country codes: 1
-43357 : Owl Limited <IPs: 27>
+43357 : Owl Limited <IPs: 28>
       :  Country codes: 4 Reg Country Codes: 1
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
@@ -315,13 +315,13 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 381>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 384>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 189>
+9009  : M247 Europe SRL <IPs: 190>
       :  [AKA: [VPN provider?]]
       :  Country codes: 22 Reg Country Codes: 2
 9123  : Jsc timeweb <IPs: 1>
@@ -338,4 +338,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2023, ASNs: 159, Countries: 57, Reg Countries: 25
+IPs: 2034, ASNs: 159, Countries: 57, Reg Countries: 25

@@ -27,6 +27,10 @@
   f: 6m
   i: DataCamp Limited
   p: 33
+146.70.119.80:
+  f: 6m
+  i: M247 Europe SRL
+  p: 19
 146.70.126.166:
   f: 6m
   i: M247 Europe SRL
@@ -86,6 +90,10 @@
   f: 8m
   i: Contabo GmbH
   p: 29
+169.150.196.9:
+  f: 12m
+  i: Datacamp Limited
+  p: 22
 169.150.201.30:
   f: 10m
   i: DataCamp Limited
@@ -102,6 +110,10 @@
   f: 5m
   i: Private Layer Inc
   p: 47
+179.43.189.80:
+  f: 6m
+  i: Private Layer Inc
+  p: 79
 185.195.232.132:
   f: 6m
   i: 31173 Services AB
@@ -110,6 +122,10 @@
   f: 5m
   i: 31173 Services AB
   p: 19
+185.209.199.144:
+  f: 6m
+  i: 31173 Services AB
+  p: 31
 185.213.155.202:
   f: 11m
   i: 31173 Services AB
@@ -256,10 +272,16 @@
   f: 7m
   i: Invite Systems SRL
   p: 48
+85.235.71.200:
+  f: 11m
+  i: Xtra Telecom S.A.
+  p: 109
+  u: kevincitopito
 86.106.2.222:
   f: 3m
   i: procono s.a.
   p: 51
+  u: notcheat
 87.120.112.234:
   f: 10m
   i: Ekabi LLC

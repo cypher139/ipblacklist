@@ -5,6 +5,7 @@
 104.193.135/24: Cloudsingularity
 104.209/16: Microsoft
 104.245.241/24: Railnet LLC
+104.28.1/22: Cloudflare - MC spam
 104.40/16: Microsoft
 106/8: Unknown High Risk
 115/8: Unknown High Risk
@@ -51,6 +52,7 @@
 185.2/9: Oy Creanova
 185.213.15/22: 31173 VPN Services
 185.65.1/17: 31173 VPN Services
+190.5.196/24: EMTEL S.A. E.S.P.
 191.101/16: Cyber Assets Fzco
 192.42.116/24: SURF B.V.
 193.138.218/24: Blix
@@ -104,7 +106,9 @@
 52.2/9: Microsoft
 54.93/16: AMAZON-02
 57.1/9: Microsoft
+62.93.167/24: Datacamp Limited
 66.240.192/18: CariNet
+66.63.1/22: AS-VULTR
 68.235.4/22: TZULO
 71.6./16: CariNet
 8.219/16: Unknown

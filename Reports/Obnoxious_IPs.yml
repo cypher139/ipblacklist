@@ -109,7 +109,7 @@
 178.255.149.134:
   f: 6m
   i: Blix Solutions AS
-  p: 125
+  p: 131
 179.43.189.70:
   f: 5m
   i: Private Layer Inc
@@ -237,6 +237,10 @@
   f: 4m
   i: PFCloud
   p: 59
+45.83.220.211:
+  f: 6m
+  i: 31173 Services AB
+  p: 48
 5.42.101.164:
   f: 15m
   i: Aeza International

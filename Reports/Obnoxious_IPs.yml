@@ -126,6 +126,10 @@
   f: 5m
   i: 31173 Services AB
   p: 19
+185.209.198.110:
+  f: 6m
+  i: 31173 Services AB
+  p: 33
 185.209.199.144:
   f: 6m
   i: 31173 Services AB
@@ -240,7 +244,7 @@
 45.83.220.211:
   f: 6m
   i: 31173 Services AB
-  p: 48
+  p: 76
 5.42.101.164:
   f: 15m
   i: Aeza International
@@ -302,6 +306,10 @@
   f: 3-60m
   i: Ekabi LLC
   p: 87
+92.60.40.202:
+  f: 11m
+  i: Owl Limited
+  p: 90
 92.60.40.211:
   f: 6m
   i: Owl Limited

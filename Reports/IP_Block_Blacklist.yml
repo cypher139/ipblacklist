@@ -1,6 +1,7 @@
 103.108.2/22: Host Universal Pty Ltd
 103.125.233/24: xTom
 103.136.147/24: Owl Limited
+103.216.220/24: Host Universal Pty Ltd
 104.156.155/24: Hawaii Research
 104.193.135/24: Cloudsingularity
 104.209/16: Microsoft
@@ -42,6 +43,7 @@
 172/8: Microsoft
 176.65.14/23: Pfcloud
 178.249.2/22: Datacamp Limited
+178.255.149/24: Blix Solutions AS
 18.1/16: AWS
 185.142.236/24: BlackHOST
 185.156.46/24: Datacamp Limited
@@ -89,10 +91,13 @@
 4.1/9: Microsoft
 4.2/9: Microsoft
 40.1/9: Microsoft
+40.83.1/22: azure
 45.128/16: AWS
 45.134/16: Datacamp Limited
+45.135/16: Pfcloud UG
 45.156.1/22: Sistemas Informaticos, S.A.
 45.156.128/24: NSEC - Sistemas Informaticos S.A.
+45.83.220/24: 31173 Services AB
 45.84.107/24: QuxLabs AB
 45.90.185/24: macarne
 46.19.1/22: Private Layer Inc
@@ -104,6 +109,8 @@
 51.81./16: OVH
 52.1/9: Microsoft
 52.2/9: Microsoft
+52.58/16: AMAZON-02
+52.59/16: AMAZON-02
 54.93/16: AMAZON-02
 57.1/9: Microsoft
 62.93.167/24: Datacamp Limited

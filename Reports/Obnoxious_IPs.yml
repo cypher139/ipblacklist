@@ -7,6 +7,10 @@
   f: 30m
   i: Korea Telecom
   p: 27
+119.214.34.93:
+  f: 2m
+  i: Korea Telecom
+  p: 159
 131.156.156.126:
   f: 3m
   i: Northern Illinois University
@@ -47,6 +51,10 @@
   f: 11m
   i: M247 Europe SRL
   p: 16
+149.88.20.200:
+  f: 6m
+  i: Datacamp Limited
+  p: 31
 154.213.185.46:
   f: 15m
   i: PFCloud
@@ -190,6 +198,10 @@
   f: 6m
   i: 31173 Services AB
   p: 26
+193.32.249.171:
+  f: 4m
+  i: 31173 Services AB
+  p: 237
 194.114.136.38:
   f: 5m
   i: Owl Limited

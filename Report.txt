@@ -129,7 +129,7 @@
       :  Country codes: 1
 23470 : RELIABLESITE <IPs: 1>
       :  Country codes: 1
-23959 : Owl Limited <IPs: 6>
+23959 : Owl Limited <IPs: 7>
       :  Country codes: 1 Reg Country Codes: 1
 24940 : Hetzner Online GmbH <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
@@ -194,7 +194,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 123>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 181>
+398324: CENSYS-ARIN-01 <IPs: 182>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -325,7 +325,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 394>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 395>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -350,4 +350,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 4
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2174, ASNs: 165, Countries: 57, Reg Countries: 26
+IPs: 2177, ASNs: 165, Countries: 57, Reg Countries: 26

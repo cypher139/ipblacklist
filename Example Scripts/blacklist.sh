@@ -3,17 +3,24 @@
 ADDED_IPS=()
 ERROR_IPS=()
 SKIPPED=0
-BLOCK_PATH=block.txt
-BLOCKED_PATH=blocked.txt
+BLOCK_PATH=/home/cypher
+BLOCKED_PATH=/home/cypher
 EXIST_IPS=()
 timestamp() { echo "$(printf '%(%F %T)T')"; }
 containsElement () { for e in "${@:2}"; do [[ "$e" = "$1" ]] && return 0; done; return 1; }
+download=true
+if [ "$download" = true ] ; then
+    echo "$(timestamp) Downloading block.txt..."
+	cd $BLOCK_PATH
+	rm block.txt
+	curl -JLO https://raw.githubusercontent.com/cypher139/ipblacklist/refs/heads/main/block.txt
+fi
 
 echo "$(timestamp) Starting blacklist rule insertions..."
 # Load previously added IPs
 while read line; do
 	EXIST_IPS+=("$line")
-done < $BLOCKED_PATH
+done < $BLOCKED_PATH/blocked.txt
 # echo "${#EXIST_IPS[@]} ${EXIST_IPS[*]}"
 # Process IPs
 while read line; do
@@ -26,19 +33,19 @@ while read line; do
 	if [[ $CMD_STATUS == "Skipping inserting existing rule" ]]; then
 		((SKIPPED++))
 		# echo "ufw skipped $line"
-		echo "$line" >> $BLOCKED_PATH
+		echo "$line" >> $BLOCKED_PATH/blocked.txt
 	elif [[ $CMD_STATUS == "Rule inserted" || $CMD_STATUS == "Rules updated" ]]; then
 		# echo -e "\033[1;36m Added $line \033[0m"
 		# echo " Added $line"
 		ADDED_IPS+=("$line")
-		echo "$line" >> $BLOCKED_PATH
+		echo "$line" >> $BLOCKED_PATH/blocked.txt
 	elif [[ $CMD_STATUS == "ERROR: Bad source address" ]]; then
 		ERROR_IPS+=("$line")
 	elif [[ $CMD_STATUS == "ERROR: Invalid position '1'" ]]; then
 		#ufw can't insert rules if no rules are present. Add a dummy rule to continue.
 		CMD_STATUS=$(/usr/sbin/ufw deny from "$line" to any 2>&1);
 	fi
-done < $BLOCK_PATH
+done < $BLOCK_PATH/block.txt
 # Results:
 if [[ $SKIPPED != 0 ]]; then
 	echo $SKIPPED IPs were already present, skipping.

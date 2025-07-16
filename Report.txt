@@ -7,7 +7,7 @@
 11417 : NIU <IPs: 4>
       :  [AKA: Northern Illinois University]
       :  Country codes: 1
-11878 : TZULO <IPs: 60>
+11878 : TZULO <IPs: 61>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 2>
       :  Country codes: 1
@@ -27,7 +27,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 13335 : CLOUDFLARENET <IPs: 7>
       :  Country codes: 2 Reg Country Codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 22>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 24>
       :  Country codes: 6 Reg Country Codes: 1
 136197: Xiongan, Hebei Province, P.R.China. <IPs: 1>
       :  Country codes: 1
@@ -48,9 +48,9 @@
       :  Country codes: 1
 15704 : Xtra Telecom S.A. <IPs: 1>
       :  Country codes: 1
-16276 : OVH SAS <IPs: 17>
-      :  Country codes: 4
-16509 : AMAZON-02 <IPs: 151>
+16276 : OVH SAS <IPs: 20>
+      :  Country codes: 5 Reg Country Codes: 1
+16509 : AMAZON-02 <IPs: 155>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 3 Reg Country Codes: 1
 174   : COGENT-174 <IPs: 21>
@@ -74,11 +74,11 @@
       :  Country codes: 1
 201814: MEVSPACE sp. z o.o. <IPs: 1>
       :  Country codes: 1
-202425: IP Volume inc <IPs: 7>
+202425: IP Volume inc <IPs: 8>
       :  [AKA: Al Spera, FiberXpress BV]
       :  Country codes: 2
-203020: HostRoyale Technologies Pvt Ltd <IPs: 10>
-      :  Country codes: 4 Reg Country Codes: 2
+203020: HostRoyale Technologies Pvt Ltd <IPs: 11>
+      :  Country codes: 5 Reg Country Codes: 2
 204035: oneCorp GmbH <IPs: 1>
       :  Country codes: 1
 204457: Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd <IPs: 1>
@@ -108,6 +108,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
+213412: ONYPHE SAS <IPs: 5>
+      :  Country codes: 2 Reg Country Codes: 1
 213619: Tinux-IT <IPs: 1>
       :  Country codes: 1
 213887: WAIcore Ltd <IPs: 1>
@@ -124,9 +126,9 @@
       :  Country codes: 1 Reg Country Codes: 1
 216246: Aeza Group LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-21859 : ZEN-ECN <IPs: 9>
+21859 : ZEN-ECN <IPs: 10>
       :  [AKA: Zenlayer Inc]
-      :  Country codes: 3 Reg Country Codes: 1
+      :  Country codes: 4 Reg Country Codes: 1
 22047 : VTR BANDA ANCHA S.A. <IPs: 2>
       :  Country codes: 1
 23470 : RELIABLESITE <IPs: 1>
@@ -196,7 +198,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 123>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 182>
+398324: CENSYS-ARIN-01 <IPs: 187>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -238,7 +240,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 44592 : SkyLink Data Center BV <IPs: 1>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 51>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 52>
       :  Country codes: 5 Reg Country Codes: 2
 45820 : Tata Teleservices ISP AS <IPs: 1>
       :  Country codes: 1
@@ -308,6 +310,8 @@
       :  Country codes: 1
 6147  : Telefonica del Peru S.A.A. <IPs: 1>
       :  Country codes: 1
+6206  : Netrouting B.V. <IPs: 1>
+      :  Country codes: 1
 6233  : XTOM <IPs: 4>
       :  Country codes: 1
 62744 : QUINTEX <IPs: 1>
@@ -329,7 +333,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 398>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 399>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -354,4 +358,4 @@ None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 4 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LT LU LV MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2193, ASNs: 167, Countries: 58, Reg Countries: 26
+IPs: 2219, ASNs: 169, Countries: 58, Reg Countries: 26

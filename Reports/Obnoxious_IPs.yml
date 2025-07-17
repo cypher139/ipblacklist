@@ -44,7 +44,7 @@
   i: DataCamp Limited
   p: 91
 146.70.117.208:
-  f: 06m
+  f: 6m
   i: M247 Europe SRL
   p: 29
 146.70.119.80:
@@ -59,6 +59,10 @@
   f: 10m
   i: M247 Europe SRL
   p: 17
+146.70.187.159:
+  f: 6m
+  i: M247 Europe SRL
+  p: 113
 146.70.199.223:
   f: 8m
   i: M247 Europe SRL
@@ -329,9 +333,9 @@
   i: TZULO
   p: 65
 68.235.46.142:
-  f: 06m
+  f: 6m
   i: TZULO
-  p: 127
+  p: 224
 77.221.138.182:
   f: 12m
   i: Aeza International

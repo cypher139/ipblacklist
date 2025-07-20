@@ -97,7 +97,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 5 Reg Country Codes: 5
-211298: Driftnet Ltd <IPs: 64>
+211298: Driftnet Ltd <IPs: 65>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 15>
@@ -106,6 +106,8 @@
       :  Country codes: 19 Reg Country Codes: 4
 212317: Hetzner Online GmbH <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+212512: Detai Prosperous Technologies Limited <IPs: 1>
+      :  Country codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
 213412: ONYPHE SAS <IPs: 5>
@@ -163,7 +165,7 @@
       :  Country codes: 4 Reg Country Codes: 2
 32002 : RACKGENI <IPs: 9>
       :  Country codes: 1 Reg Country Codes: 1
-3215  : Orange <IPs: 2>
+3215  : Orange <IPs: 3>
       :  [AKA: Orange S. A.]
       :  Country codes: 1
 3269  : TIM <IPs: 1>
@@ -198,7 +200,7 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 124>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 190>
+398324: CENSYS-ARIN-01 <IPs: 193>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -254,7 +256,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 4812  : China Telecom Group <IPs: 1>
       :  Country codes: 1
-48721 : Flyservers S.A. <IPs: 1>
+48721 : Flyservers S.A. <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 48753 : Ava Host Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -318,7 +320,7 @@
       :  Country codes: 1
 62744 : QUINTEX <IPs: 1>
       :  Country codes: 1
-63949 : Akamai Connected Cloud <IPs: 10>
+63949 : Akamai Connected Cloud <IPs: 11>
       :  Country codes: 4 Reg Country Codes: 1
 64289 : MACARNE <IPs: 3>
       :  Country codes: 1
@@ -343,7 +345,7 @@
 8560  : IONOS SE <IPs: 3>
       :  [AKA: IONOS SE, Fasthosts Internet Limited]
       :  Country codes: 3
-9009  : M247 Europe SRL <IPs: 212>
+9009  : M247 Europe SRL <IPs: 214>
       :  [AKA: [VPN provider?]]
       :  Country codes: 23 Reg Country Codes: 2
 9123  : Jsc timeweb <IPs: 1>
@@ -360,4 +362,4 @@ None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 4 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LT LU LV MC MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2238, ASNs: 170, Countries: 59, Reg Countries: 26
+IPs: 2248, ASNs: 171, Countries: 59, Reg Countries: 26

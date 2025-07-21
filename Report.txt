@@ -50,7 +50,7 @@
       :  Country codes: 1
 16276 : OVH SAS <IPs: 20>
       :  Country codes: 5 Reg Country Codes: 1
-16509 : AMAZON-02 <IPs: 156>
+16509 : AMAZON-02 <IPs: 157>
       :  [AKA: A100 ROW GmbH [AWS]]
       :  Country codes: 3 Reg Country Codes: 1
 174   : COGENT-174 <IPs: 21>
@@ -77,7 +77,7 @@
 202425: IP Volume inc <IPs: 8>
       :  [AKA: Al Spera, FiberXpress BV]
       :  Country codes: 2
-203020: HostRoyale Technologies Pvt Ltd <IPs: 12>
+203020: HostRoyale Technologies Pvt Ltd <IPs: 13>
       :  Country codes: 5 Reg Country Codes: 2
 204035: oneCorp GmbH <IPs: 1>
       :  Country codes: 1
@@ -97,7 +97,7 @@
       :  Country codes: 1
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 5 Reg Country Codes: 5
-211298: Driftnet Ltd <IPs: 65>
+211298: Driftnet Ltd <IPs: 66>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 15>
@@ -110,7 +110,7 @@
       :  Country codes: 1
 213277: Almouroltec Servicos De Informatica E Internet Lda <IPs: 1>
       :  Country codes: 1
-213412: ONYPHE SAS <IPs: 5>
+213412: ONYPHE SAS <IPs: 8>
       :  Country codes: 2 Reg Country Codes: 1
 213619: Tinux-IT <IPs: 1>
       :  Country codes: 1
@@ -180,6 +180,8 @@
       :  Country codes: 1
 34989 : ServeTheWorld AS <IPs: 1>
       :  Country codes: 1
+35042 : Layer7 Networks GmbH <IPs: 1>
+      :  Country codes: 1
 35916 : MULTA-ASN1 <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
 36103 : CENTRALUTAH <IPs: 1>
@@ -206,7 +208,7 @@
 398705: CENSYS-ARIN-02 <IPs: 31>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 53>
+398722: CENSYS-ARIN-03 <IPs: 54>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399486: VIRTUO <IPs: 1>
@@ -274,7 +276,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 51247 : Serverio technologijos MB <IPs: 1>
       :  Country codes: 1
-51396 : Pfcloud UG <IPs: 17>
+51396 : Pfcloud UG <IPs: 18>
       :  Country codes: 1 Reg Country Codes: 1
 51430 : AltusHost B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -337,7 +339,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 401>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 403>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -362,4 +364,4 @@ None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 4 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LT LU LV MC MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2248, ASNs: 171, Countries: 59, Reg Countries: 26
+IPs: 2259, ASNs: 172, Countries: 59, Reg Countries: 26

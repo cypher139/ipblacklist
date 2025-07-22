@@ -44,7 +44,7 @@
       :  Country codes: 1
 14618 : AMAZON-AES <IPs: 2>
       :  Country codes: 1
-15557 : Societe Francaise Du Radiotelephone - SFR SA <IPs: 1>
+15557 : Societe Francaise Du Radiotelephone - SFR SA <IPs: 2>
       :  Country codes: 1
 15704 : Xtra Telecom S.A. <IPs: 1>
       :  Country codes: 1
@@ -199,10 +199,10 @@
       :  Country codes: 1 Reg Country Codes: 1
 39493 : CJSC Kolomna-Sviaz TV <IPs: 1>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 124>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 125>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 3 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 193>
+398324: CENSYS-ARIN-01 <IPs: 195>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
@@ -261,6 +261,8 @@
 48721 : Flyservers S.A. <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 48753 : Ava Host Srl <IPs: 1>
+      :  Country codes: 1 Reg Country Codes: 1
+49434 : Fbw Networks SAS <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 49532 : Eonix Corporation <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -339,7 +341,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 403>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 404>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 3 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -364,4 +366,4 @@ None  : Unknown: No Data Given <IPs: 7>
       :  Country codes: 4 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU IE IN IT JP KR LT LU LV MC MD MX MY NL NO NZ PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH DE EE FR GB GI HK IN IR LT MD NL NO PA RO RU SC SE SG US VU ZA
-IPs: 2259, ASNs: 172, Countries: 59, Reg Countries: 26
+IPs: 2265, ASNs: 173, Countries: 59, Reg Countries: 26

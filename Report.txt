@@ -35,7 +35,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 134768: CHINANET SHAANXI province Cloud Base network <IPs: 2>
       :  Country codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 31>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 33>
       :  Country codes: 7 Reg Country Codes: 1
 135905: VIETNAM POSTS AND TELECOMMUNICATIONS GROUP <IPs: 1>
       :  Country codes: 1
@@ -78,7 +78,9 @@
       :  Country codes: 1
 17621 : China Unicom Shanghai network <IPs: 8>
       :  Country codes: 1
-17638 : ASN for TIANJIN Provincial Net of CT <IPs: 1>
+17622 : China Unicom Guangzhou network <IPs: 1>
+      :  Country codes: 1
+17638 : ASN for TIANJIN Provincial Net of CT <IPs: 2>
       :  Country codes: 1
 18209 : Atria Convergence Technologies Ltd. <IPs: 1>
       :  Country codes: 1
@@ -135,7 +137,7 @@
       :  Country codes: 2
 210644: Aeza International Ltd <IPs: 6>
       :  Country codes: 5 Reg Country Codes: 5
-211298: Driftnet Ltd <IPs: 71>
+211298: Driftnet Ltd <IPs: 72>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
 211590: Bucklog SARL <IPs: 11>
@@ -178,7 +180,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 216246: Aeza Group LLC <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-21859 : ZEN-ECN <IPs: 10>
+21859 : ZEN-ECN <IPs: 11>
       :  [AKA: Zenlayer Inc]
       :  Country codes: 4 Reg Country Codes: 1
 22047 : VTR BANDA ANCHA S.A. <IPs: 2>
@@ -274,13 +276,13 @@
 396982: GOOGLE-CLOUD-PLATFORM <IPs: 143>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 7 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 207>
+398324: CENSYS-ARIN-01 <IPs: 209>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 31>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: CENSYS-ARIN-03 <IPs: 56>
+398722: CENSYS-ARIN-03 <IPs: 57>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399486: VIRTUO <IPs: 1>
@@ -340,13 +342,13 @@
       :  Country codes: 1
 48282 : Hosting technology LTD <IPs: 1>
       :  Country codes: 1
-4837  : CHINA UNICOM China169 Backbone <IPs: 3>
+4837  : CHINA UNICOM China169 Backbone <IPs: 6>
       :  Country codes: 1
 48721 : Flyservers S.A. <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
 48753 : Ava Host Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-49434 : Fbw Networks SAS <IPs: 2>
+49434 : Fbw Networks SAS <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
 49532 : Eonix Corporation <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -459,7 +461,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 454>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 455>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 6 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -490,4 +492,4 @@ None  : Unknown: No Data Given <IPs: 8>
       :  Country codes: 5 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BD BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GR HK HR HU ID IE IN IR IT JP KR LK LT LU LV MC MD MX MY NL NO NZ PA PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US Unknown VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH CN CY DE EE FR GB GI HK IE IN IR LT MD MU NL NO PA RO RU SC SE SG UA US VU ZA
-IPs: 2689, ASNs: 235, Countries: 65, Reg Countries: 31
+IPs: 2703, ASNs: 236, Countries: 65, Reg Countries: 31

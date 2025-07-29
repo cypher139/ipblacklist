@@ -278,7 +278,7 @@
       :  Country codes: 1
 34989 : ServeTheWorld AS <IPs: 1>
       :  Country codes: 1
-35042 : Layer7 Networks GmbH <IPs: 4>
+35042 : Layer7 Networks GmbH <IPs: 5>
       :  Country codes: 1
 35916 : MULTA-ASN1 <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
@@ -303,10 +303,10 @@
       :  Country codes: 1
 396356: LATITUDE-SH <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 150>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 151>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 7 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 220>
+398324: CENSYS-ARIN-01 <IPs: 221>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 32>
@@ -499,7 +499,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 490>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 491>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 8 Reg Country Codes: 3
 834   : IPXO <IPs: 1>
@@ -532,4 +532,4 @@ None  : Unknown: No Data Given <IPs: 12>
       :  Country codes: 6 Reg Country Codes: 1
 List of Country Codes: AL AR AT AU BD BE BG BR CA CH CL CN CO CZ DE DK EC EG ES FI FR GB GH GR HK HR HU ID IE IN IR IT JP KR LK LT LU LV MC MD MX MY NL NO NZ PA PE PL PT RO RS RU SA SC SE SG SK TH TR TW UA US Unknown VE VN ZA
 List of Registered Country Codes: AE AM BG CA CH CN CY DE EE FR GB GI HK IE IN IR LT MD MU NL NO PA RO RU SC SE SG UA US VU ZA
-IPs: 2910, ASNs: 256, Countries: 66, Reg Countries: 31
+IPs: 2914, ASNs: 256, Countries: 66, Reg Countries: 31

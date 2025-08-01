@@ -6,6 +6,10 @@
   f: 4m
   i: Host Universal Pty Ltd
   p: 64
+103.251.26.22:
+  f: 05m
+  i: HostRoyale Technologies Pvt Ltd
+  p: 172
 103.251.27.71:
   f: 7m
   i: HostRoyale Technologies Pvt Ltd
@@ -190,6 +194,10 @@
   f: 7m
   i: Owl Limited
   p: 35
+185.248.85.50:
+  f: 05m
+  i: Owl Limited
+  p: 39
 185.253.118.69:
   f: 7m
   i: HZ hosting Ltd
@@ -348,6 +356,14 @@
   f: 6m
   i: TZULO
   p: 224
+68.235.46.37:
+  f: 05m
+  i: TZULO
+  p: 125
+68.235.46.99:
+  f: 05m
+  i: TZULO
+  p: 86
 77.221.138.182:
   f: 12m
   i: Aeza International

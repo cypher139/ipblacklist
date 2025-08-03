@@ -285,6 +285,10 @@
 195.226.194.14:
   f: 20-30m
   i: Snowd Security Ou
+23.162.40.148:
+  f: 05m
+  i: AS Cyber Data
+  p: 131
 23.176.184.152:
   f: 33m
   i: Netiface Limited

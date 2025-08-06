@@ -20,3 +20,5 @@ Hacker_Players_IP:
   - 190.5.196.217
   - 85.235.71.200
   - 104.28.196.153
+  # Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+  - 49.192.98.245

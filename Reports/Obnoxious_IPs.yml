@@ -87,6 +87,10 @@
   f: 8m
   i: M247 Europe SRL
   p: 33
+146.70.200.196:
+  f: 6m
+  i: M247 Europe SRL
+  p: 99
 146.70.22.200:
   f: 11m
   i: M247 Europe SRL
@@ -301,6 +305,10 @@
   f: 4m
   i: TZULO
   p: 91
+37.19.221.132:
+  f: 5m
+  i: Datacamp Limited
+  p: 57
 37.46.113.164:
   f: 50m
   i: AltusHost B.V.

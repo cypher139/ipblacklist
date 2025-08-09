@@ -23,7 +23,7 @@
       :  Country codes: 1
 11845 : Vox-Telecom <IPs: 1>
       :  Country codes: 1
-11878 : TZULO <IPs: 70>
+11878 : TZULO <IPs: 71>
       :  Country codes: 2 Reg Country Codes: 1
 12322 : Free SAS <IPs: 3>
       :  Country codes: 1
@@ -302,8 +302,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 135>
-      :  Country codes: 19 Reg Country Codes: 5
+212238: Datacamp Limited <IPs: 136>
+      :  Country codes: 20 Reg Country Codes: 5
 212271: Lumanex Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 212317: Hetzner Online GmbH <IPs: 1>
@@ -473,7 +473,7 @@
       :  Country codes: 1
 31549 : Aria Shatel PJSC <IPs: 1>
       :  Country codes: 1
-31898 : ORACLE-BMC-31898 <IPs: 8>
+31898 : ORACLE-BMC-31898 <IPs: 9>
       :  Country codes: 5 Reg Country Codes: 2
 32002 : RACKGENI <IPs: 9>
       :  Country codes: 1 Reg Country Codes: 1
@@ -535,7 +535,7 @@
       :  Country codes: 1
 38493 : Royal Green Communication Limited <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 170>
+39351 : 31173 Services AB <IPs: 171>
       :  Country codes: 7 Reg Country Codes: 1
 393886: LEASEWEB-USA-MIA <IPs: 1>
       :  Country codes: 1
@@ -549,14 +549,14 @@
       :  Country codes: 1
 396356: LATITUDE-SH <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 250>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 251>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 9 Reg Country Codes: 1
 398101: GO-DADDY-COM-LLC <IPs: 1>
       :  Country codes: 1
 39832 : Opera Norway AS <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 270>
+398324: CENSYS-ARIN-01 <IPs: 271>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 33>
@@ -708,7 +708,7 @@
       :  Country codes: 1
 51765 : Oy Crea Nova Hosting Solution Ltd <IPs: 10>
       :  Country codes: 2 Reg Country Codes: 2
-51852 : Private Layer INC <IPs: 13>
+51852 : Private Layer INC <IPs: 14>
       :  Country codes: 1 Reg Country Codes: 1
 52053 : REDHEBERG Association declaree <IPs: 1>
       :  Country codes: 1
@@ -853,7 +853,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 722>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 723>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 13 Reg Country Codes: 3
 8151  : UNINET <IPs: 1>
@@ -873,7 +873,7 @@
       :  Country codes: 3
 8796  : FD-298-8796 <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-9009  : M247 Europe SRL <IPs: 229>
+9009  : M247 Europe SRL <IPs: 232>
       :  [AKA: [VPN provider?]]
       :  Country codes: 27 Reg Country Codes: 3
 9123  : Jsc timeweb <IPs: 1>
@@ -907,4 +907,4 @@ None  : Unknown: No Data Given <IPs: 23>
       :  Country codes: 6 Reg Country Codes: 2
 List of Country Codes: AE AL AM AR AT AU AZ BA BD BE BG BR CA CH CL CN CO CR CZ DE DK EC EE EG ES FI FR GB GH GR HK HR HU ID IE IL IN IQ IR IT JP KR KZ LK LT LU LV MA MC MD MN MX MY NA NG NL NO NP NZ PA PE PK PL PT RO RS RU SA SC SE SG SI SK SZ TH TR TW UA US Unknown VE VN ZA ZW
 List of Registered Country Codes: AE AM BG CA CH CN CY CZ DE EE FR GB HK IE IN IR IS LT MD MU NL NO PA PL RO RU SC SE SG UA US VG VU ZA
-IPs: 4626, ASNs: 443, Countries: 84, Reg Countries: 34
+IPs: 4637, ASNs: 443, Countries: 84, Reg Countries: 34

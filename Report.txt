@@ -535,7 +535,7 @@
       :  Country codes: 1
 38493 : Royal Green Communication Limited <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 171>
+39351 : 31173 Services AB <IPs: 173>
       :  Country codes: 7 Reg Country Codes: 1
 393886: LEASEWEB-USA-MIA <IPs: 1>
       :  Country codes: 1
@@ -556,7 +556,7 @@
       :  Country codes: 1
 39832 : Opera Norway AS <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 271>
+398324: CENSYS-ARIN-01 <IPs: 272>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 33>
@@ -622,7 +622,7 @@
       :  Country codes: 1
 45090 : Shenzhen Tencent Computer Systems Company Limited <IPs: 20>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 81>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 82>
       :  Country codes: 8 Reg Country Codes: 2
 45204 : GEMNET LLC <IPs: 3>
       :  Country codes: 1
@@ -668,7 +668,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 49367 : Seflow s.r.l. <IPs: 1>
       :  Country codes: 1
-49434 : Fbw Networks SAS <IPs: 3>
+49434 : Fbw Networks SAS <IPs: 4>
       :  Country codes: 1 Reg Country Codes: 1
 49453 : Global Layer B.V. <IPs: 2>
       :  Country codes: 1
@@ -686,7 +686,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 50219 : VT-255-50219 <IPs: 1>
       :  Country codes: 1
-50304 : Blix Solutions AS <IPs: 31>
+50304 : Blix Solutions AS <IPs: 32>
       :  Country codes: 2 Reg Country Codes: 1
 50360 : Tamatiya EOOD <IPs: 1>
       :  Country codes: 1
@@ -822,7 +822,7 @@
       :  Country codes: 1
 6389  : BELLSOUTH-NET-BLK <IPs: 1>
       :  Country codes: 1
-63949 : Akamai Connected Cloud <IPs: 49>
+63949 : Akamai Connected Cloud <IPs: 50>
       :  Country codes: 5 Reg Country Codes: 2
 64289 : MACARNE <IPs: 3>
       :  Country codes: 1
@@ -873,7 +873,7 @@
       :  Country codes: 3
 8796  : FD-298-8796 <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-9009  : M247 Europe SRL <IPs: 234>
+9009  : M247 Europe SRL <IPs: 235>
       :  [AKA: [VPN provider?]]
       :  Country codes: 27 Reg Country Codes: 3
 9123  : Jsc timeweb <IPs: 1>
@@ -896,7 +896,7 @@
       :  Country codes: 1
 9605  : NTT DOCOMO, INC. <IPs: 1>
       :  Country codes: 1
-9808  : China Mobile Communications Group Co., Ltd. <IPs: 4>
+9808  : China Mobile Communications Group Co., Ltd. <IPs: 5>
       :  [AKA: Shanghai UCloud Information Technology Company Limited]
       :  Country codes: 1
 9829  : National Internet Backbone <IPs: 1>
@@ -907,4 +907,4 @@ None  : Unknown: No Data Given <IPs: 23>
       :  Country codes: 6 Reg Country Codes: 2
 List of Country Codes: AE AL AM AR AT AU AZ BA BD BE BG BR CA CH CL CN CO CR CZ DE DK EC EE EG ES FI FR GB GH GR HK HR HU ID IE IL IN IQ IR IT JP KR KZ LK LT LU LV MA MC MD MN MX MY NA NG NL NO NP NZ PA PE PK PL PT RO RS RU SA SC SE SG SI SK SZ TH TR TW UA US Unknown VE VN ZA ZW
 List of Registered Country Codes: AE AM BG CA CH CN CY CZ DE EE FR GB HK IE IN IR IS LT MD MU NL NO PA PL RO RU SC SE SG UA US VG VU ZA
-IPs: 4640, ASNs: 443, Countries: 84, Reg Countries: 34
+IPs: 4649, ASNs: 443, Countries: 84, Reg Countries: 34

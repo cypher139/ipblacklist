@@ -75,6 +75,10 @@
   f: 5m
   i: M247 Europe SRL
   p: 138
+146.70.138.196:
+  f: 7m
+  i: M247 Europe SRL
+  p: 92
 146.70.141.200:
   f: 10m
   i: M247 Europe SRL
@@ -99,6 +103,10 @@
   f: 8m
   i: M247 Europe SRL
   p: 70
+146.70.225.68:
+  f: 6m
+  i: M247 Europe SRL
+  p: 55
 149.88.20.200:
   f: 6m
   i: Datacamp Limited
@@ -225,7 +233,7 @@
 185.92.210.227:
   f: 5m
   i: HostRoyale Technologies Pvt Ltd
-  p: 30
+  p: 105
 188.126.94.91:
   f: 30m
   i: GleSYS AB

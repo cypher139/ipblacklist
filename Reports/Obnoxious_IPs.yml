@@ -106,7 +106,7 @@
 146.70.225.68:
   f: 6m
   i: M247 Europe SRL
-  p: 55
+  p: 56
 149.88.20.200:
   f: 6m
   i: Datacamp Limited
@@ -222,6 +222,10 @@
   f: 7m
   i: HZ hosting Ltd
   p: 145
+185.65.134.220:
+  f: 5m
+  i: 31173 Services AB
+  p: 108
 185.65.135.176:
   f: 4m
   i: 31173 Services AB
@@ -262,6 +266,10 @@
   f: 10m
   i: Blix Solutions AS
   p: 26
+193.138.7.179:
+  f: 5m
+  i: Blix Solutions AS
+  p: 49
 193.138.7.200:
   f: 6m
   i: Blix Solutions AS

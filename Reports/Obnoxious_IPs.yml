@@ -58,7 +58,7 @@
 138.199.21.241:
   f: 5m
   i: Datacamp Limited
-  p: 64
+  p: 70
 138.199.6.196:
   f: 6m
   i: DataCamp Limited
@@ -333,6 +333,10 @@
   f: 4m
   i: TZULO
   p: 91
+37.19.210.3:
+  f: 6m
+  i: Datacamp Limited
+  p: 92
 37.19.221.132:
   f: 5m
   i: Datacamp Limited

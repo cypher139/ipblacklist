@@ -651,7 +651,7 @@
       :  Country codes: 1
 396356: LATITUDE-SH <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 323>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 325>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 10 Reg Country Codes: 1
 398101: GO-DADDY-COM-LLC <IPs: 1>
@@ -730,7 +730,7 @@
       :  Country codes: 1
 45090 : Shenzhen Tencent Computer Systems Company Limited <IPs: 22>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 99>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 100>
       :  Country codes: 9 Reg Country Codes: 2
 45204 : GEMNET LLC <IPs: 3>
       :  Country codes: 1
@@ -983,7 +983,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 2>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 863>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 864>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 13 Reg Country Codes: 3
 8151  : UNINET <IPs: 1>
@@ -1047,4 +1047,4 @@ None  : Unknown: No Data Given <IPs: 10>
       :  Country codes: 4 Reg Country Codes: 1
 List of Country Codes: AE AM AR AT AU AZ BA BD BE BG BR BY CA CH CI CL CN CO CR CZ DE DK EC EE EG ES FI FR GB GH GR HK HR HU ID IE IL IN IQ IR IT JP KR KZ LK LT LU LV MA MC MD MN MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT RO RS RU SA SC SE SG SI SK SO SZ TH TR TW UA US UY Unknown VE VN ZA ZW
 List of Registered Country Codes: AE AM BG CA CH CN CY CZ DE EE FR GB HK IE IN IR IS LT MD MU NL NO PA PL RO RU SC SE SG UA US VG VU ZA
-IPs: 5665, ASNs: 513, Countries: 90, Reg Countries: 34
+IPs: 5669, ASNs: 513, Countries: 90, Reg Countries: 34

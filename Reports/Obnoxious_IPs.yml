@@ -22,6 +22,10 @@
   f: 4m
   i: HostRoyale Technologies Pvt Ltd
   p: 30
+103.81.231.22:
+  f: 06m
+  i: HostRoyale Technologies Pvt Ltd
+  p: 217
 109.123.240.84:
   f: 15-60m
   i: Contabo GmbH
@@ -134,6 +138,10 @@
   f: 12-60m
   i: DataCamp Limited
   p: 33
+156.146.63.150:
+  f: 22h
+  i: Datacamp Limited
+  p: 383
 156.146.63.160:
   f: 12-60m
   i: DataCamp Limited
@@ -178,6 +186,18 @@
   f: 44s
   i: Korea Telecom
   p: 763
+176.65.134.5:
+  f: 10m
+  i: Go Host Ltd
+  p: 258
+176.65.134.6:
+  f: 10m
+  i: Go Host Ltd
+  p: 254
+176.65.148.103:
+  f: 09m
+  i: Pfcloud UG
+  p: 304
 178.255.149.130:
   f: 6m
   i: Blix Solutions AS
@@ -306,6 +326,10 @@
   f: 6m
   i: Blix Solutions AS
   p: 37
+194.127.199.4:
+  f: 06m
+  i: Blix Solutions AS
+  p: 92
 194.36.25.56:
   f: 4m
   i: Owl Limited
@@ -337,6 +361,10 @@
   f: 4m
   i: TZULO
   p: 91
+23.234.89.22:
+  f: 06m
+  i: TZULO
+  p: 50
 37.19.210.3:
   f: 6m
   i: Datacamp Limited
@@ -377,6 +405,10 @@
   f: 6m
   i: 31173 Services AB
   p: 76
+45.95.147.247:
+  f: 20h
+  i: Alsycon B.V.
+  p: 47
 5.42.101.164:
   f: 15m
   i: Aeza International

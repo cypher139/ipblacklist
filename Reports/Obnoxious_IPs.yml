@@ -298,6 +298,10 @@
   f: 10m
   i: Blix Solutions AS
   p: 26
+193.138.7.170:
+  f: 7m
+  i: Blix Solutions AS
+  p: 70
 193.138.7.179:
   f: 5m
   i: Blix Solutions AS
@@ -349,6 +353,10 @@
 195.226.194.14:
   f: 20-30m
   i: Snowd Security Ou
+204.76.203.35:
+  f: 3m
+  i: Pfcloud UG
+  p: 160
 23.162.40.148:
   f: 5m
   i: AS Cyber Data

@@ -134,6 +134,10 @@
   f: 10-35m
   i: New Itime AG
   p: 22
+155.2.190.62:
+  f: 8m
+  i: uk-2 Limited
+  p: 30
 156.146.63.144:
   f: 12-60m
   i: DataCamp Limited
@@ -222,6 +226,10 @@
   f: 6m
   i: 31173 Services AB
   p: 34
+185.195.232.147:
+  f: 6m
+  i: 31173 Services AB
+  p: 48
 185.195.233.229:
   f: 5m
   i: 31173 Services AB
@@ -356,7 +364,7 @@
 204.76.203.35:
   f: 3m
   i: Pfcloud UG
-  p: 160
+  p: 198
 23.162.40.148:
   f: 5m
   i: AS Cyber Data
@@ -365,6 +373,10 @@
   f: 33m
   i: Netiface Limited
   p: 34
+23.234.102.217:
+  f: 6m
+  i: TZULO
+  p: 58
 23.234.102.22:
   f: 11m
   i: TZULO

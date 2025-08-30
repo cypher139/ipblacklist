@@ -450,7 +450,7 @@
       :  Country codes: 1 Reg Country Codes: 2
 213887: WAIcore Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-214209: Internet Magnate (Pty) Ltd <IPs: 3>
+214209: Internet Magnate (Pty) Ltd <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
 214295: Skynet Network Ltd <IPs: 3>
       :  Country codes: 2
@@ -749,7 +749,7 @@
       :  Country codes: 1
 396356: LATITUDE-SH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 426>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 428>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 12 Reg Country Codes: 1
 398101: GO-DADDY-COM-LLC <IPs: 1>
@@ -824,7 +824,7 @@
       :  Country codes: 1
 43205 : Vivacom Bulgaria EAD <IPs: 1>
       :  Country codes: 1
-43357 : Owl Limited <IPs: 35>
+43357 : Owl Limited <IPs: 36>
       :  Country codes: 4 Reg Country Codes: 1
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
@@ -1141,7 +1141,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 3>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1000>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1001>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 15 Reg Country Codes: 3
 8151  : UNINET <IPs: 1>
@@ -1205,4 +1205,4 @@ None  : Unknown: No Data Given <IPs: 20>
       :  Country codes: 9 Reg Country Codes: 2
 List of Country Codes: AE AM AR AT AU AZ BA BD BE BG BO BR BY CA CH CI CL CN CO CR CZ DE DK EC EE EG ES FI FR GB GH GR HK HN HR HU ID IE IL IN IQ IR IT JP KR KZ LK LT LU LV MA MC MD MN MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SZ TH TR TW UA US UY Unknown VE VN ZA ZW
 List of Registered Country Codes: AE AM BG CA CH CN CO CY CZ DE EE FR GB HK IE IN IQ IR IS LT LU LV MD MU NL NO PA PL RO RU SC SE SG UA US VG VU ZA
-IPs: 6820, ASNs: 592, Countries: 93, Reg Countries: 38
+IPs: 6825, ASNs: 592, Countries: 93, Reg Countries: 38

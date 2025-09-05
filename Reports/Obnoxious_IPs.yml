@@ -96,7 +96,7 @@
   i: M247 Europe SRL
   p: 17
 146.70.172.234:
-  f: 07m
+  f: 7m
   i: M247 Europe SRL
   p: 31
 146.70.187.159:
@@ -373,6 +373,10 @@
   f: 5m
   i: AS Cyber Data
   p: 131
+23.168.216.217:
+  f: 7m
+  i: HAYASHIMO
+  p: 42
 23.176.184.152:
   f: 33m
   i: Netiface Limited

@@ -25,7 +25,7 @@
       :  Country codes: 1
 11845 : Vox-Telecom <IPs: 1>
       :  Country codes: 1
-11878 : TZULO <IPs: 85>
+11878 : TZULO <IPs: 86>
       :  Country codes: 2 Reg Country Codes: 1
 1221  : Telstra Limited <IPs: 1>
       :  Country codes: 1
@@ -125,7 +125,7 @@
       :  Country codes: 1
 135258: Sdh Network Pvt Ltd <IPs: 2>
       :  Country codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 112>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 115>
       :  Country codes: 14 Reg Country Codes: 2
 135661: Superior Connections private limited <IPs: 1>
       :  Country codes: 1
@@ -191,7 +191,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 140527: China Telecom <IPs: 1>
       :  Country codes: 1
-14061 : DIGITALOCEAN-ASN <IPs: 617>
+14061 : DIGITALOCEAN-ASN <IPs: 618>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 8 Reg Country Codes: 3
 140726: UNICOM AnHui province network <IPs: 3>
@@ -282,7 +282,7 @@
       :  Country codes: 1
 17561 : LARUS Limited <IPs: 3>
       :  Country codes: 1 Reg Country Codes: 1
-17621 : China Unicom Shanghai network <IPs: 13>
+17621 : China Unicom Shanghai network <IPs: 14>
       :  Country codes: 1
 17622 : China Unicom Guangzhou network <IPs: 3>
       :  Country codes: 1
@@ -475,7 +475,7 @@
       :  Country codes: 6 Reg Country Codes: 5
 210743: Babbar SAS <IPs: 5>
       :  Country codes: 1
-211298: Driftnet Ltd <IPs: 145>
+211298: Driftnet Ltd <IPs: 146>
       :  [AKA: Constantine Cybersecurity Ltd.]
       :  Country codes: 1
 211301: Unesty Company <IPs: 1>
@@ -588,7 +588,7 @@
       :  Country codes: 1
 21769 : AS-COLOAM <IPs: 1>
       :  Country codes: 1
-21859 : ZEN-ECN <IPs: 29>
+21859 : ZEN-ECN <IPs: 30>
       :  [AKA: Zenlayer Inc]
       :  Country codes: 5 Reg Country Codes: 2
 21928 : T-MOBILE-AS21928 <IPs: 1>
@@ -966,7 +966,7 @@
       :  Country codes: 1
 41268 : LANTA Ltd <IPs: 1>
       :  Country codes: 1
-4134  : Chinanet <IPs: 85>
+4134  : Chinanet <IPs: 86>
       :  Country codes: 1
 41564 : Orion Network Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1008,7 +1008,7 @@
       :  Country codes: 1
 45090 : Shenzhen Tencent Computer Systems Company Limited <IPs: 27>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 137>
+45102 : Alibaba US Technology Co., Ltd. <IPs: 138>
       :  Country codes: 10 Reg Country Codes: 2
 45204 : GEMNET LLC <IPs: 5>
       :  Country codes: 1
@@ -1070,7 +1070,7 @@
       :  Country codes: 1
 48282 : Hosting technology LTD <IPs: 1>
       :  Country codes: 1
-4837  : CHINA UNICOM China169 Backbone <IPs: 71>
+4837  : CHINA UNICOM China169 Backbone <IPs: 73>
       :  Country codes: 1
 4847  : China Networks Inter-Exchange <IPs: 2>
       :  Country codes: 1
@@ -1304,7 +1304,7 @@
       :  Country codes: 1
 6389  : BELLSOUTH-NET-BLK <IPs: 2>
       :  Country codes: 1
-63949 : Akamai Connected Cloud <IPs: 94>
+63949 : Akamai Connected Cloud <IPs: 96>
       :  Country codes: 6 Reg Country Codes: 2
 64289 : MACARNE <IPs: 3>
       :  Country codes: 1
@@ -1351,7 +1351,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 4>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1217>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1218>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 15 Reg Country Codes: 3
 8151  : UNINET <IPs: 1>
@@ -1427,4 +1427,4 @@ None  : Unknown: No Data Given <IPs: 22>
       :  Country codes: 7 Reg Country Codes: 1
 List of Country Codes: AE AM AR AT AU AZ BA BD BE BG BO BR BY CA CD CH CI CL CN CO CR CZ DE DK DZ EC EE EG ES FI FR GB GH GR HK HN HR HU ID IE IL IN IQ IR IT JP KR KZ LK LT LU LV MA MC MD MN MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SZ TH TR TW UA US UY Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT BG CA CH CN CO CY CZ DE EE FR GB HK IE IN IQ IR IS LT LU LV MD MU NL NO NZ PA PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 9225, ASNs: 703, Countries: 96, Reg Countries: 42
+IPs: 9240, ASNs: 703, Countries: 96, Reg Countries: 42

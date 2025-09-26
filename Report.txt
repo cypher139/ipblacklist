@@ -25,7 +25,7 @@
       :  Country codes: 1
 11845 : Vox-Telecom <IPs: 1>
       :  Country codes: 1
-11878 : TZULO <IPs: 99>
+11878 : TZULO <IPs: 101>
       :  Country codes: 2 Reg Country Codes: 1
 12127 : Telefonica Moviles El Salvador S.A. de C.V. <IPs: 1>
       :  Country codes: 1
@@ -159,7 +159,7 @@
       :  Country codes: 1
 136515: Dasca Cable Services, Inc. <IPs: 1>
       :  Country codes: 1
-136557: Host Universal Pty Ltd <IPs: 24>
+136557: Host Universal Pty Ltd <IPs: 25>
       :  Country codes: 4 Reg Country Codes: 3
 136787: PacketHub S.A. <IPs: 3>
       :  Country codes: 2 Reg Country Codes: 1
@@ -520,7 +520,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 200>
+212238: Datacamp Limited <IPs: 201>
       :  Country codes: 24 Reg Country Codes: 5
 212271: Lumanex Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -915,7 +915,7 @@
       :  Country codes: 1
 39134 : Edinaya Set Limited Liability Company <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 194>
+39351 : 31173 Services AB <IPs: 196>
       :  Country codes: 7 Reg Country Codes: 1
 39383 : Annarsy SRL <IPs: 1>
       :  Country codes: 1
@@ -944,7 +944,7 @@
       :  Country codes: 1
 39832 : Opera Norway AS <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-398324: CENSYS-ARIN-01 <IPs: 385>
+398324: CENSYS-ARIN-01 <IPs: 386>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 398705: CENSYS-ARIN-02 <IPs: 46>
@@ -978,7 +978,7 @@
       :  Country codes: 1
 400619: AROSS-AS <IPs: 1>
       :  Country codes: 1
-400882: AS-CYBER-DATA <IPs: 7>
+400882: AS-CYBER-DATA <IPs: 8>
       :  Country codes: 1
 400940: RAILWAY <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1034,7 +1034,7 @@
       :  Country codes: 1
 43350 : NForce Entertainment B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-43357 : Owl Limited <IPs: 37>
+43357 : Owl Limited <IPs: 39>
       :  Country codes: 4 Reg Country Codes: 1
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
@@ -1154,7 +1154,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 50219 : VT-255-50219 <IPs: 4>
       :  Country codes: 1
-50304 : Blix Solutions AS <IPs: 41>
+50304 : Blix Solutions AS <IPs: 42>
       :  Country codes: 2 Reg Country Codes: 1
 50360 : Tamatiya EOOD <IPs: 4>
       :  Country codes: 1
@@ -1290,7 +1290,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 59711 : HZ Hosting Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-60068 : Datacamp Limited <IPs: 23>
+60068 : Datacamp Limited <IPs: 24>
       :  Country codes: 7 Reg Country Codes: 2
 60095 : JSC Ufanet <IPs: 1>
       :  Country codes: 1
@@ -1445,7 +1445,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 8881  : 1&1 Versatel Deutschland GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 299>
+9009  : M247 Europe SRL <IPs: 301>
       :  [AKA: [VPN provider?]]
       :  Country codes: 29 Reg Country Codes: 4
 9123  : Jsc timeweb <IPs: 1>
@@ -1485,4 +1485,4 @@ None  : Unknown: No Data Given <IPs: 36>
       :  Country codes: 10 Reg Country Codes: 2
 List of Country Codes: AE AM AR AT AU AZ BA BD BE BG BO BR BY CA CD CH CI CL CN CO CR CU CZ DE DK DZ EC EE EG ES FI FR GB GH GR HK HN HR HU ID IE IL IN IQ IR IS IT JP KR KZ LK LT LU LV MA MC MD MN MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SZ TH TR TW UA US UY Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT BG CA CH CN CO CY CZ DE EE ES FR GB GR HK IE IN IQ IR IS LT LU LV MD MU NL NO NZ PA PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 9842, ASNs: 732, Countries: 99, Reg Countries: 44
+IPs: 9856, ASNs: 732, Countries: 99, Reg Countries: 44

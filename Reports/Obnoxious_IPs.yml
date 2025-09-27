@@ -377,6 +377,10 @@
   f: 3m
   i: Pfcloud UG
   p: 198
+23.160.24.167:
+  f: 7m
+  i: DATABRIDGE
+  p: 44
 23.162.40.148:
   f: 5m
   i: AS Cyber Data
@@ -409,6 +413,10 @@
   f: 06m
   i: TZULO
   p: 50
+23.234.92.167:
+  f: 7m
+  i: TZULO
+  p: 33
 37.19.210.3:
   f: 6m
   i: Datacamp Limited
@@ -417,6 +425,10 @@
   f: 5m
   i: Datacamp Limited
   p: 57
+37.19.221.134:
+  f: 7m
+  i: Datacamp Limited
+  p: 48
 37.46.113.164:
   f: 50m
   i: AltusHost B.V.
@@ -500,6 +512,10 @@
   f: 5m
   i: TZULO
   p: 125
+68.235.46.73:
+  f: 7m
+  i: TZULO
+  p: 41
 68.235.46.99:
   f: 5m
   i: TZULO

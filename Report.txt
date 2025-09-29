@@ -1,6 +1,6 @@
 10010 : TOKAI Communications Corporation <IPs: 1>
       :  Country codes: 1
-10439 : CARINET <IPs: 28>
+10439 : CARINET <IPs: 29>
       :  Country codes: 1
 10620 : Telmex Colombia S.A. <IPs: 1>
       :  Country codes: 1
@@ -27,7 +27,7 @@
       :  Country codes: 1
 11845 : Vox-Telecom <IPs: 1>
       :  Country codes: 1
-11878 : TZULO <IPs: 106>
+11878 : TZULO <IPs: 107>
       :  Country codes: 2 Reg Country Codes: 1
 12127 : Telefonica Moviles El Salvador S.A. de C.V. <IPs: 1>
       :  Country codes: 1
@@ -79,7 +79,7 @@
       :  Country codes: 1
 132116: Ani Network Pvt Ltd <IPs: 1>
       :  Country codes: 1
-13213 : UK-2 Limited <IPs: 5>
+13213 : UK-2 Limited <IPs: 6>
       :  Country codes: 1 Reg Country Codes: 1
 132153: No.3,Shu-Ma Road <IPs: 1>
       :  Country codes: 1
@@ -526,7 +526,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 209>
+212238: Datacamp Limited <IPs: 212>
       :  Country codes: 24 Reg Country Codes: 5
 212271: Lumanex Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -925,7 +925,7 @@
       :  Country codes: 1
 39134 : Edinaya Set Limited Liability Company <IPs: 1>
       :  Country codes: 1
-39351 : 31173 Services AB <IPs: 199>
+39351 : 31173 Services AB <IPs: 201>
       :  Country codes: 7 Reg Country Codes: 1
 39383 : Annarsy SRL <IPs: 1>
       :  Country codes: 1
@@ -1048,7 +1048,7 @@
       :  Country codes: 1
 43350 : NForce Entertainment B.V. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-43357 : Owl Limited <IPs: 39>
+43357 : Owl Limited <IPs: 40>
       :  Country codes: 4 Reg Country Codes: 1
 43513 : Sia Nano IT <IPs: 2>
       :  Country codes: 1
@@ -1421,7 +1421,7 @@
       :  Country codes: 1
 8048  : CANTV Servicios, Venezuela <IPs: 4>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1309>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1311>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 15 Reg Country Codes: 3
 8151  : UNINET <IPs: 1>
@@ -1459,7 +1459,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 8881  : 1&1 Versatel Deutschland GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 317>
+9009  : M247 Europe SRL <IPs: 320>
       :  [AKA: [VPN provider?]]
       :  Country codes: 31 Reg Country Codes: 5
 9123  : Jsc timeweb <IPs: 1>
@@ -1499,4 +1499,4 @@ None  : Unknown: No Data Given <IPs: 32>
       :  Country codes: 9 Reg Country Codes: 2
 List of Country Codes: AE AM AR AT AU AZ BA BD BE BG BO BR BY BZ CA CD CH CI CL CN CO CR CU CZ DE DK DZ EC EE EG ES FI FR GB GH GR HK HN HR HU ID IE IL IN IQ IR IS IT JP KR KZ LB LK LT LU LV MA MC MD MN MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SZ TH TR TW UA US UY Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT BG CA CH CN CO CY CZ DE EE ES FR GB GR HK IE IN IQ IR IS LT LU LV MD MU NL NO NZ PA PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 9987, ASNs: 739, Countries: 101, Reg Countries: 44
+IPs: 10001, ASNs: 739, Countries: 101, Reg Countries: 44

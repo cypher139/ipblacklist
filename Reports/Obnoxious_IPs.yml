@@ -95,6 +95,10 @@
   f: 10m
   i: M247 Europe SRL
   p: 17
+146.70.171.143:
+  f: 7m
+  i: M247 Europe SRL
+  p: 42
 146.70.172.234:
   f: 7m
   i: M247 Europe SRL
@@ -334,6 +338,10 @@
   f: 6m
   i: 31173 Services AB
   p: 26
+193.32.249.160:
+  f: 7m
+  i: 31173 Services AB
+  p: 36
 193.32.249.171:
   f: 4m
   i: 31173 Services AB
@@ -362,6 +370,10 @@
   f: 4m
   i: Owl Limited
   p: 282
+194.36.25.7:
+  f: 7m
+  i: Owl Limited
+  p: 51
 195.154.199.60:
   f: 1-4m
   i: Scaleway
@@ -413,6 +425,14 @@
   f: 06m
   i: TZULO
   p: 50
+23.234.90.167:
+  f: 7m
+  i: TZULO
+  p: 40
+23.234.91.41:
+  f: 8m
+  i: TZULO
+  p: 45
 23.234.92.167:
   f: 7m
   i: TZULO

@@ -334,6 +334,10 @@
   f: 6m
   i: Gravhosting Ltd
   p: 103
+193.32.126.163:
+  f: 7m
+  i: 31173 Services AB
+  p: 46
 193.32.127.237:
   f: 6m
   i: 31173 Services AB
@@ -417,6 +421,14 @@
   f: 11m
   i: TZULO
   p: 85
+23.234.114.167:
+  f: 7m
+  i: TZULO
+  p: 37
+23.234.84.40:
+  f: 7m
+  i: TZULO
+  p: 114
 23.234.86.197:
   f: 4m
   i: TZULO

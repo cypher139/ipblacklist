@@ -2,6 +2,10 @@
   f: 4m
   i: HostRoyale Technologies Pvt Ltd
   p: 34
+103.102.247.41:
+  f: 7m
+  i: HostRoyale Technologies Pvt Ltd
+  p: 61
 103.214.20.57:
   f: 5m
   i: Host Universal Pty Ltd
@@ -95,6 +99,10 @@
   f: 10m
   i: M247 Europe SRL
   p: 17
+146.70.166.143:
+  f: 7m
+  i: M247 Europe SRL
+  p: 69
 146.70.171.143:
   f: 7m
   i: M247 Europe SRL
@@ -115,6 +123,10 @@
   f: 6m
   i: M247 Europe SRL
   p: 99
+146.70.211.79:
+  f: 7m
+  i: M247 Europe SRL
+  p: 30
 146.70.22.200:
   f: 11m
   i: M247 Europe SRL
@@ -210,6 +222,10 @@
   f: 09m
   i: Pfcloud UG
   p: 308
+176.65.148.49:
+  f: 20m
+  i: Pfcloud UG
+  p: 44
 178.16.54.25:
   f: 2m
   i: dus.net GmbH
@@ -218,6 +234,10 @@
   f: 7m
   i: Datacamp Limited
   p: 48
+178.249.211.96:
+  f: 7m
+  i: Datacamp Limited
+  p: 46
 178.255.149.130:
   f: 6m
   i: Blix Solutions AS
@@ -428,7 +448,7 @@
 23.234.84.40:
   f: 7m
   i: TZULO
-  p: 114
+  p: 1143
 23.234.86.197:
   f: 4m
   i: TZULO

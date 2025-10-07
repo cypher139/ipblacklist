@@ -6,6 +6,10 @@
   f: 7m
   i: HostRoyale Technologies Pvt Ltd
   p: 61
+103.108.231.54:
+  f: 8m
+  i: Host Universal Pty Ltd
+  p: 36
 103.214.20.57:
   f: 5m
   i: Host Universal Pty Ltd
@@ -417,6 +421,10 @@
   f: 7m
   i: DATABRIDGE
   p: 44
+23.160.24.41:
+  f: 6m
+  i: DATABRIDGE
+  p: 62
 23.162.40.148:
   f: 5m
   i: AS Cyber Data
@@ -448,7 +456,7 @@
 23.234.84.40:
   f: 7m
   i: TZULO
-  p: 1143
+  p: 114
 23.234.86.197:
   f: 4m
   i: TZULO
@@ -602,6 +610,10 @@
   f: 3-60m
   i: Ekabi LLC
   p: 87
+89.187.168.52:
+  f: 11m
+  i: Datacamp Limited
+  p: 30
 92.60.40.202:
   f: 11m
   i: Owl Limited

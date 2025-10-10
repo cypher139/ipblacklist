@@ -1,633 +1,638 @@
-103.102.247.148:
-  f: 4m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 34
-103.102.247.41:
-  f: 7m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 61
-103.108.231.54:
-  f: 8m
-  i: Host Universal Pty Ltd
-  p: 36
-103.214.20.57:
-  f: 5m
-  i: Host Universal Pty Ltd
-  p: 35
-103.216.220.25:
-  f: 4m
-  i: Host Universal Pty Ltd
-  p: 64
-103.251.26.22:
-  f: 5m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 172
-103.251.27.71:
-  f: 7m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 109
-103.81.230.22:
-  f: 4m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 30
-103.81.231.22:
-  f: 06m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 217
-109.123.240.84:
-  f: 15-60m
-  i: Contabo GmbH
-  p: 500
-  u: ServerSeeker
-112.171.19.96:
-  f: 30m
-  i: Korea Telecom
-  p: 27
-115.4.98.136:
-  f: 10m
-  i: Korea Telecom
-  p: 104
-119.214.34.93:
-  f: 2m
-  i: Korea Telecom
-  p: 159
-131.156.156.126:
-  f: 3m
-  i: Northern Illinois University
-  p: 287
-131.156.156.127:
-  f: 7-13m
-  i: Northern Illinois University
-  p: 174
-131.156.156.134:
-  f: 13m
-  i: Northern Illinois University
-  p: 43
-132.145.34.181:
-  f: 25m
-  i: Oracle Public Cloud
-  p: 23
-138.199.21.241:
-  f: 5m
-  i: Datacamp Limited
-  p: 70
-138.199.6.196:
-  f: 6m
-  i: DataCamp Limited
-  p: 33
-138.199.6.227:
-  f: 4m
-  i: DataCamp Limited
-  p: 91
-146.70.117.208:
-  f: 6m
-  i: M247 Europe SRL
-  p: 29
-146.70.119.80:
-  f: 6m
-  i: M247 Europe SRL
-  p: 19
-146.70.126.166:
-  f: 6m
-  i: M247 Europe SRL
-  p: 27
-146.70.134.68:
-  f: 5m
-  i: M247 Europe SRL
-  p: 138
-146.70.138.196:
-  f: 7m
-  i: M247 Europe SRL
-  p: 92
-146.70.141.200:
-  f: 10m
-  i: M247 Europe SRL
-  p: 17
-146.70.166.143:
-  f: 7m
-  i: M247 Europe SRL
-  p: 69
-146.70.171.143:
-  f: 7m
-  i: M247 Europe SRL
-  p: 42
-146.70.172.234:
-  f: 7m
-  i: M247 Europe SRL
-  p: 31
-146.70.187.159:
-  f: 6m
-  i: M247 Europe SRL
-  p: 197
-146.70.199.223:
-  f: 8m
-  i: M247 Europe SRL
-  p: 33
-146.70.200.196:
-  f: 6m
-  i: M247 Europe SRL
-  p: 99
-146.70.211.79:
-  f: 7m
-  i: M247 Europe SRL
-  p: 30
-146.70.22.200:
-  f: 11m
-  i: M247 Europe SRL
-  p: 16
-146.70.225.31:
-  f: 8m
-  i: M247 Europe SRL
-  p: 70
-146.70.225.68:
-  f: 6m
-  i: M247 Europe SRL
-  p: 56
-149.88.20.200:
-  f: 6m
-  i: Datacamp Limited
-  p: 31
-154.213.185.46:
-  f: 15m
-  i: PFCloud
-  u: Cornbread21xxxx (replace x with randomized numbers)
-154.213.187.231:
-  f: 5h
-  i: PFCloud
-154.42.7.39:
-  f: 10-35m
-  i: New Itime AG
-  p: 22
-155.2.190.62:
-  f: 6m
-  i: uk-2 Limited
-  p: 138
-156.146.63.144:
-  f: 12-60m
-  i: DataCamp Limited
-  p: 33
-156.146.63.150:
-  f: 22h
-  i: Datacamp Limited
-  p: 384
-156.146.63.160:
-  f: 12-60m
-  i: DataCamp Limited
-  p: 40
-156.146.63.199:
-  f: 12m
-  i: DataCamp Limited
-  p: 47
-156.146.63.209:
-  f: 17m
-  i: Datacamp Limited
-  p: 32
-156.229.233.237:
-  f: 13m
-  i: Netiface Limited
-  p: 49
-156.253.227.129:
-  f: 10m
-  i: Rekade International
-  p: 89
-164.68.124.86:
-  f: 11m
-  i: Contabo GmbH
-  p: 147
-167.86.121.64:
-  f: 8m
-  i: Contabo GmbH
-  p: 29
-169.150.196.9:
-  f: 12m
-  i: Datacamp Limited
-  p: 22
-169.150.201.30:
-  f: 10m
-  i: DataCamp Limited
-  p: 28
-169.150.201.4:
-  f: 6m
-  i: DataCamp Limited
-  p: 110
-175.235.126.90:
-  f: 44s
-  i: Korea Telecom
-  p: 763
-176.65.134.5:
-  f: 10m
-  i: Go Host Ltd
-  p: 259
-176.65.134.6:
-  f: 10m
-  i: Go Host Ltd
-  p: 256
-176.65.148.103:
-  f: 09m
-  i: Pfcloud UG
-  p: 308
-176.65.148.49:
-  f: 20m
-  i: Pfcloud UG
-  p: 44
-178.16.54.25:
-  f: 2m
-  i: dus.net GmbH
-  p: 504
-178.249.211.75:
-  f: 7m
-  i: Datacamp Limited
-  p: 48
-178.249.211.96:
-  f: 7m
-  i: Datacamp Limited
-  p: 46
-178.255.149.130:
-  f: 6m
-  i: Blix Solutions AS
-  p: 84
-178.255.149.134:
-  f: 6m
-  i: Blix Solutions AS
-  p: 131
-179.43.189.70:
-  f: 5m
-  i: Private Layer Inc
-  p: 47
-179.43.189.80:
-  f: 6m
-  i: Private Layer Inc
-  p: 79
-185.195.232.132:
-  f: 6m
-  i: 31173 Services AB
-  p: 34
-185.195.232.147:
-  f: 6m
-  i: 31173 Services AB
-  p: 48
-185.195.233.229:
-  f: 5m
-  i: 31173 Services AB
-  p: 19
-185.209.198.110:
-  f: 6m
-  i: 31173 Services AB
-  p: 33
-185.209.198.200:
-  f: 4m
-  i: 31173 Services AB
-  p: 47
-185.209.199.144:
-  f: 6m
-  i: 31173 Services AB
-  p: 31
-185.213.155.202:
-  f: 11m
-  i: 31173 Services AB
-  p: 32
-185.248.85.5:
-  f: 7m
-  i: Owl Limited
-  p: 35
-185.248.85.50:
-  f: 5m
-  i: Owl Limited
-  p: 39
-185.253.118.69:
-  f: 7m
-  i: HZ hosting Ltd
-  p: 145
-185.65.134.220:
-  f: 5m
-  i: 31173 Services AB
-  p: 108
-185.65.135.176:
-  f: 4m
-  i: 31173 Services AB
-  p: 15
-185.92.210.210:
-  f: 4m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 126
-185.92.210.227:
-  f: 5m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 105
-188.126.94.91:
-  f: 30m
-  i: GleSYS AB
-  p: 35
-190.77.47.70:
-  f: 3m
-  i: CANTV Servicios
-  p: 45
-191.101.217.28:
-  f: 15m
-  i: Cyber Assets Fzco
-  p: 59
-191.101.31.64:
-  f: 4m
-  i: Cyber Assets Fzco
-  p: 344
-193.138.218.160:
-  f: 6m
-  i: 31173 Services AB
-  p: 17
-193.138.218.200:
-  f: 11m
-  i: 31173 Services AB
-  p: 28
-193.138.7.140:
-  f: 10m
-  i: Blix Solutions AS
-  p: 26
-193.138.7.170:
-  f: 7m
-  i: Blix Solutions AS
-  p: 70
-193.138.7.179:
-  f: 5m
-  i: Blix Solutions AS
-  p: 49
-193.138.7.200:
-  f: 6m
-  i: Blix Solutions AS
-  p: 91
-193.25.217.28:
-  f: 6m
-  i: Gravhosting Ltd
-  p: 103
-193.32.126.163:
-  f: 7m
-  i: 31173 Services AB
-  p: 46
-193.32.127.237:
-  f: 6m
-  i: 31173 Services AB
-  p: 26
-193.32.249.160:
-  f: 7m
-  i: 31173 Services AB
-  p: 36
-193.32.249.171:
-  f: 4m
-  i: 31173 Services AB
-  p: 237
-194.114.136.38:
-  f: 5m
-  i: Owl Limited
-  p: 21
-194.114.136.69:
-  f: 5m
-  i: Owl Limited
-  p: 13
-194.127.199.35:
-  f: 6m
-  i: Blix Solutions AS
-  p: 37
-194.127.199.4:
-  f: 06m
-  i: Blix Solutions AS
-  p: 95
-194.127.199.51:
-  f: 7m
-  i: Blix Solutions AS
-  p: 96
-194.36.25.56:
-  f: 4m
-  i: Owl Limited
-  p: 282
-194.36.25.7:
-  f: 7m
-  i: Owl Limited
-  p: 51
-195.154.199.60:
-  f: 1-4m
-  i: Scaleway
-  p: 6067
-195.201.95.90:
-  f: 1h
-  i: Hetzner Online GmbH
-  p: 953
-195.226.194.14:
-  f: 20-30m
-  i: Snowd Security Ou
-204.76.203.35:
-  f: 3m
-  i: Pfcloud UG
-  p: 198
-23.160.24.167:
-  f: 7m
-  i: DATABRIDGE
-  p: 44
-23.160.24.41:
-  f: 6m
-  i: DATABRIDGE
-  p: 62
-23.162.40.148:
-  f: 5m
-  i: AS Cyber Data
-  p: 131
-23.168.216.217:
-  f: 7m
-  i: HAYASHIMO
-  p: 42
-23.168.216.89:
-  f: 7m
-  i: HAYASHIMO
-  p: 95
-23.176.184.152:
-  f: 33m
-  i: Netiface Limited
-  p: 34
-23.234.102.217:
-  f: 6m
-  i: TZULO
-  p: 58
-23.234.102.22:
-  f: 11m
-  i: TZULO
-  p: 85
-23.234.114.167:
-  f: 7m
-  i: TZULO
-  p: 37
-23.234.84.40:
-  f: 7m
-  i: TZULO
-  p: 114
-23.234.86.197:
-  f: 4m
-  i: TZULO
-  p: 91
-23.234.89.22:
-  f: 06m
-  i: TZULO
-  p: 50
-23.234.90.167:
-  f: 7m
-  i: TZULO
-  p: 40
-23.234.91.41:
-  f: 8m
-  i: TZULO
-  p: 45
-23.234.92.167:
-  f: 7m
-  i: TZULO
-  p: 33
-37.19.210.3:
-  f: 6m
-  i: Datacamp Limited
-  p: 92
-37.19.221.132:
-  f: 5m
-  i: Datacamp Limited
-  p: 57
-37.19.221.134:
-  f: 7m
-  i: Datacamp Limited
-  p: 48
-37.46.113.164:
-  f: 50m
-  i: AltusHost B.V.
-  p: 25
-43.225.189.133:
-  f: 5m
-  i: HostRoyale Technologies Pvt Ltd
-  p: 213
-45.130.200.103:
-  f: 6m
-  i: Eisenia AB
-  p: 170
-45.130.200.119:
-  f: 6m
-  i: Eisenia AB
-  p: 32
-45.134.142.208:
-  f: 7m
-  i: Datacamp Limited
-  p: 32
-45.134.213.209:
-  f: 5m
-  i: Datacamp Limited
-  p: 68
-45.135.194.8:
-  f: 4m
-  i: PFCloud
-  p: 59
-45.83.220.211:
-  f: 6m
-  i: 31173 Services AB
-  p: 76
-45.95.147.247:
-  f: 20h
-  i: Alsycon B.V.
-  p: 48
-5.42.101.164:
-  f: 15m
-  i: Aeza International
-  p: 228
-51.15.34.47:
-  f: 5h
-  i: Scaleway SAS
-  p: 192
-51.15.58.25:
-  f: 15-60m
-  i: Scaleway SAS
-  p: 83
-51.158.174.200:
-  f: 24h
-  i: Scaleway
-54.36.120.8:
-  f: 14m
-  i: OVH
-  p: 469
-61.75.78.40:
-  f: 14m
-  i: Korea Telecom
-  p: 30
-62.60.247.100:
-  f: 20m
-  i: Easy Chain Network
-  p: 42
-62.93.167.135:
-  f: 10m
-  i: DataCamp Limited
-  p: 46
-68.235.46.111:
-  f: 4m
-  i: TZULO
-  p: 65
-68.235.46.130:
-  f: 5m
-  i: TZULO
-  p: 49
-68.235.46.142:
-  f: 6m
-  i: TZULO
-  p: 224
-68.235.46.37:
-  f: 5m
-  i: TZULO
-  p: 125
-68.235.46.73:
-  f: 7m
-  i: TZULO
-  p: 41
-68.235.46.99:
-  f: 5m
-  i: TZULO
-  p: 86
-77.221.138.182:
-  f: 12m
-  i: Aeza International
-  p: 273
-77.68.6.60:
-  f: 3m
-  i: Fasthosts Internet Limited
-  p: 214
-84.239.16.162:
-  f: 7m
-  i: Invite Systems SRL
-  p: 48
-85.235.71.200:
-  f: 11m
-  i: Xtra Telecom S.A.
-  p: 109
-  u: kevincitopito
-86.106.2.222:
-  f: 3m
-  i: procono s.a.
-  p: 51
-  u: notcheat
-87.120.112.234:
-  f: 10m
-  i: Ekabi LLC
-  p: 16
-87.120.126.53:
-  f: 3-60m
-  i: Ekabi LLC
-  p: 87
-89.187.168.52:
-  f: 11m
-  i: Datacamp Limited
-  p: 30
-92.60.40.202:
-  f: 11m
-  i: Owl Limited
-  p: 90
-92.60.40.211:
-  f: 6m
-  i: Owl Limited
-  p: 79
-94.131.100.102:
-  f: 7-9m
-  i: Stark Industries Solutions Ltd.
-  p: 70
-  u: ServerOverflow1
-95.173.222.18:
-  f: 4m
-  i: Datacamp Limited
-  p: 96
+# Obnoxious Pingers
+# These IPs keep frequently pinging the server and typically never actually connect in-game. Recommend blocking this section of IPs at the firewall level.
+# format: f: Frequency, i: ISP, u: Minecraft Username, p: Number of pings observed.
+Obnoxious:
+  # Sorted by ASN
+  185.195.232.132:
+    f: 6m
+    i: 31173 Services AB
+    p: 34
+  185.195.232.147:
+    f: 6m
+    i: 31173 Services AB
+    p: 48
+  185.195.233.229:
+    f: 5m
+    i: 31173 Services AB
+    p: 19
+  185.209.198.110:
+    f: 6m
+    i: 31173 Services AB
+    p: 33
+  185.209.198.200:
+    f: 4m
+    i: 31173 Services AB
+    p: 47
+  185.209.199.144:
+    f: 6m
+    i: 31173 Services AB
+    p: 31
+  185.213.155.202:
+    f: 11m
+    i: 31173 Services AB
+    p: 32
+  185.65.134.220:
+    f: 5m
+    i: 31173 Services AB
+    p: 108
+  185.65.135.176:
+    f: 4m
+    i: 31173 Services AB
+    p: 15
+  193.138.218.160:
+    f: 6m
+    i: 31173 Services AB
+    p: 17
+  193.138.218.200:
+    f: 11m
+    i: 31173 Services AB
+    p: 28
+  193.32.126.163:
+    f: 7m
+    i: 31173 Services AB
+    p: 46
+  193.32.127.237:
+    f: 6m
+    i: 31173 Services AB
+    p: 26
+  193.32.249.160:
+    f: 7m
+    i: 31173 Services AB
+    p: 36
+  193.32.249.171:
+    f: 4m
+    i: 31173 Services AB
+    p: 237
+  45.83.220.211:
+    f: 6m
+    i: 31173 Services AB
+    p: 76
+  5.42.101.164:
+    f: 15m
+    i: Aeza International
+    p: 228
+  77.221.138.182:
+    f: 12m
+    i: Aeza International
+    p: 273
+  45.95.147.247:
+    f: 20h
+    i: Alsycon B.V.
+    p: 48
+  37.46.113.164:
+    f: 50m
+    i: AltusHost B.V.
+    p: 25
+  23.162.40.148:
+    f: 5m
+    i: AS Cyber Data
+    p: 131
+  178.255.149.130:
+    f: 6m
+    i: Blix Solutions AS
+    p: 84
+  178.255.149.134:
+    f: 6m
+    i: Blix Solutions AS
+    p: 131
+  193.138.7.140:
+    f: 10m
+    i: Blix Solutions AS
+    p: 26
+  193.138.7.170:
+    f: 7m
+    i: Blix Solutions AS
+    p: 70
+  193.138.7.179:
+    f: 5m
+    i: Blix Solutions AS
+    p: 49
+  193.138.7.200:
+    f: 6m
+    i: Blix Solutions AS
+    p: 91
+  194.127.199.35:
+    f: 6m
+    i: Blix Solutions AS
+    p: 37
+  194.127.199.4:
+    f: 06m
+    i: Blix Solutions AS
+    p: 95
+  194.127.199.51:
+    f: 7m
+    i: Blix Solutions AS
+    p: 96
+  190.77.47.70:
+    f: 3m
+    i: CANTV Servicios
+    p: 45
+  109.123.240.84:
+    f: 15-60m
+    i: Contabo GmbH
+    p: 500
+    u: ServerSeeker
+  164.68.124.86:
+    f: 11m
+    i: Contabo GmbH
+    p: 147
+  167.86.121.64:
+    f: 8m
+    i: Contabo GmbH
+    p: 29
+  191.101.217.28:
+    f: 15m
+    i: Cyber Assets Fzco
+    p: 59
+  191.101.31.64:
+    f: 4m
+    i: Cyber Assets Fzco
+    p: 344
+  23.160.24.167:
+    f: 7m
+    i: DATABRIDGE
+    p: 44
+  23.160.24.41:
+    f: 6m
+    i: DATABRIDGE
+    p: 62
+  138.199.21.241:
+    f: 5m
+    i: Datacamp Limited
+    p: 70
+  138.199.6.196:
+    f: 6m
+    i: DataCamp Limited
+    p: 33
+  138.199.6.227:
+    f: 4m
+    i: DataCamp Limited
+    p: 91
+  149.88.20.200:
+    f: 6m
+    i: Datacamp Limited
+    p: 31
+  156.146.63.144:
+    f: 12-60m
+    i: DataCamp Limited
+    p: 33
+  156.146.63.150:
+    f: 22h
+    i: Datacamp Limited
+    p: 384
+  156.146.63.160:
+    f: 12-60m
+    i: DataCamp Limited
+    p: 40
+  156.146.63.199:
+    f: 12m
+    i: DataCamp Limited
+    p: 47
+  156.146.63.209:
+    f: 17m
+    i: Datacamp Limited
+    p: 32
+  169.150.196.9:
+    f: 12m
+    i: Datacamp Limited
+    p: 22
+  169.150.201.30:
+    f: 10m
+    i: DataCamp Limited
+    p: 28
+  169.150.201.4:
+    f: 6m
+    i: DataCamp Limited
+    p: 110
+  178.249.211.75:
+    f: 7m
+    i: Datacamp Limited
+    p: 48
+  178.249.211.96:
+    f: 7m
+    i: Datacamp Limited
+    p: 46
+  37.19.210.3:
+    f: 6m
+    i: Datacamp Limited
+    p: 92
+  37.19.221.132:
+    f: 5m
+    i: Datacamp Limited
+    p: 57
+  37.19.221.134:
+    f: 7m
+    i: Datacamp Limited
+    p: 48
+  45.134.142.208:
+    f: 7m
+    i: Datacamp Limited
+    p: 32
+  45.134.213.209:
+    f: 5m
+    i: Datacamp Limited
+    p: 68
+  62.93.167.135:
+    f: 10m
+    i: DataCamp Limited
+    p: 46
+  89.187.168.52:
+    f: 11m
+    i: Datacamp Limited
+    p: 30
+  95.173.222.18:
+    f: 4m
+    i: Datacamp Limited
+    p: 96
+  178.16.54.25:
+    f: 2m
+    i: dus.net GmbH
+    p: 504
+  62.60.247.100:
+    f: 20m
+    i: Easy Chain Network
+    p: 42
+  45.130.200.103:
+    f: 6m
+    i: Eisenia AB
+    p: 170
+  45.130.200.119:
+    f: 6m
+    i: Eisenia AB
+    p: 32
+  87.120.112.234:
+    f: 10m
+    i: Ekabi LLC
+    p: 16
+  87.120.126.53:
+    f: 3-60m
+    i: Ekabi LLC
+    p: 87
+  77.68.6.60:
+    f: 3m
+    i: Fasthosts Internet Limited
+    p: 214
+  188.126.94.91:
+    f: 30m
+    i: GleSYS AB
+    p: 35
+  176.65.134.5:
+    f: 10m
+    i: Go Host Ltd
+    p: 259
+  176.65.134.6:
+    f: 10m
+    i: Go Host Ltd
+    p: 256
+  193.25.217.28:
+    f: 6m
+    i: Gravhosting Ltd
+    p: 103
+  23.168.216.217:
+    f: 7m
+    i: HAYASHIMO
+    p: 42
+  23.168.216.89:
+    f: 7m
+    i: HAYASHIMO
+    p: 95
+  195.201.95.90:
+    f: 1h
+    i: Hetzner Online GmbH
+    p: 953
+  103.108.231.54:
+    f: 8m
+    i: Host Universal Pty Ltd
+    p: 36
+  103.214.20.57:
+    f: 5m
+    i: Host Universal Pty Ltd
+    p: 35
+  103.216.220.25:
+    f: 4m
+    i: Host Universal Pty Ltd
+    p: 64
+  103.102.247.148:
+    f: 4m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 34
+  103.102.247.41:
+    f: 7m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 61
+  103.251.26.22:
+    f: 5m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 172
+  103.251.27.71:
+    f: 7m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 109
+  103.81.230.22:
+    f: 4m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 30
+  103.81.231.22:
+    f: 06m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 217
+  185.92.210.210:
+    f: 4m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 126
+  185.92.210.227:
+    f: 5m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 105
+  43.225.189.133:
+    f: 5m
+    i: HostRoyale Technologies Pvt Ltd
+    p: 213
+  185.253.118.69:
+    f: 7m
+    i: HZ hosting Ltd
+    p: 145
+  84.239.16.162:
+    f: 7m
+    i: Invite Systems SRL
+    p: 48
+  112.171.19.96:
+    f: 30m
+    i: Korea Telecom
+    p: 27
+  115.4.98.136:
+    f: 10m
+    i: Korea Telecom
+    p: 104
+  119.214.34.93:
+    f: 2m
+    i: Korea Telecom
+    p: 159
+  175.235.126.90:
+    f: 44s
+    i: Korea Telecom
+    p: 763
+  61.75.78.40:
+    f: 14m
+    i: Korea Telecom
+    p: 30
+  146.70.117.208:
+    f: 6m
+    i: M247 Europe SRL
+    p: 29
+  146.70.119.80:
+    f: 6m
+    i: M247 Europe SRL
+    p: 19
+  146.70.126.166:
+    f: 6m
+    i: M247 Europe SRL
+    p: 27
+  146.70.134.68:
+    f: 5m
+    i: M247 Europe SRL
+    p: 138
+  146.70.138.196:
+    f: 7m
+    i: M247 Europe SRL
+    p: 92
+  146.70.141.200:
+    f: 10m
+    i: M247 Europe SRL
+    p: 17
+  146.70.166.143:
+    f: 7m
+    i: M247 Europe SRL
+    p: 69
+  146.70.171.143:
+    f: 7m
+    i: M247 Europe SRL
+    p: 42
+  146.70.172.234:
+    f: 7m
+    i: M247 Europe SRL
+    p: 31
+  146.70.187.159:
+    f: 6m
+    i: M247 Europe SRL
+    p: 197
+  146.70.199.223:
+    f: 8m
+    i: M247 Europe SRL
+    p: 33
+  146.70.200.196:
+    f: 6m
+    i: M247 Europe SRL
+    p: 99
+  146.70.211.79:
+    f: 7m
+    i: M247 Europe SRL
+    p: 30
+  146.70.22.200:
+    f: 11m
+    i: M247 Europe SRL
+    p: 16
+  146.70.225.31:
+    f: 8m
+    i: M247 Europe SRL
+    p: 70
+  146.70.225.68:
+    f: 6m
+    i: M247 Europe SRL
+    p: 56
+  156.229.233.237:
+    f: 13m
+    i: Netiface Limited
+    p: 49
+  23.176.184.152:
+    f: 33m
+    i: Netiface Limited
+    p: 34
+  154.42.7.39:
+    f: 10-35m
+    i: New Itime AG
+    p: 22
+  131.156.156.126:
+    f: 3m
+    i: Northern Illinois University
+    p: 287
+  131.156.156.127:
+    f: 7-13m
+    i: Northern Illinois University
+    p: 174
+  131.156.156.134:
+    f: 13m
+    i: Northern Illinois University
+    p: 43
+  132.145.34.181:
+    f: 25m
+    i: Oracle Public Cloud
+    p: 23
+  54.36.120.8:
+    f: 14m
+    i: OVH
+    p: 469
+  185.248.85.5:
+    f: 7m
+    i: Owl Limited
+    p: 35
+  185.248.85.50:
+    f: 5m
+    i: Owl Limited
+    p: 39
+  194.114.136.38:
+    f: 5m
+    i: Owl Limited
+    p: 21
+  194.114.136.69:
+    f: 5m
+    i: Owl Limited
+    p: 13
+  194.36.25.56:
+    f: 4m
+    i: Owl Limited
+    p: 282
+  194.36.25.7:
+    f: 7m
+    i: Owl Limited
+    p: 51
+  92.60.40.202:
+    f: 11m
+    i: Owl Limited
+    p: 90
+  92.60.40.211:
+    f: 6m
+    i: Owl Limited
+    p: 79
+  154.213.185.46:
+    f: 15m
+    i: PFCloud
+    u: Cornbread21xxxx (replace x with randomized numbers)
+  154.213.187.231:
+    f: 5h
+    i: PFCloud
+  45.135.194.8:
+    f: 4m
+    i: PFCloud
+    p: 59
+  176.65.148.103:
+    f: 09m
+    i: Pfcloud UG
+    p: 308
+  176.65.148.49:
+    f: 20m
+    i: Pfcloud UG
+    p: 44
+  204.76.203.35:
+    f: 3m
+    i: Pfcloud UG
+    p: 198
+  179.43.189.70:
+    f: 5m
+    i: Private Layer Inc
+    p: 47
+  179.43.189.80:
+    f: 6m
+    i: Private Layer Inc
+    p: 79
+  86.106.2.222:
+    f: 3m
+    i: procono s.a.
+    p: 51
+    u: notcheat
+  156.253.227.129:
+    f: 10m
+    i: Rekade International
+    p: 89
+  195.154.199.60:
+    f: 1-4m
+    i: Scaleway
+    p: 6067
+  51.158.174.200:
+    f: 24h
+    i: Scaleway
+  51.15.34.47:
+    f: 5h
+    i: Scaleway SAS
+    p: 192
+  51.15.58.25:
+    f: 15-60m
+    i: Scaleway SAS
+    p: 83
+  195.226.194.14:
+    f: 20-30m
+    i: Snowd Security Ou
+  94.131.100.102:
+    f: 7-9m
+    i: Stark Industries Solutions Ltd.
+    p: 70
+    u: ServerOverflow1
+  23.234.102.217:
+    f: 6m
+    i: TZULO
+    p: 58
+  23.234.102.22:
+    f: 11m
+    i: TZULO
+    p: 85
+  23.234.114.167:
+    f: 7m
+    i: TZULO
+    p: 37
+  23.234.84.40:
+    f: 7m
+    i: TZULO
+    p: 114
+  23.234.86.197:
+    f: 4m
+    i: TZULO
+    p: 91
+  23.234.89.22:
+    f: 06m
+    i: TZULO
+    p: 50
+  23.234.90.167:
+    f: 7m
+    i: TZULO
+    p: 40
+  23.234.91.41:
+    f: 8m
+    i: TZULO
+    p: 45
+  23.234.92.167:
+    f: 7m
+    i: TZULO
+    p: 33
+  68.235.46.111:
+    f: 4m
+    i: TZULO
+    p: 65
+  68.235.46.130:
+    f: 5m
+    i: TZULO
+    p: 49
+  68.235.46.142:
+    f: 6m
+    i: TZULO
+    p: 224
+  68.235.46.37:
+    f: 5m
+    i: TZULO
+    p: 125
+  68.235.46.73:
+    f: 7m
+    i: TZULO
+    p: 41
+  68.235.46.99:
+    f: 5m
+    i: TZULO
+    p: 86
+  155.2.190.62:
+    f: 6m
+    i: uk-2 Limited
+    p: 138
+  85.235.71.200:
+    f: 11m
+    i: Xtra Telecom S.A.
+    p: 109
+    u: kevincitopito

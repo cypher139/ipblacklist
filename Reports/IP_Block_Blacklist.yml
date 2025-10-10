@@ -1,3 +1,5 @@
+# Ranges of IPs to disallow access to server:
+# Useful for catching datacenter blocks of IPs
 103.108.2/22: Host Universal Pty Ltd
 103.125.233/24: xTom
 103.136.147/24: Owl Limited

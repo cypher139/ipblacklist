@@ -75,13 +75,9 @@ Obnoxious:
     f: 6m
     i: 31173 Services AB
     p: 76
-  5.42.101.164:
-    f: 15m
-    i: Aeza International
-    p: 228
   77.221.138.182:
     f: 12m
-    i: Aeza International
+    i: Aeza International Ltd
     p: 273
   45.95.147.247:
     f: 20h
@@ -93,7 +89,7 @@ Obnoxious:
     p: 25
   23.162.40.148:
     f: 5m
-    i: AS Cyber Data
+    i: AS-CYBER-DATA
     p: 131
   178.255.149.130:
     f: 6m
@@ -133,8 +129,20 @@ Obnoxious:
     p: 96
   190.77.47.70:
     f: 3m
-    i: CANTV Servicios
+    i: CANTV Servicios, Venezuela
     p: 45
+  154.42.7.39:
+    f: 10-35m
+    i: COGENT-174
+    p: 22
+  191.101.217.28:
+    f: 15m
+    i: COGENT-174
+    p: 59
+  191.101.31.64:
+    f: 4m
+    i: COGENT-174
+    p: 344
   109.123.240.84:
     f: 15-60m
     i: Contabo GmbH
@@ -148,14 +156,6 @@ Obnoxious:
     f: 8m
     i: Contabo GmbH
     p: 29
-  191.101.217.28:
-    f: 15m
-    i: Cyber Assets Fzco
-    p: 59
-  191.101.31.64:
-    f: 4m
-    i: Cyber Assets Fzco
-    p: 344
   23.160.24.167:
     f: 7m
     i: DATABRIDGE
@@ -170,11 +170,11 @@ Obnoxious:
     p: 70
   138.199.6.196:
     f: 6m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 33
   138.199.6.227:
     f: 4m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 91
   149.88.20.200:
     f: 6m
@@ -182,7 +182,7 @@ Obnoxious:
     p: 31
   156.146.63.144:
     f: 12-60m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 33
   156.146.63.150:
     f: 22h
@@ -190,11 +190,11 @@ Obnoxious:
     p: 384
   156.146.63.160:
     f: 12-60m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 40
   156.146.63.199:
     f: 12m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 47
   156.146.63.209:
     f: 17m
@@ -206,11 +206,11 @@ Obnoxious:
     p: 22
   169.150.201.30:
     f: 10m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 28
   169.150.201.4:
     f: 6m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 110
   178.249.211.75:
     f: 7m
@@ -242,8 +242,12 @@ Obnoxious:
     p: 68
   62.93.167.135:
     f: 10m
-    i: DataCamp Limited
+    i: Datacamp Limited
     p: 46
+  84.239.16.162:
+    f: 7m
+    i: Datacamp Limited
+    p: 48
   89.187.168.52:
     f: 11m
     i: Datacamp Limited
@@ -252,14 +256,6 @@ Obnoxious:
     f: 4m
     i: Datacamp Limited
     p: 96
-  178.16.54.25:
-    f: 2m
-    i: dus.net GmbH
-    p: 504
-  62.60.247.100:
-    f: 20m
-    i: Easy Chain Network
-    p: 42
   45.130.200.103:
     f: 6m
     i: Eisenia AB
@@ -268,18 +264,6 @@ Obnoxious:
     f: 6m
     i: Eisenia AB
     p: 32
-  87.120.112.234:
-    f: 10m
-    i: Ekabi LLC
-    p: 16
-  87.120.126.53:
-    f: 3-60m
-    i: Ekabi LLC
-    p: 87
-  77.68.6.60:
-    f: 3m
-    i: Fasthosts Internet Limited
-    p: 214
   188.126.94.91:
     f: 30m
     i: GleSYS AB
@@ -294,8 +278,12 @@ Obnoxious:
     p: 256
   193.25.217.28:
     f: 6m
-    i: Gravhosting Ltd
+    i: Gravhosting LLC
     p: 103
+  87.120.126.53:
+    f: 3-60m
+    i: H2nexus Ltd
+    p: 87
   23.168.216.217:
     f: 7m
     i: HAYASHIMO
@@ -320,6 +308,9 @@ Obnoxious:
     f: 4m
     i: Host Universal Pty Ltd
     p: 64
+  195.226.194.14:
+    f: 20-30m
+    i: Hostkey B.v.
   103.102.247.148:
     f: 4m
     i: HostRoyale Technologies Pvt Ltd
@@ -356,14 +347,18 @@ Obnoxious:
     f: 5m
     i: HostRoyale Technologies Pvt Ltd
     p: 213
+  62.60.247.100:
+    f: 20m
+    i: Hypercore Ltd
+    p: 42
   185.253.118.69:
     f: 7m
-    i: HZ hosting Ltd
+    i: HZ Hosting Ltd
     p: 145
-  84.239.16.162:
-    f: 7m
-    i: Invite Systems SRL
-    p: 48
+  77.68.6.60:
+    f: 3m
+    i: IONOS SE
+    p: 214
   112.171.19.96:
     f: 30m
     i: Korea Telecom
@@ -448,37 +443,33 @@ Obnoxious:
     f: 6m
     i: M247 Europe SRL
     p: 56
-  156.229.233.237:
-    f: 13m
-    i: Netiface Limited
-    p: 49
+  178.16.54.25:
+    f: 2m
+    i: metaspinner net GmbH
+    p: 504
   23.176.184.152:
     f: 33m
     i: Netiface Limited
     p: 34
-  154.42.7.39:
-    f: 10-35m
-    i: New Itime AG
-    p: 22
   131.156.156.126:
     f: 3m
-    i: Northern Illinois University
+    i: NIU
     p: 287
   131.156.156.127:
     f: 7-13m
-    i: Northern Illinois University
+    i: NIU
     p: 174
   131.156.156.134:
     f: 13m
-    i: Northern Illinois University
+    i: NIU
     p: 43
   132.145.34.181:
     f: 25m
-    i: Oracle Public Cloud
+    i: ORACLE-BMC-31898
     p: 23
   54.36.120.8:
     f: 14m
-    i: OVH
+    i: OVH SAS
     p: 469
   185.248.85.5:
     f: 7m
@@ -512,17 +503,6 @@ Obnoxious:
     f: 6m
     i: Owl Limited
     p: 79
-  154.213.185.46:
-    f: 15m
-    i: PFCloud
-    u: Cornbread21xxxx (replace x with randomized numbers)
-  154.213.187.231:
-    f: 5h
-    i: PFCloud
-  45.135.194.8:
-    f: 4m
-    i: PFCloud
-    p: 59
   176.65.148.103:
     f: 09m
     i: Pfcloud UG
@@ -535,46 +515,42 @@ Obnoxious:
     f: 3m
     i: Pfcloud UG
     p: 198
+  45.135.194.8:
+    f: 4m
+    i: Pfcloud UG
+    p: 59
   179.43.189.70:
     f: 5m
-    i: Private Layer Inc
+    i: Private Layer INC
     p: 47
   179.43.189.80:
     f: 6m
-    i: Private Layer Inc
+    i: Private Layer INC
     p: 79
   86.106.2.222:
     f: 3m
-    i: procono s.a.
+    i: Procono S.A.
     p: 51
     u: notcheat
-  156.253.227.129:
-    f: 10m
-    i: Rekade International
-    p: 89
   195.154.199.60:
     f: 1-4m
-    i: Scaleway
+    i: Scaleway S.a.s.
     p: 6067
-  51.158.174.200:
-    f: 24h
-    i: Scaleway
   51.15.34.47:
     f: 5h
-    i: Scaleway SAS
+    i: Scaleway S.a.s.
     p: 192
   51.15.58.25:
     f: 15-60m
-    i: Scaleway SAS
+    i: Scaleway S.a.s.
     p: 83
-  195.226.194.14:
-    f: 20-30m
-    i: Snowd Security Ou
-  94.131.100.102:
-    f: 7-9m
-    i: Stark Industries Solutions Ltd.
-    p: 70
-    u: ServerOverflow1
+  51.158.174.200:
+    f: 24h
+    i: Scaleway S.a.s.
+  156.229.233.237:
+    f: 13m
+    i: TERASWITCH
+    p: 49
   23.234.102.217:
     f: 6m
     i: TZULO
@@ -637,16 +613,39 @@ Obnoxious:
     p: 86
   155.2.190.62:
     f: 6m
-    i: uk-2 Limited
+    i: UK-2 Limited
     p: 138
+  156.253.227.129:
+    f: 10m
+    i: 'Unknown: No Data Given'
+    p: 89
+  5.42.101.164:
+    f: 15m
+    i: 'Unknown: No Data Given'
+    p: 228
+  87.120.112.234:
+    f: 10m
+    i: 'Unknown: No Data Given'
+    p: 16
+  94.131.100.102:
+    f: 7-9m
+    i: WorkTitans B.V.
+    p: 70
+    u: ServerOverflow1
   85.235.71.200:
     f: 11m
     i: Xtra Telecom S.A.
     p: 109
     u: kevincitopito
+  154.213.185.46:
+    f: 15m
+    i: ZILLION-NETWORK
+    u: Cornbread21xxxx (replace x with randomized numbers)
+  154.213.187.231:
+    f: 5h
+    i: ZILLION-NETWORK
 
 #
-
 Spam_Player_Names:
 # Player names, if an actual connection via Mojang auth was tried, are listed here.
 # Any relevant comments to that specific entry are listed above each entry.
@@ -775,143 +774,143 @@ Spam_Player_Names:
   xerub: 104.28.196.198
 #
 # Ranges of IPs to disallow access to server:
-# Useful for catching datacenter blocks of IPs
-103.108.2/22: Host Universal Pty Ltd
-103.125.233/24: xTom
-103.136.147/24: Owl Limited
-103.216.220/24: Host Universal Pty Ltd
-104.156.155/24: Hawaii Research
-104.193.135/24: Cloudsingularity
-104.209/16: Microsoft
-104.245.241/24: Railnet LLC
-104.28.1/22: Cloudflare - MC spam
-104.40/16: Microsoft
-106/8: Unknown High Risk
-115/8: Unknown High Risk
-13./8: Microsoft
-13.64/16: Microsoft
-13.83/16: Microsoft
-13.91/16: Microsoft
-131.156.156/24: Northern Illinois University
-135.125.13/18: OVH
-135.237.12/23: Azure
-135.84.216/24: CariNet
-138.199/16: Datacamp Limited
-141.98/16: 31173 VPN Services
-142.147.89/24: XTOM
-146.70/16: M247
-147.185.132/24: Palo Alto
-149.102.2/22: Datacamp Limited
-149.88.2/22: Datacamp Limited
-151.115.0/18: Scaleway
-151.115.64/18: Scaleway
-152.32/16: ucloud
-154.213/16: PFCloud
-156.146.63/24: DataCamp Limited
-156.229.2/22: MULTA-ASN1
-156.253.227/24: Rekade International
-162.142.125/24: Censys
-163.172.208/20: Scaleway
-163.172/16: Scaleway
-165.154.1/22: ucloud
-167.248.133/24: Censys
-167.94/16: Censys
-169.150.196/24: Datacamp Limited
-169.150.201/24: Datacamp Limited
-172/8: Microsoft
-176.65.14/23: Pfcloud
-178.249.2/22: Datacamp Limited
-178.255.149/24: Blix Solutions AS
-18.1/16: AWS
-185.142.236/24: BlackHOST
-185.156.46/24: Datacamp Limited
-185.165.191/24: BlackHOST
-185.165.44/24: Snakecraft
-185.180.141/24: ZEN-ECN
-185.195.2/17: 31173 VPN Services
-185.2/9: Oy Creanova
-185.213.15/22: 31173 VPN Services
-185.65.1/17: 31173 VPN Services
-190.5.196/24: EMTEL S.A. E.S.P.
-191.101/16: Cyber Assets Fzco
-192.42.116/24: SURF B.V.
-193.138.218/24: Blix
-193.138.7/24: Blix
-193.138/16: 31173 VPN Services
-193.32/16: 31173 VPN Services
-193.35.18/24: Neterra Ltd.
-194.114.136/24: Owl Limited
-194.127.199/24: Blix
-194.36.25/24: Owl Limited
-195.154/16: Scaleway
-198.235.24/24: Palo Alto
-198.44.1/22: TZULO
-198.54.1/22: TZULO
-199.45/16: Censys
-20./8: Microsoft
-205.210.31/24: Palo Alto
-206.168.3/22: Censys
-207/8: Unknown High Risk
-209.126.128/17: CariNet
-212.129.0/18: Scaleway
-212.47.224/19: Scaleway
-212.83.128/19: Scaleway
-212.83.160/19: Scaleway
-216.75.0/18: CariNet
-216.98.128/19: CariNet
-23.159.216/24: bytenode-as
-23.16/16: databridge
-23.162.40/24: AS-CYBER-DATA
-23.234/16: TZULO
-2a06:488/16: Constantine Cybersecurity
-3./8: AWS
-34.34.246/24: Google Cloud Platform
-37.19.2/22: Datacamp Limited
-4./8: Microsoft
-4.1/9: Microsoft
-4.2/9: Microsoft
-40.1/9: Microsoft
-40.83.1/22: azure
-45.128/16: AWS
-45.134/16: Datacamp Limited
-45.135/16: Pfcloud UG
-45.156.1/22: Sistemas Informaticos, S.A.
-45.156.128/24: NSEC - Sistemas Informaticos S.A.
-45.83.220/24: 31173 Services AB
-45.84.107/24: QuxLabs AB
-45.90.185/24: macarne
-46.19.1/22: Private Layer Inc
-47/8: Alibaba
-48.217/16: Microsoft
-5./8: AWS
-51.15/16: Scaleway
-51.8/9: Microsoft
-51.81./16: OVH
-52.1/9: Microsoft
-52.2/9: Microsoft
-52.58/16: AMAZON-02
-52.59/16: AMAZON-02
-54.93/16: AMAZON-02
-57.1/9: Microsoft
-62.93.167/24: Datacamp Limited
-66.240.192/18: CariNet
-66.63.1/22: AS-VULTR
-68.235.4/22: TZULO
-71.6./16: CariNet
-8.219/16: Unknown
-81.17.16/24: Unknown Swiss ISP
-82.102.19/24: M247 Europe SRL
-84.239/16: Invite Systems SRL
-84.54/16: AWS
-87.120/16: Ekabi LLC
-87.236/16: Constantine Cybersecurity
-91.207.57/24: M247
-91.90.44/24: Blix
-92.60.40/24: Owl Limited
-94.103/16: Constantine Cybersecurity
-94.154.172/24: ShadowShield Ltd
-98.97/16: SpaceX Starlink
-
+# Useful for catching datacenter blocks of IPs#
+IP_Block_Blacklist:
+  103.108.2/22: Host Universal Pty Ltd
+  103.125.233/24: xTom
+  103.136.147/24: Owl Limited
+  103.216.220/24: Host Universal Pty Ltd
+  104.156.155/24: Hawaii Research
+  104.193.135/24: Cloudsingularity
+  104.209/16: Microsoft
+  104.245.241/24: Railnet LLC
+  104.28.1/22: Cloudflare - MC spam
+  104.40/16: Microsoft
+  106/8: Unknown High Risk
+  115/8: Unknown High Risk
+  13./8: Microsoft
+  13.64/16: Microsoft
+  13.83/16: Microsoft
+  13.91/16: Microsoft
+  131.156.156/24: Northern Illinois University
+  135.125.13/18: OVH
+  135.237.12/23: Azure
+  135.84.216/24: CariNet
+  138.199/16: Datacamp Limited
+  141.98/16: 31173 VPN Services
+  142.147.89/24: XTOM
+  146.70/16: M247
+  147.185.132/24: Palo Alto
+  149.102.2/22: Datacamp Limited
+  149.88.2/22: Datacamp Limited
+  151.115.0/18: Scaleway
+  151.115.64/18: Scaleway
+  152.32/16: ucloud
+  154.213/16: PFCloud
+  156.146.63/24: DataCamp Limited
+  156.229.2/22: MULTA-ASN1
+  156.253.227/24: Rekade International
+  162.142.125/24: Censys
+  163.172.208/20: Scaleway
+  163.172/16: Scaleway
+  165.154.1/22: ucloud
+  167.248.133/24: Censys
+  167.94/16: Censys
+  169.150.196/24: Datacamp Limited
+  169.150.201/24: Datacamp Limited
+  172/8: Microsoft
+  176.65.14/23: Pfcloud
+  178.249.2/22: Datacamp Limited
+  178.255.149/24: Blix Solutions AS
+  18.1/16: AWS
+  185.142.236/24: BlackHOST
+  185.156.46/24: Datacamp Limited
+  185.165.191/24: BlackHOST
+  185.165.44/24: Snakecraft
+  185.180.141/24: ZEN-ECN
+  185.195.2/17: 31173 VPN Services
+  185.2/9: Oy Creanova
+  185.213.15/22: 31173 VPN Services
+  185.65.1/17: 31173 VPN Services
+  190.5.196/24: EMTEL S.A. E.S.P.
+  191.101/16: Cyber Assets Fzco
+  192.42.116/24: SURF B.V.
+  193.138.218/24: Blix
+  193.138.7/24: Blix
+  193.138/16: 31173 VPN Services
+  193.32/16: 31173 VPN Services
+  193.35.18/24: Neterra Ltd.
+  194.114.136/24: Owl Limited
+  194.127.199/24: Blix
+  194.36.25/24: Owl Limited
+  195.154/16: Scaleway
+  198.235.24/24: Palo Alto
+  198.44.1/22: TZULO
+  198.54.1/22: TZULO
+  199.45/16: Censys
+  20./8: Microsoft
+  205.210.31/24: Palo Alto
+  206.168.3/22: Censys
+  207/8: Unknown High Risk
+  209.126.128/17: CariNet
+  212.129.0/18: Scaleway
+  212.47.224/19: Scaleway
+  212.83.128/19: Scaleway
+  212.83.160/19: Scaleway
+  216.75.0/18: CariNet
+  216.98.128/19: CariNet
+  23.159.216/24: bytenode-as
+  23.16/16: databridge
+  23.162.40/24: AS-CYBER-DATA
+  23.234/16: TZULO
+  2a06:488/16: Constantine Cybersecurity
+  3./8: AWS
+  34.34.246/24: Google Cloud Platform
+  37.19.2/22: Datacamp Limited
+  4./8: Microsoft
+  4.1/9: Microsoft
+  4.2/9: Microsoft
+  40.1/9: Microsoft
+  40.83.1/22: azure
+  45.128/16: AWS
+  45.134/16: Datacamp Limited
+  45.135/16: Pfcloud UG
+  45.156.1/22: Sistemas Informaticos, S.A.
+  45.156.128/24: NSEC - Sistemas Informaticos S.A.
+  45.83.220/24: 31173 Services AB
+  45.84.107/24: QuxLabs AB
+  45.90.185/24: macarne
+  46.19.1/22: Private Layer Inc
+  47/8: Alibaba
+  48.217/16: Microsoft
+  5./8: AWS
+  51.15/16: Scaleway
+  51.8/9: Microsoft
+  51.81./16: OVH
+  52.1/9: Microsoft
+  52.2/9: Microsoft
+  52.58/16: AMAZON-02
+  52.59/16: AMAZON-02
+  54.93/16: AMAZON-02
+  57.1/9: Microsoft
+  62.93.167/24: Datacamp Limited
+  66.240.192/18: CariNet
+  66.63.1/22: AS-VULTR
+  68.235.4/22: TZULO
+  71.6./16: CariNet
+  8.219/16: Unknown
+  81.17.16/24: Unknown Swiss ISP
+  82.102.19/24: M247 Europe SRL
+  84.239/16: Invite Systems SRL
+  84.54/16: AWS
+  87.120/16: Ekabi LLC
+  87.236/16: Constantine Cybersecurity
+  91.207.57/24: M247
+  91.90.44/24: Blix
+  92.60.40/24: Owl Limited
+  94.103/16: Constantine Cybersecurity
+  94.154.172/24: ShadowShield Ltd
+  98.97/16: SpaceX Starlink
 #
 # 
 # Main IP Blacklist:
@@ -1253,6 +1252,7 @@ IP_Blacklist:
 - 101.33.66.34
 - 101.33.80.42
 - 101.33.81.73
+- 119.28.140.106
 - 119.28.177.175
 - 119.28.89.249
 - 124.156.157.91
@@ -1715,6 +1715,7 @@ IP_Blacklist:
 - 103.218.242.167
 - 103.218.242.181
 - 104.218.164.117
+- 107.150.117.219
 - 118.193.33.130
 - 118.193.36.107
 - 118.193.36.149
@@ -1726,6 +1727,7 @@ IP_Blacklist:
 - 118.193.47.212
 - 118.193.56.246
 - 118.193.57.185
+- 118.193.61.179
 - 118.194.228.239
 - 118.194.229.182
 - 118.194.234.29
@@ -1733,6 +1735,8 @@ IP_Blacklist:
 - 118.194.250.113
 - 118.194.250.232
 - 118.194.251.128
+- 118.194.251.17
+- 118.194.251.37
 - 118.26.104.212
 - 118.26.36.18
 - 118.26.37.105
@@ -2073,6 +2077,7 @@ IP_Blacklist:
 - 137.184.5.22
 - 137.184.68.102
 - 137.184.70.38
+- 138.197.100.249
 - 138.197.101.95
 - 138.197.113.158
 - 138.197.12.194
@@ -2770,6 +2775,7 @@ IP_Blacklist:
 - 68.183.221.229
 - 68.183.233.11
 - 68.183.27.230
+- 68.183.39.176
 - 68.183.50.180
 - 68.183.67.205
 - 68.183.73.79
@@ -3095,6 +3101,7 @@ IP_Blacklist:
 - 144.172.110.167
 - 144.172.110.50
 - 144.172.115.86
+- 144.172.116.36
 - 144.172.89.72
 - 144.172.94.30
 - 144.172.97.117
@@ -4582,6 +4589,7 @@ IP_Blacklist:
 - 102.129.232.112
 - 149.100.11.243
 - 149.13.181.158
+- 151.241.122.74
 - 154.21.195.137
 - 154.3.62.15
 - 154.42.3.69
@@ -4694,6 +4702,7 @@ IP_Blacklist:
 # (197450) Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi
 - 178.17.57.107
 # (197477) Nerdscave
+- '2a13:e3c1:40ce::'
 - '2a13:e3c1:40ce::0'
 # (197522) Kaluska informatsiyna merezha LLC
 - 91.221.218.45
@@ -4779,6 +4788,7 @@ IP_Blacklist:
 - 62.84.117.50
 # (200373) 3xK Tech GmbH
 - 104.207.39.176
+- 104.207.42.67
 - 154.213.160.171
 - 154.213.160.57
 - 154.213.193.71
@@ -5213,6 +5223,7 @@ IP_Blacklist:
 - 138.124.60.145
 - 176.124.204.168
 - 212.113.102.147
+- 46.226.162.31
 - 77.110.110.41
 - 77.110.127.160
 - 77.221.138.182
@@ -5624,6 +5635,7 @@ IP_Blacklist:
 - 149.88.20.200
 - 149.88.20.202
 - 149.88.20.208
+- 149.88.20.210
 - 149.88.20.213
 - 149.88.20.215
 - 149.88.20.216
@@ -6074,6 +6086,7 @@ IP_Blacklist:
 - 87.120.191.13
 - 87.120.191.37
 - 87.120.191.6
+- 87.120.191.84
 - 87.121.84.132
 - 87.121.84.157
 - 87.121.84.17
@@ -6365,6 +6378,7 @@ IP_Blacklist:
 # (266524) ONBAHIA TELECOM
 - 170.245.178.138
 # (266702) MEGALINK S.R.L.
+- 45.230.66.108
 - 45.230.66.112
 - 45.230.66.127
 # (267385) MEGA NET RIO
@@ -7100,6 +7114,7 @@ IP_Blacklist:
 - 147.185.132.237
 - 147.185.132.246
 - 147.185.132.252
+- 147.185.132.27
 - 147.185.132.28
 - 147.185.132.3
 - 147.185.132.31
@@ -7217,6 +7232,7 @@ IP_Blacklist:
 - 162.216.150.177
 - 162.216.150.199
 - 162.216.150.200
+- 162.216.150.201
 - 162.216.150.206
 - 162.216.150.217
 - 162.216.150.230
@@ -7367,6 +7383,7 @@ IP_Blacklist:
 - 205.210.31.22
 - 205.210.31.222
 - 205.210.31.224
+- 205.210.31.225
 - 205.210.31.226
 - 205.210.31.231
 - 205.210.31.234
@@ -7461,6 +7478,7 @@ IP_Blacklist:
 - 34.124.203.224
 - 34.125.130.66
 - 34.125.170.36
+- 34.125.180.88
 - 34.125.203.204
 - 34.125.23.61
 - 34.126.172.85
@@ -7578,6 +7596,7 @@ IP_Blacklist:
 - 34.58.214.106
 - 34.59.113.227
 - 34.60.146.227
+- 34.61.233.169
 - 34.61.94.31
 - 34.63.114.252
 - 34.63.179.27
@@ -8130,6 +8149,7 @@ IP_Blacklist:
 - '2602:80d:1006::4e'
 - '2602:80d:1006::4f'
 - '2602:80d:1006::60'
+- '2602:80d:1006::62'
 - '2602:80d:1006::64'
 - '2602:80d:1006::65'
 - '2602:80d:1006::67'
@@ -8198,6 +8218,7 @@ IP_Blacklist:
 - 66.132.153.133
 - 66.132.153.134
 - 66.132.153.136
+- 66.132.153.137
 - 66.132.153.138
 - 66.132.153.139
 - 66.132.153.140
@@ -8441,6 +8462,7 @@ IP_Blacklist:
 - 196.251.115.147
 - 196.251.115.198
 - 196.251.115.37
+- 196.251.115.78
 - 196.251.116.113
 - 196.251.116.144
 - 196.251.116.191
@@ -8482,6 +8504,7 @@ IP_Blacklist:
 - 196.251.71.143
 - 196.251.71.43
 - 196.251.72.128
+- 196.251.72.152
 - 196.251.72.177
 - 196.251.72.237
 - 196.251.72.247
@@ -8847,6 +8870,7 @@ IP_Blacklist:
 - 47.251.72.122
 - 47.251.80.254
 - 47.251.84.165
+- 47.251.88.12
 - 47.251.91.113
 - 47.251.91.219
 - 47.251.92.120
@@ -8896,6 +8920,7 @@ IP_Blacklist:
 - 8.209.254.191
 - 8.209.90.19
 - 8.209.96.179
+- 8.210.123.17
 - 8.211.199.38
 - 8.211.205.166
 - 8.211.42.134
@@ -9741,6 +9766,7 @@ IP_Blacklist:
 - 185.76.9.40
 - 185.76.9.42
 - 185.76.9.50
+- 185.76.9.56
 - 212.102.38.167
 - 212.102.38.184
 - 212.102.46.55
@@ -9820,6 +9846,7 @@ IP_Blacklist:
 - 45.149.173.219
 - 45.149.173.225
 - 45.149.173.227
+- 45.149.173.233
 - 45.149.173.235
 - 64.238.204.61
 - 81.199.26.53
@@ -10418,6 +10445,7 @@ IP_Blacklist:
 - 13.76.186.12
 - 13.76.212.168
 - 13.78.100.100
+- 13.78.117.161
 - 13.78.117.199
 - 13.79.145.114
 - 13.79.151.120
@@ -10654,6 +10682,7 @@ IP_Blacklist:
 - 172.192.66.74
 - 172.192.72.234
 - 172.192.75.85
+- 172.202.113.141
 - 172.202.114.25
 - 172.202.117.170
 - 172.202.117.171
@@ -10888,6 +10917,7 @@ IP_Blacklist:
 - 20.168.123.0
 - 20.168.124.0
 - 20.168.13.44
+- 20.168.40.87
 - 20.168.6.15
 - 20.168.6.171
 - 20.168.7.129
@@ -10906,6 +10936,7 @@ IP_Blacklist:
 - 20.169.105.72
 - 20.169.105.85
 - 20.169.105.90
+- 20.169.42.204
 - 20.169.48.134
 - 20.169.48.140
 - 20.169.48.59
@@ -10927,6 +10958,7 @@ IP_Blacklist:
 - 20.171.108.50
 - 20.171.132.83
 - 20.171.145.154
+- 20.171.148.36
 - 20.171.151.96
 - 20.171.207.107
 - 20.171.207.181
@@ -10954,9 +10986,11 @@ IP_Blacklist:
 - 20.171.9.108
 - 20.171.9.56
 - 20.171.90.86
+- 20.171.98.196
 - 20.172.21.87
 - 20.172.42.131
 - 20.172.67.176
+- 20.18.71.42
 - 20.18.73.24
 - 20.18.77.101
 - 20.18.77.110
@@ -10986,6 +11020,7 @@ IP_Blacklist:
 - 20.225.3.205
 - 20.240.88.181
 - 20.245.169.175
+- 20.27.26.223
 - 20.29.10.178
 - 20.29.19.243
 - 20.29.19.60
@@ -11172,6 +11207,7 @@ IP_Blacklist:
 - 20.74.85.78
 - 20.80.104.232
 - 20.80.80.29
+- 20.80.83.115
 - 20.80.83.148
 - 20.80.88.160
 - 20.80.88.167
@@ -11262,6 +11298,7 @@ IP_Blacklist:
 - 4.225.221.243
 - 4.225.223.158
 - 4.225.223.48
+- 4.227.110.100
 - 4.227.36.1
 - 4.227.36.102
 - 4.227.36.104
@@ -11376,6 +11413,7 @@ IP_Blacklist:
 - 40.113.91.243
 - 40.113.91.248
 - 40.113.94.202
+- 40.115.191.104
 - 40.117.176.235
 - 40.118.131.32
 - 40.118.210.19
@@ -11480,6 +11518,7 @@ IP_Blacklist:
 - 40.86.176.117
 - 40.87.154.48
 - 48.210.208.30
+- 48.210.209.53
 - 48.210.217.68
 - 48.210.224.239
 - 48.210.43.235
@@ -12078,6 +12117,7 @@ IP_Blacklist:
 - 172.94.96.55
 - 185.104.184.196
 - 185.104.184.206
+- 185.253.97.110
 - 185.9.17.124
 - 188.214.122.47
 - 188.214.125.142
@@ -12407,7 +12447,7 @@ Discovered_ASNs:
   '132153': 1
   '132167': 1
   '132199': 3
-  '132203': 364
+  '132203': 365
   '132241': 2
   '13238': 19
   '132770': 1
@@ -12433,7 +12473,7 @@ Discovered_ASNs:
   '134768': 3
   '135089': 1
   '135258': 2
-  '135377': 141
+  '135377': 145
   '135450': 1
   '135661': 1
   '135738': 1
@@ -12471,7 +12511,7 @@ Discovered_ASNs:
   '140061': 8
   '140096': 1
   '140527': 1
-  '14061': 797
+  '14061': 799
   '140726': 3
   '14080': 1
   '140813': 1
@@ -12491,7 +12531,7 @@ Discovered_ASNs:
   '14638': 2
   '146966': 1
   '149178': 1
-  '14956': 11
+  '14956': 12
   '150179': 0
   '150436': 3
   '150862': 2
@@ -12513,7 +12553,7 @@ Discovered_ASNs:
   '16629': 1
   '17072': 1
   '17243': 3
-  '174': 40
+  '174': 41
   '17451': 4
   '17488': 1
   '17501': 2
@@ -12536,7 +12576,7 @@ Discovered_ASNs:
   '19527': 1
   '197414': 2
   '197450': 1
-  '197477': 1
+  '197477': 2
   '197522': 1
   '197540': 7
   '197706': 1
@@ -12561,7 +12601,7 @@ Discovered_ASNs:
   '20001': 3
   '200019': 6
   '200350': 2
-  '200373': 24
+  '200373': 25
   '200391': 1
   '20055': 1
   '200590': 1
@@ -12628,7 +12668,7 @@ Discovered_ASNs:
   '209847': 5
   '209854': 1
   '210558': 23
-  '210644': 8
+  '210644': 9
   '210705': 1
   '210743': 5
   '211298': 161
@@ -12644,7 +12684,7 @@ Discovered_ASNs:
   '211860': 1
   '2119': 1
   '212219': 1
-  '212238': 235
+  '212238': 236
   '212271': 1
   '212317': 1
   '212477': 1
@@ -12685,7 +12725,7 @@ Discovered_ASNs:
   '215762': 1
   '215778': 14
   '215826': 1
-  '215925': 13
+  '215925': 14
   '215929': 6
   '216071': 1
   '216099': 1
@@ -12751,7 +12791,7 @@ Discovered_ASNs:
   '26599': 1
   '26615': 1
   '266524': 1
-  '266702': 2
+  '266702': 3
   '267385': 1
   '267784': 3
   '270353': 1
@@ -12873,11 +12913,11 @@ Discovered_ASNs:
   '396073': 1
   '396356': 6
   '396507': 1
-  '396982': 769
+  '396982': 774
   '397373': 1
   '398101': 2
   '39832': 1
-  '398324': 413
+  '398324': 415
   '398705': 48
   '398722': 115
   '399045': 8
@@ -12898,8 +12938,8 @@ Discovered_ASNs:
   '400992': 1
   '401109': 1
   '401115': 0
-  '401116': 28
-  '401120': 85
+  '401116': 29
+  '401120': 86
   '401152': 0
   '401696': 1
   '40355': 3
@@ -12937,7 +12977,7 @@ Discovered_ASNs:
   '44592': 1
   '44679': 1
   '45090': 29
-  '45102': 158
+  '45102': 160
   '45204': 5
   '45305': 1
   '45326': 1
@@ -13057,7 +13097,7 @@ Discovered_ASNs:
   '59253': 1
   '59642': 1
   '59711': 1
-  '60068': 34
+  '60068': 35
   '60095': 1
   '60223': 12
   '6057': 1
@@ -13076,7 +13116,7 @@ Discovered_ASNs:
   '6206': 1
   '62068': 1
   '62160': 1
-  '62240': 74
+  '62240': 75
   '6233': 5
   '62425': 0
   '62563': 1
@@ -13119,7 +13159,7 @@ Discovered_ASNs:
   '7765': 2
   '7922': 11
   '8048': 4
-  '8075': 1377
+  '8075': 1389
   '8100': 0
   '8151': 2
   '8167': 2
@@ -13139,7 +13179,7 @@ Discovered_ASNs:
   '8781': 1
   '8796': 1
   '8881': 2
-  '9009': 334
+  '9009': 335
   '9123': 1
   '9146': 2
   '9269': 2

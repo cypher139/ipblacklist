@@ -1,137 +1,138 @@
 # Ranges of IPs to disallow access to server:
 # Useful for catching datacenter blocks of IPs
-103.108.2/22: Host Universal Pty Ltd
-103.125.233/24: xTom
-103.136.147/24: Owl Limited
-103.216.220/24: Host Universal Pty Ltd
-104.156.155/24: Hawaii Research
-104.193.135/24: Cloudsingularity
-104.209/16: Microsoft
-104.245.241/24: Railnet LLC
-104.28.1/22: Cloudflare - MC spam
-104.40/16: Microsoft
-106/8: Unknown High Risk
-115/8: Unknown High Risk
-13./8: Microsoft
-13.64/16: Microsoft
-13.83/16: Microsoft
-13.91/16: Microsoft
-131.156.156/24: Northern Illinois University
-135.125.13/18: OVH
-135.237.12/23: Azure
-135.84.216/24: CariNet
-138.199/16: Datacamp Limited
-141.98/16: 31173 VPN Services
-142.147.89/24: XTOM
-146.70/16: M247
-147.185.132/24: Palo Alto
-149.102.2/22: Datacamp Limited
-149.88.2/22: Datacamp Limited
-151.115.0/18: Scaleway
-151.115.64/18: Scaleway
-152.32/16: ucloud
-154.213/16: PFCloud
-156.146.63/24: DataCamp Limited
-156.229.2/22: MULTA-ASN1
-156.253.227/24: Rekade International
-162.142.125/24: Censys
-163.172.208/20: Scaleway
-163.172/16: Scaleway
-165.154.1/22: ucloud
-167.248.133/24: Censys
-167.94/16: Censys
-169.150.196/24: Datacamp Limited
-169.150.201/24: Datacamp Limited
-172/8: Microsoft
-176.65.14/23: Pfcloud
-178.249.2/22: Datacamp Limited
-178.255.149/24: Blix Solutions AS
-18.1/16: AWS
-185.142.236/24: BlackHOST
-185.156.46/24: Datacamp Limited
-185.165.191/24: BlackHOST
-185.165.44/24: Snakecraft
-185.180.141/24: ZEN-ECN
-185.195.2/17: 31173 VPN Services
-185.2/9: Oy Creanova
-185.213.15/22: 31173 VPN Services
-185.65.1/17: 31173 VPN Services
-190.5.196/24: EMTEL S.A. E.S.P.
-191.101/16: Cyber Assets Fzco
-192.42.116/24: SURF B.V.
-193.138.218/24: Blix
-193.138.7/24: Blix
-193.138/16: 31173 VPN Services
-193.32/16: 31173 VPN Services
-193.35.18/24: Neterra Ltd.
-194.114.136/24: Owl Limited
-194.127.199/24: Blix
-194.36.25/24: Owl Limited
-195.154/16: Scaleway
-198.235.24/24: Palo Alto
-198.44.1/22: TZULO
-198.54.1/22: TZULO
-199.45/16: Censys
-20./8: Microsoft
-205.210.31/24: Palo Alto
-206.168.3/22: Censys
-207/8: Unknown High Risk
-209.126.128/17: CariNet
-212.129.0/18: Scaleway
-212.47.224/19: Scaleway
-212.83.128/19: Scaleway
-212.83.160/19: Scaleway
-216.75.0/18: CariNet
-216.98.128/19: CariNet
-23.159.216/24: bytenode-as
-23.16/16: databridge
-23.162.40/24: AS-CYBER-DATA
-23.234/16: TZULO
-2a06:488/16: Constantine Cybersecurity
-3./8: AWS
-34.34.246/24: Google Cloud Platform
-37.19.2/22: Datacamp Limited
-4./8: Microsoft
-4.1/9: Microsoft
-4.2/9: Microsoft
-40.1/9: Microsoft
-40.83.1/22: azure
-45.128/16: AWS
-45.134/16: Datacamp Limited
-45.135/16: Pfcloud UG
-45.156.1/22: Sistemas Informaticos, S.A.
-45.156.128/24: NSEC - Sistemas Informaticos S.A.
-45.83.220/24: 31173 Services AB
-45.84.107/24: QuxLabs AB
-45.90.185/24: macarne
-46.19.1/22: Private Layer Inc
-47/8: Alibaba
-48.217/16: Microsoft
-5./8: AWS
-51.15/16: Scaleway
-51.8/9: Microsoft
-51.81./16: OVH
-52.1/9: Microsoft
-52.2/9: Microsoft
-52.58/16: AMAZON-02
-52.59/16: AMAZON-02
-54.93/16: AMAZON-02
-57.1/9: Microsoft
-62.93.167/24: Datacamp Limited
-66.240.192/18: CariNet
-66.63.1/22: AS-VULTR
-68.235.4/22: TZULO
-71.6./16: CariNet
-8.219/16: Unknown
-81.17.16/24: Unknown Swiss ISP
-82.102.19/24: M247 Europe SRL
-84.239/16: Invite Systems SRL
-84.54/16: AWS
-87.120/16: Ekabi LLC
-87.236/16: Constantine Cybersecurity
-91.207.57/24: M247
-91.90.44/24: Blix
-92.60.40/24: Owl Limited
-94.103/16: Constantine Cybersecurity
-94.154.172/24: ShadowShield Ltd
-98.97/16: SpaceX Starlink
+IP_Block_Blacklist:
+  103.108.2/22: Host Universal Pty Ltd
+  103.125.233/24: xTom
+  103.136.147/24: Owl Limited
+  103.216.220/24: Host Universal Pty Ltd
+  104.156.155/24: Hawaii Research
+  104.193.135/24: Cloudsingularity
+  104.209/16: Microsoft
+  104.245.241/24: Railnet LLC
+  104.28.1/22: Cloudflare - MC spam
+  104.40/16: Microsoft
+  106/8: Unknown High Risk
+  115/8: Unknown High Risk
+  13./8: Microsoft
+  13.64/16: Microsoft
+  13.83/16: Microsoft
+  13.91/16: Microsoft
+  131.156.156/24: Northern Illinois University
+  135.125.13/18: OVH
+  135.237.12/23: Azure
+  135.84.216/24: CariNet
+  138.199/16: Datacamp Limited
+  141.98/16: 31173 VPN Services
+  142.147.89/24: XTOM
+  146.70/16: M247
+  147.185.132/24: Palo Alto
+  149.102.2/22: Datacamp Limited
+  149.88.2/22: Datacamp Limited
+  151.115.0/18: Scaleway
+  151.115.64/18: Scaleway
+  152.32/16: ucloud
+  154.213/16: PFCloud
+  156.146.63/24: DataCamp Limited
+  156.229.2/22: MULTA-ASN1
+  156.253.227/24: Rekade International
+  162.142.125/24: Censys
+  163.172.208/20: Scaleway
+  163.172/16: Scaleway
+  165.154.1/22: ucloud
+  167.248.133/24: Censys
+  167.94/16: Censys
+  169.150.196/24: Datacamp Limited
+  169.150.201/24: Datacamp Limited
+  172/8: Microsoft
+  176.65.14/23: Pfcloud
+  178.249.2/22: Datacamp Limited
+  178.255.149/24: Blix Solutions AS
+  18.1/16: AWS
+  185.142.236/24: BlackHOST
+  185.156.46/24: Datacamp Limited
+  185.165.191/24: BlackHOST
+  185.165.44/24: Snakecraft
+  185.180.141/24: ZEN-ECN
+  185.195.2/17: 31173 VPN Services
+  185.2/9: Oy Creanova
+  185.213.15/22: 31173 VPN Services
+  185.65.1/17: 31173 VPN Services
+  190.5.196/24: EMTEL S.A. E.S.P.
+  191.101/16: Cyber Assets Fzco
+  192.42.116/24: SURF B.V.
+  193.138.218/24: Blix
+  193.138.7/24: Blix
+  193.138/16: 31173 VPN Services
+  193.32/16: 31173 VPN Services
+  193.35.18/24: Neterra Ltd.
+  194.114.136/24: Owl Limited
+  194.127.199/24: Blix
+  194.36.25/24: Owl Limited
+  195.154/16: Scaleway
+  198.235.24/24: Palo Alto
+  198.44.1/22: TZULO
+  198.54.1/22: TZULO
+  199.45/16: Censys
+  20./8: Microsoft
+  205.210.31/24: Palo Alto
+  206.168.3/22: Censys
+  207/8: Unknown High Risk
+  209.126.128/17: CariNet
+  212.129.0/18: Scaleway
+  212.47.224/19: Scaleway
+  212.83.128/19: Scaleway
+  212.83.160/19: Scaleway
+  216.75.0/18: CariNet
+  216.98.128/19: CariNet
+  23.159.216/24: bytenode-as
+  23.16/16: databridge
+  23.162.40/24: AS-CYBER-DATA
+  23.234/16: TZULO
+  2a06:488/16: Constantine Cybersecurity
+  3./8: AWS
+  34.34.246/24: Google Cloud Platform
+  37.19.2/22: Datacamp Limited
+  4./8: Microsoft
+  4.1/9: Microsoft
+  4.2/9: Microsoft
+  40.1/9: Microsoft
+  40.83.1/22: azure
+  45.128/16: AWS
+  45.134/16: Datacamp Limited
+  45.135/16: Pfcloud UG
+  45.156.1/22: Sistemas Informaticos, S.A.
+  45.156.128/24: NSEC - Sistemas Informaticos S.A.
+  45.83.220/24: 31173 Services AB
+  45.84.107/24: QuxLabs AB
+  45.90.185/24: macarne
+  46.19.1/22: Private Layer Inc
+  47/8: Alibaba
+  48.217/16: Microsoft
+  5./8: AWS
+  51.15/16: Scaleway
+  51.8/9: Microsoft
+  51.81./16: OVH
+  52.1/9: Microsoft
+  52.2/9: Microsoft
+  52.58/16: AMAZON-02
+  52.59/16: AMAZON-02
+  54.93/16: AMAZON-02
+  57.1/9: Microsoft
+  62.93.167/24: Datacamp Limited
+  66.240.192/18: CariNet
+  66.63.1/22: AS-VULTR
+  68.235.4/22: TZULO
+  71.6./16: CariNet
+  8.219/16: Unknown
+  81.17.16/24: Unknown Swiss ISP
+  82.102.19/24: M247 Europe SRL
+  84.239/16: Invite Systems SRL
+  84.54/16: AWS
+  87.120/16: Ekabi LLC
+  87.236/16: Constantine Cybersecurity
+  91.207.57/24: M247
+  91.90.44/24: Blix
+  92.60.40/24: Owl Limited
+  94.103/16: Constantine Cybersecurity
+  94.154.172/24: ShadowShield Ltd
+  98.97/16: SpaceX Starlink

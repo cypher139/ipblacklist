@@ -300,6 +300,10 @@ Obnoxious:
     f: 4m
     i: Host Universal Pty Ltd
     p: 64
+  156.229.233.237:
+    f: 13m
+    i: Hostkey B.v.
+    p: 49
   195.226.194.14:
     f: 20-30m
     i: Hostkey B.v.
@@ -547,10 +551,10 @@ Obnoxious:
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
-  156.229.233.237:
-    f: 13m
-    i: TERASWITCH
-    p: 49
+  23.234.100.41:
+    f: 07m 11s
+    i: TZULO
+    p: 36
   23.234.102.217:
     f: 6m
     i: TZULO

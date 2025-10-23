@@ -236,6 +236,14 @@ Obnoxious:
     f: 10m
     i: Datacamp Limited
     p: 46
+  79.127.217.39:
+    f: 05m 43s
+    i: Datacamp Limited
+    p: 70
+  79.127.217.52:
+    f: 05m 54s
+    i: Datacamp Limited
+    p: 53
   84.239.16.162:
     f: 7m
     i: Datacamp Limited
@@ -300,6 +308,10 @@ Obnoxious:
     f: 4m
     i: Host Universal Pty Ltd
     p: 64
+  155.2.191.228:
+    f: 05m 50s
+    i: Host Universal Pty Ltd
+    p: 66
   156.229.233.237:
     f: 13m
     i: Hostkey B.v.

@@ -31,7 +31,7 @@
       :  Country codes: 1
 11845 : Vox-Telecom <IPs: 1>
       :  Country codes: 1
-11878 : TZULO <IPs: 139>
+11878 : TZULO <IPs: 141>
       :  Country codes: 2 Reg Country Codes: 1
 12127 : Telefonica Moviles El Salvador S.A. de C.V. <IPs: 1>
       :  Country codes: 1
@@ -427,7 +427,7 @@
       :  Country codes: 1
 203003: Magna Capax Finland Oy <IPs: 2>
       :  Country codes: 1
-203020: HostRoyale Technologies Pvt Ltd <IPs: 59>
+203020: HostRoyale Technologies Pvt Ltd <IPs: 61>
       :  Country codes: 12 Reg Country Codes: 3
 203053: CLAUS WEB srl <IPs: 1>
       :  Country codes: 1
@@ -558,7 +558,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 251>
+212238: Datacamp Limited <IPs: 252>
       :  Country codes: 26 Reg Country Codes: 5
 212271: Lumanex Srl <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1015,7 +1015,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 396507: EMERALD-ONION <IPs: 1>
       :  Country codes: 1
-396982: GOOGLE-CLOUD-PLATFORM <IPs: 838>
+396982: GOOGLE-CLOUD-PLATFORM <IPs: 840>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 15 Reg Country Codes: 1
 397373: H4Y-TECHNOLOGIES <IPs: 1>
@@ -1505,7 +1505,7 @@
       :  Country codes: 1
 8069  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1>
       :  Country codes: 1
-8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1505>
+8075  : MICROSOFT-CORP-MSN-AS-BLOCK <IPs: 1506>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 15 Reg Country Codes: 3
 8151  : UNINET <IPs: 2>
@@ -1543,7 +1543,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 8881  : 1&1 Versatel Deutschland GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 345>
+9009  : M247 Europe SRL <IPs: 347>
       :  [AKA: [VPN provider?]]
       :  Country codes: 34 Reg Country Codes: 5
 9123  : Jsc timeweb <IPs: 1>
@@ -1587,4 +1587,4 @@ None  : Unknown: No Data Given <IPs: 64>
       :  Country codes: 15 Reg Country Codes: 4
 List of Country Codes: AE AL AM AR AT AU AZ BA BD BE BG BN BO BR BY BZ CA CD CH CI CL CN CO CR CU CY CZ DE DK DZ EC EE EG ES FI FR GB GH GR HK HN HR HU ID IE IL IN IQ IR IS IT JP KR KZ LB LK LT LU LV MA MC MD MK MM MN MO MU MX MY NA NG NL NO NP NZ PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SZ TH TR TW UA US UY Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT BG CA CH CN CO CY CZ DE EE ES FR GB GR HK IE IN IQ IR IS LT LU LV MD MU NL NO NZ PA PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 11292, ASNs: 783, Countries: 107, Reg Countries: 44
+IPs: 11302, ASNs: 783, Countries: 107, Reg Countries: 44

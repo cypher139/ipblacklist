@@ -156,6 +156,10 @@ Obnoxious:
     f: 6m
     i: DATABRIDGE
     p: 62
+  138.199.15.168:
+    f: 07m 25s
+    i: Datacamp Limited
+    p: 62
   138.199.21.241:
     f: 5m
     i: Datacamp Limited
@@ -168,6 +172,10 @@ Obnoxious:
     f: 4m
     i: Datacamp Limited
     p: 91
+  149.22.91.84:
+    f: 07m 43s
+    i: Datacamp Limited
+    p: 40
   149.88.20.200:
     f: 6m
     i: Datacamp Limited
@@ -359,6 +367,10 @@ Obnoxious:
     f: 5m
     i: HostRoyale Technologies Pvt Ltd
     p: 213
+  45.134.79.108:
+    f: 07m 08s
+    i: HostRoyale Technologies Pvt Ltd
+    p: 39
   62.60.247.100:
     f: 20m
     i: Hypercore Ltd

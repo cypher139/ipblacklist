@@ -175,7 +175,7 @@ Obnoxious:
   149.22.91.84:
     f: 07m 43s
     i: Datacamp Limited
-    p: 40
+    p: 98
   149.88.20.200:
     f: 6m
     i: Datacamp Limited
@@ -316,6 +316,10 @@ Obnoxious:
     f: 5m
     i: Host Universal Pty Ltd
     p: 35
+  103.216.220.23:
+    f: 09m 09s
+    i: Host Universal Pty Ltd
+    p: 34
   103.216.220.25:
     f: 4m
     i: Host Universal Pty Ltd
@@ -511,6 +515,10 @@ Obnoxious:
     f: 14m
     i: OVH SAS
     p: 469
+  185.248.85.39:
+    f: 07m 12s
+    i: Owl Limited
+    p: 29
   185.248.85.5:
     f: 7m
     i: Owl Limited

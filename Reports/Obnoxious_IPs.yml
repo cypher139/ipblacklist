@@ -284,6 +284,10 @@ Obnoxious:
     f: 10m
     i: Go Host Ltd
     p: 256
+  136.38.164.6:
+    f: 02m 31s
+    i: GOOGLE-FIBER
+    p: 87
   193.25.217.28:
     f: 6m
     i: Gravhosting LLC
@@ -522,7 +526,7 @@ Obnoxious:
   103.136.147.155:
     f: 08m 34s
     i: Owl Limited
-    p: 117
+    p: 149
   185.248.85.39:
     f: 07m 12s
     i: Owl Limited
@@ -555,6 +559,10 @@ Obnoxious:
     f: 7m
     i: Owl Limited
     p: 51
+  92.60.40.200:
+    f: 07m 12s
+    i: Owl Limited
+    p: 29
   92.60.40.202:
     f: 11m
     i: Owl Limited

@@ -463,6 +463,10 @@ Obnoxious:
     f: 7m
     i: M247 Europe SRL
     p: 31
+  146.70.184.90:
+    f: 07m 31s
+    i: M247 Europe SRL
+    p: 63
   146.70.185.22:
     f: 07m 32s
     i: M247 Europe SRL
@@ -647,6 +651,10 @@ Obnoxious:
     f: 7m
     i: TZULO
     p: 37
+  23.234.116.187:
+    f: 06m 01s
+    i: TZULO
+    p: 48
   23.234.76.55:
     f: 06m 16s
     i: TZULO

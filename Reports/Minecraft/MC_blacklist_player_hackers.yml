@@ -25,3 +25,4 @@ Hacker_Players_IP:
   # Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/serverbound/minecraft:hello (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet serverbound/minecraft:hello
   - 176.65.134.5
   - 176.65.134.6
+  - 94.33.33.163

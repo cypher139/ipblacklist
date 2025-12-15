@@ -75,6 +75,10 @@ Obnoxious:
     f: 12m
     i: Aeza International Ltd
     p: 273
+  156.253.227.129:
+    f: 10m
+    i: Africa-on-Cloud-AS
+    p: 89
   45.95.147.247:
     f: 20h
     i: Alsycon B.V.
@@ -759,10 +763,6 @@ Obnoxious:
     f: 14m 19s
     i: Ultahost, Inc.
     p: 74
-  156.253.227.129:
-    f: 10m
-    i: 'Unknown: No Data Given'
-    p: 89
   5.42.101.164:
     f: 15m
     i: 'Unknown: No Data Given'

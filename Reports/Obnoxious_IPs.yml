@@ -3,6 +3,10 @@
 # format: f: Frequency, i: ISP, u: Minecraft Username, p: Number of pings observed.
 Obnoxious:
   # Sorted by ASN
+  45.83.31.38:
+    f: 12m 39s
+    i: 1337 Services GmbH
+    p: 30
   185.195.232.132:
     f: 6m
     i: 31173 Services AB

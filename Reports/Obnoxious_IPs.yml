@@ -298,11 +298,11 @@ Obnoxious:
     p: 35
   176.65.134.5:
     f: 10m
-    i: Go Host Ltd
+    i: GOHOST
     p: 259
   176.65.134.6:
     f: 10m
-    i: Go Host Ltd
+    i: GOHOST
     p: 256
   136.38.164.6:
     f: 02m 31s
@@ -427,6 +427,10 @@ Obnoxious:
     f: 14m
     i: Korea Telecom
     p: 30
+  156.229.233.237:
+    f: 13m
+    i: LARUS Limited
+    p: 49
   146.70.117.208:
     f: 6m
     i: M247 Europe SRL
@@ -593,23 +597,23 @@ Obnoxious:
     p: 79
   176.65.148.103:
     f: 09m
-    i: Pfcloud UG
+    i: Pfcloud UG (haftungsbeschrankt)
     p: 308
   176.65.148.49:
     f: 20m
-    i: Pfcloud UG
+    i: Pfcloud UG (haftungsbeschrankt)
     p: 44
   176.65.149.126:
     f: 08m 43s
-    i: Pfcloud UG
+    i: Pfcloud UG (haftungsbeschrankt)
     p: 29
   204.76.203.35:
     f: 3m
-    i: Pfcloud UG
+    i: Pfcloud UG (haftungsbeschrankt)
     p: 198
   45.135.194.8:
     f: 4m
-    i: Pfcloud UG
+    i: Pfcloud UG (haftungsbeschrankt)
     p: 59
   179.43.189.70:
     f: 5m
@@ -643,10 +647,6 @@ Obnoxious:
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
-  156.229.233.237:
-    f: 13m
-    i: TERASWITCH
-    p: 49
   23.234.100.41:
     f: 07m 11s
     i: TZULO

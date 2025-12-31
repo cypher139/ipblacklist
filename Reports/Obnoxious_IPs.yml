@@ -296,14 +296,6 @@ Obnoxious:
     f: 30m
     i: Glesys AB
     p: 35
-  176.65.134.5:
-    f: 10m
-    i: GOHOST
-    p: 259
-  176.65.134.6:
-    f: 10m
-    i: GOHOST
-    p: 256
   136.38.164.6:
     f: 02m 31s
     i: GOOGLE-FIBER
@@ -767,6 +759,14 @@ Obnoxious:
     f: 14m 19s
     i: Ultahost, Inc.
     p: 74
+  176.65.134.5:
+    f: 10m
+    i: 'Unknown: No Data Given'
+    p: 259
+  176.65.134.6:
+    f: 10m
+    i: 'Unknown: No Data Given'
+    p: 256
   5.42.101.164:
     f: 15m
     i: 'Unknown: No Data Given'

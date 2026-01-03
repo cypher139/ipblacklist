@@ -1,15 +1,21 @@
 # Ranges of IPs to disallow access to server:
 # Useful for catching datacenter blocks of IPs
 IP_Block_Blacklist:
+  103.102.246/24: HostRoyale Technologies Pvt Ltd
+  103.102.247/24: HostRoyale Technologies Pvt Ltd
   103.108.2/22: Host Universal Pty Ltd
   103.125.233/24: xTom
   103.136.147/24: Owl Limited
   103.216.220/24: Host Universal Pty Ltd
+  103.251.26/24: HostRoyale Technologies Pvt Ltd
+  103.251.27/24: HostRoyale Technologies Pvt Ltd
+  103.81.230/24: HostRoyale Technologies Pvt Ltd
   104.156.155/24: Hawaii Research
   104.193.135/24: Cloudsingularity
   104.209/16: Microsoft
   104.245.241/24: Railnet LLC
   104.28.1/22: Cloudflare - MC spam
+  104.36.50/24: HostRoyale Technologies Pvt Ltd
   104.40/16: Microsoft
   106/8: Unknown High Risk
   115/8: Unknown High Risk
@@ -26,16 +32,21 @@ IP_Block_Blacklist:
   142.147.89/24: XTOM
   146.70/16: M247
   147.185.132/24: Palo Alto
+  147.185.133/24: Palo Alto
   149.102.2/22: Datacamp Limited
+  149.22.91/24: Datacamp Limited
   149.88.2/22: Datacamp Limited
   151.115.0/18: Scaleway
   151.115.64/18: Scaleway
   152.32/16: ucloud
   154.213/16: PFCloud
+  155.2.19/22: Host Universal Pty Ltd
   156.146.63/24: DataCamp Limited
   156.229.2/22: MULTA-ASN1
   156.253.227/24: Rekade International
   162.142.125/24: Censys
+  162.216.149/24: GOOGLE-CLOUD-PLATFORM
+  162.216.150/24: GOOGLE-CLOUD-PLATFORM
   163.172.208/20: Scaleway
   163.172/16: Scaleway
   165.154.1/22: ucloud
@@ -43,10 +54,13 @@ IP_Block_Blacklist:
   167.94/16: Censys
   169.150.196/24: Datacamp Limited
   169.150.201/24: Datacamp Limited
+  170.62.100/24: ' Datacamp Limited'
   172/8: Microsoft
+  176.125.235/24: Blix
   176.65.14/23: Pfcloud
   178.249.2/22: Datacamp Limited
   178.255.149/24: Blix Solutions AS
+  179.43.189/24: Private Layer Inc
   18.1/16: AWS
   185.142.236/24: BlackHOST
   185.156.46/24: Datacamp Limited
@@ -57,12 +71,14 @@ IP_Block_Blacklist:
   185.2/9: Oy Creanova
   185.213.15/22: 31173 VPN Services
   185.65.1/17: 31173 VPN Services
+  185.92.210/24: HostRoyale Technologies Pvt Ltd
   190.5.196/24: EMTEL S.A. E.S.P.
   191.101/16: Cyber Assets Fzco
   192.42.116/24: SURF B.V.
   193.138.218/24: Blix
   193.138.7/24: Blix
   193.138/16: 31173 VPN Services
+  193.19.207/24: HostRoyale Technologies Pvt Ltd
   193.32/16: 31173 VPN Services
   193.35.18/24: Neterra Ltd.
   194.114.136/24: Owl Limited
@@ -91,6 +107,8 @@ IP_Block_Blacklist:
   2a06:488/16: Constantine Cybersecurity
   3./8: AWS
   34.34.246/24: Google Cloud Platform
+  35.203.210/24: Google Cloud Platform
+  35.203.211/24: Google Cloud Platform
   37.19.2/22: Datacamp Limited
   4./8: Microsoft
   4.1/9: Microsoft
@@ -123,6 +141,8 @@ IP_Block_Blacklist:
   66.63.1/22: AS-VULTR
   68.235.4/22: TZULO
   71.6./16: CariNet
+  79.127/16: Datacamp Limited
+  79.37.63/24: TIM
   8.219/16: Unknown
   81.17.16/24: Unknown Swiss ISP
   82.102.19/24: M247 Europe SRL
@@ -130,9 +150,11 @@ IP_Block_Blacklist:
   84.54/16: AWS
   87.120/16: Ekabi LLC
   87.236/16: Constantine Cybersecurity
+  89.37.63/24: DataCamp Limited
   91.207.57/24: M247
   91.90.44/24: Blix
   92.60.40/24: Owl Limited
   94.103/16: Constantine Cybersecurity
   94.154.172/24: ShadowShield Ltd
+  95.173.222/24: DataCamp Limited
   98.97/16: SpaceX Starlink

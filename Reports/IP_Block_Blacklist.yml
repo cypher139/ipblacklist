@@ -54,7 +54,7 @@ IP_Block_Blacklist:
   167.94/16: Censys
   169.150.196/24: Datacamp Limited
   169.150.201/24: Datacamp Limited
-  170.62.100/24: ' Datacamp Limited'
+  170.62.100/24: Datacamp Limited
   172/8: Microsoft
   176.125.235/24: Blix
   176.65.14/23: Pfcloud

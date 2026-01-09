@@ -522,7 +522,7 @@ Obnoxious:
   176.65.134.42:
     f: 02m 56s
     i: NETIFACELLC
-    p: 110
+    p: 112
   176.65.134.5:
     f: 10m
     i: NETIFACELLC
@@ -603,6 +603,10 @@ Obnoxious:
     f: 09m
     i: Pfcloud UG (haftungsbeschrankt)
     p: 308
+  176.65.148.241:
+    f: 15m 24s
+    i: Pfcloud UG (haftungsbeschrankt)
+    p: 46
   176.65.148.49:
     f: 20m
     i: Pfcloud UG (haftungsbeschrankt)

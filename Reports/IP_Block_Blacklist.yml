@@ -57,6 +57,7 @@ IP_Block_Blacklist:
   170.62.100/24: Datacamp Limited
   172/8: Microsoft
   176.125.235/24: Blix
+  176.65.134/24: Netiface
   176.65.14/23: Pfcloud
   178.249.2/22: Datacamp Limited
   178.255.149/24: Blix Solutions AS

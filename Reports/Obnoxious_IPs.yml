@@ -511,10 +511,6 @@ Obnoxious:
     f: 6m
     i: M247 Europe SRL
     p: 56
-  156.229.233.237:
-    f: 13m
-    i: MULTA-ASN1
-    p: 49
   23.176.184.152:
     f: 33m
     i: Netiface Limited
@@ -655,6 +651,10 @@ Obnoxious:
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
+  156.229.233.237:
+    f: 13m
+    i: TERASWITCH
+    p: 49
   23.234.100.41:
     f: 07m 11s
     i: TZULO

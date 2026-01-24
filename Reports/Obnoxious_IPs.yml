@@ -91,10 +91,6 @@ Obnoxious:
     f: 50m
     i: AltusHost B.V.
     p: 25
-  23.162.40.148:
-    f: 5m
-    i: AS-CYBER-DATA
-    p: 131
   178.255.149.130:
     f: 6m
     i: Blix Solutions AS
@@ -137,15 +133,15 @@ Obnoxious:
     p: 45
   154.42.7.39:
     f: 10-35m
-    i: COGENT-174
+    i: Cogent Communications, LLC
     p: 22
   191.101.217.28:
     f: 15m
-    i: COGENT-174
+    i: Cogent Communications, LLC
     p: 59
   191.101.31.64:
     f: 4m
-    i: COGENT-174
+    i: Cogent Communications, LLC
     p: 344
   109.123.240.84:
     f: 15-60m
@@ -166,15 +162,19 @@ Obnoxious:
     p: 52
   86.48.29.72:
     f: 08m 17s
-    i: CONTABO-40021
+    i: Contabo Inc.
     p: 49
+  23.162.40.148:
+    f: 5m
+    i: Cyber Data LLC
+    p: 131
   23.160.24.167:
     f: 7m
-    i: DATABRIDGE
+    i: Data Bridge Limited
     p: 44
   23.160.24.41:
     f: 6m
-    i: DATABRIDGE
+    i: Data Bridge Limited
     p: 62
   138.199.15.168:
     f: 07m 25s
@@ -298,7 +298,7 @@ Obnoxious:
     p: 35
   136.38.164.6:
     f: 02m 31s
-    i: GOOGLE-FIBER
+    i: Google Fiber Inc.
     p: 115
   193.25.217.28:
     f: 6m
@@ -310,15 +310,15 @@ Obnoxious:
     p: 87
   23.168.216.182:
     f: 06m 55s
-    i: HAYASHIMO
+    i: Hayashimo LLC
     p: 40
   23.168.216.217:
     f: 7m
-    i: HAYASHIMO
+    i: Hayashimo LLC
     p: 42
   23.168.216.89:
     f: 7m
-    i: HAYASHIMO
+    i: Hayashimo LLC
     p: 95
   195.201.95.90:
     f: 1h
@@ -511,37 +511,41 @@ Obnoxious:
     f: 6m
     i: M247 Europe SRL
     p: 56
+  156.229.233.237:
+    f: 13m
+    i: MULTACOM CORPORATION
+    p: 49
   23.176.184.152:
     f: 33m
     i: Netiface Limited
     p: 34
   176.65.134.42:
     f: 02m 56s
-    i: NETIFACELLC
+    i: Netiface LLC
     p: 112
   176.65.134.5:
     f: 10m
-    i: NETIFACELLC
+    i: Netiface LLC
     p: 259
   176.65.134.6:
     f: 10m
-    i: NETIFACELLC
+    i: Netiface LLC
     p: 256
   131.156.156.126:
     f: 3m
-    i: NIU
+    i: Northern Illinois University
     p: 287
   131.156.156.127:
     f: 7-13m
-    i: NIU
+    i: Northern Illinois University
     p: 174
   131.156.156.134:
     f: 13m
-    i: NIU
+    i: Northern Illinois University
     p: 43
   132.145.34.181:
     f: 25m
-    i: ORACLE-BMC-31898
+    i: Oracle Corporation
     p: 23
   54.36.120.8:
     f: 14m
@@ -651,113 +655,109 @@ Obnoxious:
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
-  156.229.233.237:
-    f: 13m
-    i: TERASWITCH
-    p: 49
   23.234.100.41:
     f: 07m 11s
-    i: TZULO
+    i: tzulo, inc.
     p: 36
   23.234.102.167:
     f: 07m 21s
-    i: TZULO
+    i: tzulo, inc.
     p: 69
   23.234.102.217:
     f: 6m
-    i: TZULO
+    i: tzulo, inc.
     p: 58
   23.234.102.22:
     f: 11m
-    i: TZULO
+    i: tzulo, inc.
     p: 85
   23.234.103.182:
     f: 07m 02s
-    i: TZULO
+    i: tzulo, inc.
     p: 71
   23.234.114.167:
     f: 7m
-    i: TZULO
+    i: tzulo, inc.
     p: 37
   23.234.116.187:
     f: 06m 01s
-    i: TZULO
+    i: tzulo, inc.
     p: 48
   23.234.116.60:
     f: 08m 15s
-    i: TZULO
+    i: tzulo, inc.
     p: 35
   23.234.76.55:
     f: 06m 16s
-    i: TZULO
+    i: tzulo, inc.
     p: 65
   23.234.83.181:
     f: 06m 13s
-    i: TZULO
+    i: tzulo, inc.
     p: 30
   23.234.84.40:
     f: 7m
-    i: TZULO
+    i: tzulo, inc.
     p: 114
   23.234.86.197:
     f: 4m
-    i: TZULO
+    i: tzulo, inc.
     p: 91
   23.234.89.22:
     f: 06m
-    i: TZULO
+    i: tzulo, inc.
     p: 50
   23.234.90.167:
     f: 7m
-    i: TZULO
+    i: tzulo, inc.
     p: 40
   23.234.91.41:
     f: 8m
-    i: TZULO
+    i: tzulo, inc.
     p: 45
   23.234.92.167:
     f: 7m
-    i: TZULO
+    i: tzulo, inc.
     p: 33
   68.235.46.107:
     f: 05m 56s
-    i: TZULO
+    i: tzulo, inc.
     p: 29
   68.235.46.111:
     f: 4m
-    i: TZULO
+    i: tzulo, inc.
     p: 65
   68.235.46.130:
     f: 5m
-    i: TZULO
+    i: tzulo, inc.
     p: 49
   68.235.46.14:
     f: 06m 24s
-    i: TZULO
+    i: tzulo, inc.
     p: 30
   68.235.46.142:
     f: 6m
-    i: TZULO
+    i: tzulo, inc.
     p: 224
   68.235.46.37:
     f: 5m
-    i: TZULO
+    i: tzulo, inc.
     p: 125
   68.235.46.45:
     f: 18m 05s
-    i: TZULO
+    i: tzulo, inc.
     p: 33
   68.235.46.73:
     f: 7m
-    i: TZULO
+    i: tzulo, inc.
     p: 41
   68.235.46.76:
     f: 06m 00s
-    i: TZULO
+    i: tzulo, inc.
     p: 30
   68.235.46.99:
     f: 5m
-    i: TZULO
+    i: tzulo, inc.
     p: 86
   155.2.190.157:
     f: 06m 36s
@@ -790,7 +790,7 @@ Obnoxious:
     u: ServerOverflow1
   142.147.89.231:
     f: 06m 22s
-    i: XTOM
+    i: xTom
     p: 57
   85.235.71.200:
     f: 11m
@@ -799,8 +799,8 @@ Obnoxious:
     u: kevincitopito
   154.213.185.46:
     f: 15m
-    i: ZILLION-NETWORK
+    i: Zillion Network Inc.
     u: Cornbread21xxxx (replace x with randomized numbers)
   154.213.187.231:
     f: 5h
-    i: ZILLION-NETWORK
+    i: Zillion Network Inc.

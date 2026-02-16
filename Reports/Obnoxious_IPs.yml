@@ -518,7 +518,7 @@ Obnoxious:
   23.176.184.152:
     f: 33m
     i: Netiface Limited
-    p: 34
+    p: 332
   176.65.134.42:
     f: 02m 56s
     i: Netiface LLC
@@ -655,18 +655,18 @@ Obnoxious:
   51.15.80.4:
     f: 20h 17m 26s
     i: Scaleway S.a.s.
-    p: 90
+    p: 97
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
   51.158.189.221:
     f: 23h 35m 17s
     i: Scaleway S.a.s.
-    p: 34
+    p: 41
   51.159.110.167:
     f: 22h 25m 38s
     i: Scaleway S.a.s.
-    p: 68
+    p: 75
   23.234.100.41:
     f: 07m 11s
     i: tzulo, inc.

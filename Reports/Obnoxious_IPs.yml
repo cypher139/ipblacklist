@@ -622,7 +622,7 @@ Obnoxious:
   23.176.184.152:
     f: 33m
     i: Pfcloud UG (haftungsbeschrankt)
-    p: 350
+    p: 374
   45.135.194.8:
     f: 4m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -655,18 +655,18 @@ Obnoxious:
   51.15.80.4:
     f: 20h 17m 26s
     i: Scaleway S.a.s.
-    p: 105
+    p: 115
   51.158.174.200:
     f: 24h
     i: Scaleway S.a.s.
   51.158.189.221:
     f: 23h 35m 17s
     i: Scaleway S.a.s.
-    p: 48
+    p: 55
   51.159.110.167:
     f: 22h 25m 38s
     i: Scaleway S.a.s.
-    p: 82
+    p: 88
   155.2.190.157:
     f: 06m 36s
     i: Thg Hosting Limited

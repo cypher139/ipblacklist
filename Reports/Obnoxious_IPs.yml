@@ -395,6 +395,10 @@ Obnoxious:
     f: 3m
     i: IONOS SE
     p: 214
+  5.42.101.164:
+    f: 15m
+    i: Jsc timeweb
+    p: 228
   112.171.19.96:
     f: 30m
     i: Korea Telecom
@@ -791,10 +795,6 @@ Obnoxious:
     f: 15m
     i: 'Unknown: No Data Given'
     u: Cornbread21xxxx (replace x with randomized numbers)
-  5.42.101.164:
-    f: 15m
-    i: 'Unknown: No Data Given'
-    p: 228
   87.120.112.234:
     f: 10m
     i: 'Unknown: No Data Given'

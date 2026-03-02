@@ -97,7 +97,7 @@
       :  Country codes: 1
 131921: GMO GlobalSign Holdings K.K. <IPs: 1>
       :  Country codes: 1
-13213 : Thg Hosting Limited <IPs: 14>
+13213 : Thg Hosting Limited <IPs: 15>
       :  Country codes: 1 Reg Country Codes: 1
 132153: No.3,Shu-Ma Road <IPs: 1>
       :  Country codes: 1
@@ -223,7 +223,7 @@
       :  Country codes: 1
 137085: ANO Broadband Service Pvt Ltd <IPs: 1>
       :  Country codes: 1
-137409: GSL Networks Pty LTD <IPs: 46>
+137409: GSL Networks Pty LTD <IPs: 49>
       :  Country codes: 17 Reg Country Codes: 5
 137619: Fastnet Broadband Services <IPs: 1>
       :  Country codes: 1
@@ -275,7 +275,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 140527: China Telecom <IPs: 1>
       :  Country codes: 1
-14061 : DigitalOcean, LLC <IPs: 1744>
+14061 : DigitalOcean, LLC <IPs: 1745>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 8 Reg Country Codes: 3
 140726: UNICOM AnHui province network <IPs: 3>
@@ -425,7 +425,7 @@
       :  Country codes: 1
 17243 : Byte Node LLC <IPs: 5>
       :  Country codes: 1
-174   : Cogent Communications, LLC <IPs: 71>
+174   : Cogent Communications, LLC <IPs: 73>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 8 Reg Country Codes: 5
 17451 : BIZNET NETWORKS <IPs: 5>
@@ -703,8 +703,8 @@
       :  Country codes: 2
 209847: WorkTitans B.V. <IPs: 16>
       :  Country codes: 7 Reg Country Codes: 3
-209854: Cyberzone S.A. <IPs: 9>
-      :  Country codes: 6 Reg Country Codes: 4
+209854: Cyberzone S.A. <IPs: 11>
+      :  Country codes: 7 Reg Country Codes: 4
 210006: Shereverov Marat Ahmedovich <IPs: 1>
       :  Country codes: 1
 210083: Privex Inc. <IPs: 1>
@@ -758,7 +758,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 541>
+212238: Datacamp Limited <IPs: 554>
       :  Country codes: 39 Reg Country Codes: 6
 212271: Lumanex Srl <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1301,7 +1301,7 @@
       :  Country codes: 1
 36352 : HostPapa <IPs: 56>
       :  Country codes: 3 Reg Country Codes: 1
-36680 : Netiface LLC <IPs: 10>
+36680 : Netiface LLC <IPs: 11>
       :  Country codes: 2 Reg Country Codes: 3
 36817 : MCSNet <IPs: 1>
       :  Country codes: 1
@@ -1466,7 +1466,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 4134  : Chinanet <IPs: 153>
       :  Country codes: 1
-41564 : Orion Network Limited <IPs: 3>
+41564 : Orion Network Limited <IPs: 4>
       :  Country codes: 2 Reg Country Codes: 1
 41608 : NextGenWebs, S.L. <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 1
@@ -1488,7 +1488,7 @@
       :  Country codes: 1
 42624 : Global-Data System IT Corporation <IPs: 14>
       :  Country codes: 4 Reg Country Codes: 1
-42708 : Glesys AB <IPs: 25>
+42708 : Glesys AB <IPs: 28>
       :  Country codes: 4 Reg Country Codes: 1
 42821 : K&K Kommunikationssysteme GmbH <IPs: 30>
       :  Country codes: 2 Reg Country Codes: 1
@@ -1692,7 +1692,7 @@
       :  Country codes: 1
 51396 : Pfcloud UG (haftungsbeschrankt) <IPs: 167>
       :  Country codes: 4 Reg Country Codes: 6
-51430 : AltusHost B.V. <IPs: 9>
+51430 : AltusHost B.V. <IPs: 10>
       :  Country codes: 3 Reg Country Codes: 1
 51713 : WHG Hosting Services Ltd <IPs: 1>
       :  Country codes: 1
@@ -1858,8 +1858,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 60064 : Hostpalace Datacenters Ltd <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-60068 : Datacamp Limited <IPs: 60>
-      :  Country codes: 11 Reg Country Codes: 2
+60068 : Datacamp Limited <IPs: 62>
+      :  Country codes: 12 Reg Country Codes: 2
 60077 : Asre Dadeha Asiatech <IPs: 1>
       :  Country codes: 1
 60095 : JSC Ufanet <IPs: 1>
@@ -2059,7 +2059,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 8881  : 1&1 Versatel GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 485>
+9009  : M247 Europe SRL <IPs: 487>
       :  [AKA: [VPN provider?]]
       :  Country codes: 50 Reg Country Codes: 4
 9121  : Turk Telekom <IPs: 1>
@@ -2113,4 +2113,4 @@ None  : Unknown: No Data Given <IPs: 237>
       :  Country codes: 18 Reg Country Codes: 5
 List of Country Codes: AD AE AL AM AR AT AU AZ BA BD BE BG BJ BN BO BR BY CA CD CH CI CL CM CN CO CR CU CY CZ DE DK DZ EC EE EG ES ET FI FR GB GE GH GR GT HK HN HR HU ID IE IL IM IN IQ IR IS IT JP KH KR KZ LA LB LI LK LT LU LV MA MC MD ME MK MM MN MO MT MX MY NA NG NL NO NP NZ OM PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SY SZ TH TM TN TR TW TZ UA US UY UZ Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT AU BE BG BZ CA CH CN CO CY CZ DE EE ES FI FR GB GR HK IE IL IN IR IS JP KZ LB LT LU LV MO NL NO NZ PA PK PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 17490, ASNs: 1046, Countries: 123, Reg Countries: 51
+IPs: 17522, ASNs: 1046, Countries: 123, Reg Countries: 51

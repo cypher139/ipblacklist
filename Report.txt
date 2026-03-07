@@ -429,7 +429,7 @@
       :  Country codes: 1
 17243 : Byte Node LLC <IPs: 5>
       :  Country codes: 1
-174   : Cogent Communications, LLC <IPs: 86>
+174   : Cogent Communications, LLC <IPs: 88>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 9 Reg Country Codes: 6
 17451 : BIZNET NETWORKS <IPs: 5>
@@ -631,8 +631,8 @@
       :  Country codes: 1
 205899: Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC <IPs: 1>
       :  Country codes: 1
-206092: F.n.s. Holdings Limited <IPs: 145>
-      :  Country codes: 2 Reg Country Codes: 3
+206092: F.n.s. Holdings Limited <IPs: 146>
+      :  Country codes: 3 Reg Country Codes: 4
 206206: Kurdistan Net Company for Computer and Internet Ltd. <IPs: 1>
       :  Country codes: 1
 206216: Advin Services LLC <IPs: 5>
@@ -709,7 +709,7 @@
       :  Country codes: 1
 209847: WorkTitans B.V. <IPs: 16>
       :  Country codes: 7 Reg Country Codes: 3
-209854: Cyberzone S.A. <IPs: 19>
+209854: Cyberzone S.A. <IPs: 20>
       :  Country codes: 9 Reg Country Codes: 4
 210006: Shereverov Marat Ahmedovich <IPs: 1>
       :  Country codes: 1
@@ -764,7 +764,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 595>
+212238: Datacamp Limited <IPs: 606>
       :  Country codes: 38 Reg Country Codes: 6
 212271: Lumanex Srl <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1232,8 +1232,8 @@
       :  Country codes: 1
 32475 : Internap Holding LLC <IPs: 3>
       :  Country codes: 1
-3257  : GTT Communications Inc. <IPs: 2>
-      :  Country codes: 2 Reg Country Codes: 1
+3257  : GTT Communications Inc. <IPs: 3>
+      :  Country codes: 3 Reg Country Codes: 1
 32613 : Leaseweb Canada Inc. <IPs: 5>
       :  Country codes: 1
 3269  : TIM <IPs: 1>
@@ -2075,7 +2075,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 8881  : 1&1 Versatel GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 508>
+9009  : M247 Europe SRL <IPs: 513>
       :  [AKA: [VPN provider?]]
       :  Country codes: 50 Reg Country Codes: 4
 9121  : Turk Telekom <IPs: 1>
@@ -2129,4 +2129,4 @@ None  : Unknown: No Data Given <IPs: 272>
       :  Country codes: 20 Reg Country Codes: 5
 List of Country Codes: AD AE AL AM AR AT AU AZ BA BD BE BG BJ BN BO BR BY CA CD CH CI CL CM CN CO CR CU CY CZ DE DK DZ EC EE EG ES ET FI FR GB GE GH GR GT HK HN HR HU ID IE IL IM IN IQ IR IS IT JP KH KR KZ LA LB LI LK LT LU LV MA MC MD ME MK MM MN MO MT MX MY NA NG NL NO NP NZ OM PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SY SZ TH TM TN TR TW TZ UA US UY UZ Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT AU BE BG BZ CA CH CN CO CY CZ DE EE ES FI FR GB GR HK IE IL IN IR IS JP KZ LB LT LU LV MO NL NO NZ PA PK PL RO RU SC SE SG TR UA US VG VU ZA
-IPs: 17719, ASNs: 1054, Countries: 123, Reg Countries: 51
+IPs: 17740, ASNs: 1054, Countries: 123, Reg Countries: 51

@@ -131,6 +131,10 @@ Obnoxious:
     f: 3m
     i: CANTV Servicios, Venezuela
     p: 45
+  156.229.233.237:
+    f: 13m
+    i: Charter Communications Inc
+    p: 49
   154.42.7.39:
     f: 10-35m
     i: Cogent Communications, LLC
@@ -522,10 +526,6 @@ Obnoxious:
   185.253.97.116:
     f: 19m 25s
     i: M247 Europe SRL
-    p: 49
-  156.229.233.237:
-    f: 13m
-    i: MULTACOM CORPORATION
     p: 49
   62.60.247.100:
     f: 20m

@@ -268,6 +268,10 @@ Obnoxious:
     f: 5m
     i: Datacamp Limited
     p: 68
+  62.93.167.117:
+    f: 23m 52s
+    i: Datacamp Limited
+    p: 40
   62.93.167.135:
     f: 10m
     i: Datacamp Limited
@@ -292,6 +296,10 @@ Obnoxious:
     f: 4m
     i: Datacamp Limited
     p: 96
+  138.197.168.9:
+    f: 36m 55s
+    i: DigitalOcean, LLC
+    p: 32
   45.130.200.103:
     f: 6m
     i: Eisenia AB

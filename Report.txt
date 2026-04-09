@@ -20,7 +20,7 @@
       :  Country codes: 1
 11172 : Alestra, S. de R.L. de C.V. <IPs: 1>
       :  Country codes: 1
-11320 : LightEdge Solutions <IPs: 23>
+11320 : LightEdge Solutions <IPs: 25>
       :  Country codes: 1
 1133  : SURF B.V. <IPs: 2>
       :  Country codes: 1
@@ -111,7 +111,7 @@
       :  Country codes: 1
 132199: Globe Telecom Inc. <IPs: 5>
       :  Country codes: 1
-132203: Tencent Building, Kejizhongyi Avenue <IPs: 393>
+132203: Tencent Building, Kejizhongyi Avenue <IPs: 394>
       :  Country codes: 8 Reg Country Codes: 2
 132241: SKSA TECHNOLOGY SDN BHD <IPs: 7>
       :  Country codes: 1
@@ -133,7 +133,7 @@
       :  Country codes: 1
 133334: DCTV Cable Network Broadband Services Inc <IPs: 1>
       :  Country codes: 1
-13335 : Cloudflare, Inc. <IPs: 210>
+13335 : Cloudflare, Inc. <IPs: 237>
       :  Country codes: 17 Reg Country Codes: 1
 133380: Layerstack Limited <IPs: 1>
       :  Country codes: 1
@@ -173,7 +173,7 @@
       :  Country codes: 1
 135258: Sdh Network Pvt Ltd <IPs: 2>
       :  Country codes: 1
-135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 304>
+135377: UCLOUD INFORMATION TECHNOLOGY HK LIMITED <IPs: 306>
       :  Country codes: 17 Reg Country Codes: 3
 135392: MillenialHost Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -233,7 +233,7 @@
       :  Country codes: 1
 137085: ANONET COMMUNICATIONS PVT LTD <IPs: 1>
       :  Country codes: 1
-137409: GSL Networks Pty LTD <IPs: 204>
+137409: GSL Networks Pty LTD <IPs: 205>
       :  Country codes: 17 Reg Country Codes: 5
 137619: Fastnet Broadband Services <IPs: 1>
       :  Country codes: 1
@@ -287,7 +287,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 140527: China Telecom <IPs: 1>
       :  Country codes: 1
-14061 : DigitalOcean, LLC <IPs: 1840>
+14061 : DigitalOcean, LLC <IPs: 1856>
       :  [AKA: DigitalOcean LLC]
       :  Country codes: 9 Reg Country Codes: 3
 140726: UNICOM AnHui province network <IPs: 4>
@@ -310,7 +310,7 @@
       :  Country codes: 1
 141514: Sancfil Technologies Internet Services Pvt.Ltd <IPs: 1>
       :  Country codes: 1
-141679: China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch <IPs: 3>
+141679: China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch <IPs: 5>
       :  Country codes: 1
 141892: CV Andhika Pratama Sanggoro <IPs: 4>
       :  Country codes: 1 Reg Country Codes: 1
@@ -366,9 +366,11 @@
       :  Country codes: 1
 149980: A One Network <IPs: 1>
       :  Country codes: 1
+150008: Pioneer Elabs Ltd. <IPs: 1>
+      :  Country codes: 1
 150293: Capitalonline Data Service HK Co., Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-150436: Byteplus Pte. Ltd. <IPs: 17>
+150436: Byteplus Pte. Ltd. <IPs: 18>
       :  Country codes: 2 Reg Country Codes: 1
 150493: PT Gunung Sedayu Sentosa <IPs: 1>
       :  Country codes: 1
@@ -459,7 +461,7 @@
       :  Country codes: 1
 17243 : Byte Node LLC <IPs: 5>
       :  Country codes: 1
-174   : Cogent Communications, LLC <IPs: 162>
+174   : Cogent Communications, LLC <IPs: 167>
       :  [AKA: Cogent Communications, Shodan LLC, BlackHOST Ltd., Cyber Assets Fzco, New Itime AG]
       :  Country codes: 9 Reg Country Codes: 6
 17451 : BIZNET NETWORKS <IPs: 5>
@@ -508,7 +510,7 @@
       :  Country codes: 1
 19255 : YOUR.ORG, INC. <IPs: 1>
       :  Country codes: 1
-19318 : Interserver, Inc <IPs: 5>
+19318 : Interserver, Inc <IPs: 6>
       :  Country codes: 3 Reg Country Codes: 1
 19429 : Colombia <IPs: 1>
       :  Country codes: 1
@@ -518,7 +520,7 @@
       :  Country codes: 1
 197540: netcup GmbH <IPs: 11>
       :  Country codes: 2 Reg Country Codes: 1
-197706: Keminet SHPK <IPs: 13>
+197706: Keminet SHPK <IPs: 14>
       :  Country codes: 1
 197834: Ucom CJSC <IPs: 1>
       :  Country codes: 1
@@ -612,7 +614,7 @@
       :  Country codes: 1
 202306: Hostglobal.plus Ltd <IPs: 25>
       :  Country codes: 1 Reg Country Codes: 1
-202412: Omegatech LTD <IPs: 43>
+202412: Omegatech LTD <IPs: 44>
       :  Country codes: 3 Reg Country Codes: 3
 202422: G-Core Labs S.A. <IPs: 3>
       :  Country codes: 3 Reg Country Codes: 1
@@ -685,7 +687,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 206092: F.n.s. Holdings Limited <IPs: 167>
       :  Country codes: 5 Reg Country Codes: 4
-206206: Kurdistan Net Company for Computer and Internet Ltd. <IPs: 1>
+206206: Kurdistan Net Company for Computer and Internet Ltd. <IPs: 2>
       :  Country codes: 1
 206216: Advin Services LLC <IPs: 5>
       :  Country codes: 3 Reg Country Codes: 3
@@ -731,6 +733,8 @@
       :  Country codes: 1
 20860 : Iomart Cloud Services Limited <IPs: 1>
       :  Country codes: 1
+208677: Cloud.ru <IPs: 1>
+      :  Country codes: 1
 208843: Alpha Strike Labs GmbH <IPs: 11>
       :  Country codes: 1
 208885: Noyobzoda Faridduni Saidilhom <IPs: 1>
@@ -753,13 +757,13 @@
       :  Country codes: 1
 20960 : TK Telekom sp. z o.o. <IPs: 1>
       :  Country codes: 1
-209605: UAB Host Baltic <IPs: 32>
+209605: UAB Host Baltic <IPs: 33>
       :  Country codes: 2 Reg Country Codes: 1
 209693: Oc Networks Limited <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 209702: Soldatov Alexey Valerevich <IPs: 2>
       :  Country codes: 1
-209847: WorkTitans B.V. <IPs: 19>
+209847: WorkTitans B.V. <IPs: 20>
       :  Country codes: 7 Reg Country Codes: 2
 209854: Cyberzone S.A. <IPs: 23>
       :  Country codes: 9 Reg Country Codes: 4
@@ -800,13 +804,13 @@
       :  Country codes: 3
 211507: Julian Achter <IPs: 3>
       :  Country codes: 1
-211590: Bucklog SARL <IPs: 56>
+211590: Bucklog SARL <IPs: 57>
       :  Country codes: 1
 211619: MAXKO d.o.o. <IPs: 1>
       :  Country codes: 1
 211632: Internet Solutions & Innovations LTD. <IPs: 3>
       :  Country codes: 1
-211663: GALEON LLC <IPs: 1>
+211663: GALEON LLC <IPs: 2>
       :  Country codes: 1
 211680: Sistemas Informaticos, S.A. <IPs: 98>
       :  Country codes: 1
@@ -822,7 +826,7 @@
       :  Country codes: 1
 212219: Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi <IPs: 1>
       :  Country codes: 1
-212238: Datacamp Limited <IPs: 907>
+212238: Datacamp Limited <IPs: 915>
       :  Country codes: 39 Reg Country Codes: 8
 212271: Lumanex Srl <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
@@ -832,7 +836,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 212477: RoyaleHosting BV <IPs: 1>
       :  Country codes: 1
-212512: Detai Prosperous Technologies Limited <IPs: 19>
+212512: Detai Prosperous Technologies Limited <IPs: 20>
       :  Country codes: 2
 212552: BitCommand LLC <IPs: 2>
       :  Country codes: 2 Reg Country Codes: 1
@@ -858,9 +862,9 @@
       :  Country codes: 1
 213291: Nebius B.V. <IPs: 1>
       :  Country codes: 1
-213412: ONYPHE SAS <IPs: 214>
+213412: ONYPHE SAS <IPs: 215>
       :  Country codes: 2 Reg Country Codes: 1
-213438: ColocaTel Inc. <IPs: 16>
+213438: ColocaTel Inc. <IPs: 18>
       :  Country codes: 4
 213441: Slayer Group Limited <IPs: 1>
       :  Country codes: 1
@@ -896,8 +900,8 @@
       :  Country codes: 1 Reg Country Codes: 1
 214159: UAB Cherry Servers <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-214209: Internet Magnate (Pty) Ltd <IPs: 4>
-      :  Country codes: 2
+214209: Internet Magnate (Pty) Ltd <IPs: 5>
+      :  Country codes: 3
 214238: Host Telecom Ltd <IPs: 2>
       :  Country codes: 2 Reg Country Codes: 1
 214295: Skynet Network Ltd <IPs: 8>
@@ -908,7 +912,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 214403: Layer7 Networks GmbH <IPs: 1>
       :  Country codes: 1
-214472: Offshore LC <IPs: 5>
+214472: Offshore LC <IPs: 6>
       :  Country codes: 2 Reg Country Codes: 1
 214481: Wojciech Czapkowicz <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -930,7 +934,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 214996: netcup GmbH <IPs: 5>
       :  Country codes: 2 Reg Country Codes: 2
-215125: Church of Cyberology <IPs: 16>
+215125: Church of Cyberology <IPs: 17>
       :  Country codes: 1
 215174: ProNow Tech CO. L.L.C <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
@@ -980,7 +984,7 @@
       :  Country codes: 1
 21769 : Colocation America Corporation <IPs: 1>
       :  Country codes: 1
-21859 : Zenlayer Inc <IPs: 84>
+21859 : Zenlayer Inc <IPs: 85>
       :  [AKA: Zenlayer Inc]
       :  Country codes: 8 Reg Country Codes: 3
 21928 : T-Mobile USA, Inc. <IPs: 1>
@@ -1045,7 +1049,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 24872 : Magnus Ng LLC <IPs: 1>
       :  Country codes: 1
-24940 : Hetzner Online GmbH <IPs: 77>
+24940 : Hetzner Online GmbH <IPs: 78>
       :  Country codes: 2 Reg Country Codes: 1
 24961 : WIIT AG <IPs: 3>
       :  Country codes: 1
@@ -1281,7 +1285,7 @@
       :  Country codes: 1
 31638 : Lepida S.c.p.A. <IPs: 1>
       :  Country codes: 1
-31898 : Oracle Corporation <IPs: 91>
+31898 : Oracle Corporation <IPs: 93>
       :  Country codes: 18 Reg Country Codes: 7
 32002 : RackGenius <IPs: 10>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1465,6 +1469,8 @@
       :  Country codes: 1
 394256: Tech Futures Interactive Inc. <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 1
+394303: BigScoots <IPs: 1>
+      :  Country codes: 1
 394397: DashTel Corporation <IPs: 1>
       :  Country codes: 1
 394695: PDR <IPs: 4>
@@ -1483,11 +1489,11 @@
       :  Country codes: 1
 396073: Majestic Hosting Solutions, LLC <IPs: 3>
       :  Country codes: 1
-396356: Latitude.sh <IPs: 101>
+396356: Latitude.sh <IPs: 102>
       :  Country codes: 3 Reg Country Codes: 3
 396507: Emerald Onion <IPs: 2>
       :  Country codes: 1
-396982: Google LLC <IPs: 1489>
+396982: Google LLC <IPs: 1496>
       :  [AKA: Palo Alto Networks Inc]
       :  Country codes: 18 Reg Country Codes: 1
 397373: H4Y Technologies LLC <IPs: 3>
@@ -1498,7 +1504,7 @@
       :  Country codes: 1
 39832 : Opera Norway AS <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
-398324: Censys, Inc. <IPs: 124>
+398324: Censys, Inc. <IPs: 140>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 39855 : Mod Mission Critical LLC <IPs: 3>
@@ -1506,7 +1512,7 @@
 398705: Censys, Inc. <IPs: 54>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
-398722: Censys, Inc. <IPs: 158>
+398722: Censys, Inc. <IPs: 160>
       :  [AKA: Censys Inc.]
       :  Country codes: 1
 399077: Tcloudnet <IPs: 1>
@@ -1596,7 +1602,7 @@
       :  Country codes: 1
 42624 : Global-Data System IT Corporation <IPs: 17>
       :  Country codes: 4 Reg Country Codes: 1
-42708 : Glesys AB <IPs: 63>
+42708 : Glesys AB <IPs: 64>
       :  Country codes: 4 Reg Country Codes: 1
 42969 : Alpha Strike Labs GmbH <IPs: 2>
       :  Country codes: 1 Reg Country Codes: 1
@@ -1638,8 +1644,8 @@
       :  Country codes: 1
 45090 : Shenzhen Tencent Computer Systems Company Limited <IPs: 44>
       :  Country codes: 1
-45102 : Alibaba US Technology Co., Ltd. <IPs: 244>
-      :  Country codes: 13 Reg Country Codes: 2
+45102 : Alibaba US Technology Co., Ltd. <IPs: 245>
+      :  Country codes: 14 Reg Country Codes: 2
 45179 : SiteHost New Zealand <IPs: 1>
       :  Country codes: 1
 45204 : GEMNET LLC <IPs: 5>
@@ -1654,7 +1660,7 @@
       :  Country codes: 1
 45582 : VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA <IPs: 1>
       :  Country codes: 1
-45671 : Wholesale Services Provider <IPs: 7>
+45671 : Wholesale Services Provider <IPs: 8>
       :  Country codes: 1 Reg Country Codes: 1
 45758 : Triple T Broadband Public Company Limited <IPs: 1>
       :  Country codes: 1
@@ -1726,7 +1732,7 @@
       :  Country codes: 2 Reg Country Codes: 2
 4804  : Microplex PTY LTD <IPs: 2>
       :  Country codes: 1
-4808  : China Unicom Beijing Province Network <IPs: 23>
+4808  : China Unicom Beijing Province Network <IPs: 24>
       :  Country codes: 1
 48090 : Techoff Srv Limited <IPs: 102>
       :  Country codes: 3 Reg Country Codes: 1
@@ -1780,7 +1786,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 49825 : Lantek LLC <IPs: 1>
       :  Country codes: 1
-49870 : Alsycon B.V. <IPs: 14>
+49870 : Alsycon B.V. <IPs: 16>
       :  Country codes: 3 Reg Country Codes: 1
 49981 : WorldStream B.V. <IPs: 1>
       :  Country codes: 1
@@ -1794,7 +1800,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 50340 : JSC Selectel <IPs: 2>
       :  Country codes: 1
-50360 : Tamatiya EOOD <IPs: 7>
+50360 : Tamatiya EOOD <IPs: 8>
       :  Country codes: 1
 50648 : PE UAinet <IPs: 1>
       :  Country codes: 1
@@ -1804,13 +1810,13 @@
       :  Country codes: 1
 5089  : Virgin Media <IPs: 3>
       :  Country codes: 1
-51167 : Contabo GmbH <IPs: 164>
+51167 : Contabo GmbH <IPs: 165>
       :  Country codes: 3 Reg Country Codes: 3
 51247 : Serverio technologijos MB <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 51310 : Matronix <IPs: 1>
       :  Country codes: 1
-51396 : Pfcloud UG (haftungsbeschrankt) <IPs: 192>
+51396 : Pfcloud UG (haftungsbeschrankt) <IPs: 194>
       :  Country codes: 6 Reg Country Codes: 4
 51430 : AltusHost B.V. <IPs: 22>
       :  Country codes: 3 Reg Country Codes: 1
@@ -1900,6 +1906,8 @@
       :  Country codes: 1
 56322 : ServerAstra Kft. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
+56340 : Grand Ltd <IPs: 1>
+      :  Country codes: 1
 56380 : ''it Fruit'' S.r.l. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
 5650  : Frontier Communications of America, Inc. <IPs: 6>
@@ -2010,7 +2018,7 @@
       :  Country codes: 1 Reg Country Codes: 1
 60729 : Stiftung Erneuerbare Freiheit <IPs: 5>
       :  Country codes: 1
-60781 : LeaseWeb Netherlands B.V. <IPs: 4>
+60781 : LeaseWeb Netherlands B.V. <IPs: 5>
       :  Country codes: 1 Reg Country Codes: 2
 61003 : GlobalTeleHost Corp. <IPs: 1>
       :  Country codes: 1 Reg Country Codes: 1
@@ -2060,7 +2068,7 @@
       :  Country codes: 1
 62874 : Web2Objects LLC <IPs: 2>
       :  Country codes: 1
-62904 : Eonix Corporation <IPs: 15>
+62904 : Eonix Corporation <IPs: 16>
       :  Country codes: 1
 63023 : GTHost <IPs: 22>
       :  Country codes: 6 Reg Country Codes: 2
@@ -2143,7 +2151,7 @@
       :  Country codes: 1
 7693  : KSC Commercial Internet Co. Ltd. <IPs: 1>
       :  Country codes: 1
-7713  : PT Telekomunikasi Indonesia <IPs: 18>
+7713  : PT Telekomunikasi Indonesia <IPs: 19>
       :  Country codes: 1
 7738  : V tal <IPs: 1>
       :  Country codes: 1
@@ -2155,7 +2163,7 @@
       :  Country codes: 1
 8069  : Microsoft Corporation <IPs: 1>
       :  Country codes: 1
-8075  : Microsoft Corporation <IPs: 2954>
+8075  : Microsoft Corporation <IPs: 2983>
       :  [AKA: [Microsoft Azure Cloud]]
       :  Country codes: 23 Reg Country Codes: 4
 8151  : UNINET <IPs: 2>
@@ -2203,7 +2211,7 @@
       :  Country codes: 2 Reg Country Codes: 1
 8881  : 1&1 Versatel GmbH <IPs: 2>
       :  Country codes: 1
-9009  : M247 Europe SRL <IPs: 625>
+9009  : M247 Europe SRL <IPs: 628>
       :  [AKA: [VPN provider?]]
       :  Country codes: 50 Reg Country Codes: 4
 906   : DMIT Cloud Services <IPs: 1>
@@ -2257,4 +2265,4 @@ None  : Unknown: No Data Given <IPs: 818>
       :  Country codes: 21 Reg Country Codes: 7
 List of Country Codes: AD AE AL AM AO AR AT AU AZ BA BD BE BG BJ BN BO BR BY CA CD CH CI CL CM CN CO CR CU CY CZ DE DK DZ EC EE EG ES ET FI FR GB GE GH GR GT HK HN HR HU ID IE IL IM IN IQ IR IS IT JP KE KH KR KZ LA LB LI LK LT LU LV MA MC MD ME MK MM MN MO MT MX MY NA NG NL NO NP NZ OM PA PE PH PK PL PR PT QA RO RS RU SA SC SE SG SI SK SO SV SY SZ TH TM TN TR TW TZ UA US UY UZ Unknown VE VN XK ZA ZW
 List of Registered Country Codes: AE AL AM AT AU BE BG BZ CA CH CN CO CY CZ DE EE ES FI FR GB GR HK IE IL IN IR IS JP KZ LB LT LU LV MO NL NO NZ PA PL PT RO RU SC SE SG TR UA US VG VI VU ZA
-IPs: 20052, ASNs: 1118, Countries: 125, Reg Countries: 52
+IPs: 20211, ASNs: 1122, Countries: 125, Reg Countries: 52

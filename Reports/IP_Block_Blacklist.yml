@@ -81,7 +81,7 @@ IP_Block_Blacklist:
   193.138/16: 31173 VPN Services
   193.19.207/24: HostRoyale Technologies Pvt Ltd
   193.32/16: 31173 VPN Services
-  193.35.18/24: Neterra Ltd.
+  193.35.18/24: PFCloud spam
   194.114.136/24: Owl Limited
   194.127.199/24: Blix
   194.36.25/24: Owl Limited
@@ -137,6 +137,7 @@ IP_Block_Blacklist:
   52.59/16: AMAZON-02
   54.93/16: AMAZON-02
   57.1/9: Microsoft
+  62.210.101/24: scaleway sas
   62.93.167/24: Datacamp Limited
   66.240.192/18: CariNet
   66.63.1/22: AS-VULTR

@@ -135,10 +135,6 @@ Obnoxious:
     f: 3m
     i: CANTV Servicios, Venezuela
     p: 45
-  156.229.233.237:
-    f: 13m
-    i: Charter Communications Inc
-    p: 49
   154.42.7.39:
     f: 10-35m
     i: Cogent Communications, LLC
@@ -334,7 +330,7 @@ Obnoxious:
     p: 103
   87.120.126.53:
     f: 3-60m
-    i: H2nexus Ltd
+    i: H2nexus Cloud Services - Fzco
     p: 87
   23.168.216.182:
     f: 06m 55s
@@ -719,18 +715,14 @@ Obnoxious:
     f: 14m 20s
     i: Scaleway SAS
     p: 28
+  156.229.233.237:
+    f: 13m
+    i: TeraSwitch Networks Inc.
+    p: 49
   45.32.203.5:
     f: 01m 24s
     i: The Constant Company, LLC
     p: 131
-  155.2.190.157:
-    f: 06m 36s
-    i: Thg Hosting Limited
-    p: 61
-  155.2.190.62:
-    f: 6m
-    i: Thg Hosting Limited
-    p: 138
   208.131.130.43:
     f: 06m 35s
     i: Thg Hosting Limited
@@ -843,6 +835,14 @@ Obnoxious:
     f: 14m 19s
     i: Ultahost, Inc.
     p: 74
+  155.2.190.157:
+    f: 06m 36s
+    i: 'Unknown: No Data Given'
+    p: 61
+  155.2.190.62:
+    f: 6m
+    i: 'Unknown: No Data Given'
+    p: 138
   87.120.112.234:
     f: 10m
     i: 'Unknown: No Data Given'

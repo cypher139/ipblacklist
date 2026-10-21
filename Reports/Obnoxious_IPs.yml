@@ -3,6 +3,10 @@
 # format: f: Frequency, i: ISP, u: Minecraft Username, p: Number of pings observed.
 Obnoxious:
   # Sorted by ASN
+  45.83.31.38:
+    f: 12m 39s
+    i: 1337 Services GmbH
+    p: 38
   185.195.232.132:
     f: 6m
     i: 31173 Services AB
@@ -651,6 +655,10 @@ Obnoxious:
     f: 15m 24s
     i: Pfcloud UG (haftungsbeschrankt)
     p: 46
+  176.65.148.253:
+    f: 07h 19m 53s
+    i: Pfcloud UG (haftungsbeschrankt)
+    p: 28
   176.65.148.49:
     f: 20m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -662,7 +670,7 @@ Obnoxious:
   176.65.149.198:
     f: 04h 22m 48s
     i: Pfcloud UG (haftungsbeschrankt)
-    p: 56
+    p: 60
   204.76.203.35:
     f: 3m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -726,7 +734,7 @@ Obnoxious:
   176.65.132.11:
     f: 01h 15m 15s
     i: TechTies Inc.
-    p: 52
+    p: 62
     u: bm4b374q
   45.153.34.119:
     f: 42m 36s
@@ -861,10 +869,6 @@ Obnoxious:
     f: 10m
     i: 'Unknown: No Data Given'
     p: 89
-  45.83.31.38:
-    f: 12m 39s
-    i: 'Unknown: No Data Given'
-    p: 38
   87.120.112.234:
     f: 10m
     i: 'Unknown: No Data Given'

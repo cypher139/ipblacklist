@@ -658,7 +658,7 @@ Obnoxious:
   176.65.148.253:
     f: 07h 19m 53s
     i: Pfcloud UG (haftungsbeschrankt)
-    p: 28
+    p: 45
   176.65.148.49:
     f: 20m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -670,7 +670,7 @@ Obnoxious:
   176.65.149.198:
     f: 04h 22m 48s
     i: Pfcloud UG (haftungsbeschrankt)
-    p: 60
+    p: 62
   204.76.203.35:
     f: 3m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -734,12 +734,12 @@ Obnoxious:
   176.65.132.11:
     f: 01h 15m 15s
     i: TechTies Inc.
-    p: 62
+    p: 71
     u: bm4b374q
   45.153.34.119:
     f: 42m 36s
     i: TechTies Inc.
-    p: 110
+    p: 116
     u: MCOcto
   45.32.203.5:
     f: 01m 24s

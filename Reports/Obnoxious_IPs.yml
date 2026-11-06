@@ -447,6 +447,10 @@ Obnoxious:
     f: 14m
     i: Korea Telecom
     p: 30
+  156.253.227.129:
+    f: 10m
+    i: LARUS Limited
+    p: 89
   146.70.112.156:
     f: 20m 31s
     i: M247 Europe SRL
@@ -563,10 +567,6 @@ Obnoxious:
     f: 13m
     i: Northern Illinois University
     p: 43
-  178.16.54.25:
-    f: 2m
-    i: Omegatech LTD
-    p: 504
   132.145.34.181:
     f: 25m
     i: Oracle Corporation
@@ -658,7 +658,7 @@ Obnoxious:
   176.65.148.253:
     f: 07h 19m 53s
     i: Pfcloud UG (haftungsbeschrankt)
-    p: 68
+    p: 80
   176.65.148.49:
     f: 20m
     i: Pfcloud UG (haftungsbeschrankt)
@@ -739,7 +739,7 @@ Obnoxious:
   45.153.34.119:
     f: 42m 36s
     i: TechTies Inc.
-    p: 205
+    p: 208
     u: MCOcto
   45.32.203.5:
     f: 01m 24s
@@ -865,17 +865,13 @@ Obnoxious:
     f: 6m
     i: 'Unknown: No Data Given'
     p: 138
-  156.253.227.129:
-    f: 10m
-    i: 'Unknown: No Data Given'
-    p: 89
   87.120.112.234:
     f: 10m
     i: 'Unknown: No Data Given'
     p: 16
   94.131.100.102:
     f: 7-9m
-    i: 'Unknown: No Data Given'
+    i: WorkTitans B.V.
     p: 70
     u: ServerOverflow1
   142.147.89.231:
@@ -887,6 +883,10 @@ Obnoxious:
     i: Xtra Telecom S.A.
     p: 109
     u: kevincitopito
+  178.16.54.25:
+    f: 2m
+    i: Zayo Bandwidth
+    p: 504
   154.213.185.46:
     f: 15m
     i: Zillion Network Inc.

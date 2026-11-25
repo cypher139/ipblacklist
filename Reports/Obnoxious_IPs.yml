@@ -315,7 +315,7 @@ Obnoxious:
   195.58.152.221:
     f: 02h 42m 27s
     i: Dmitriy Naumov
-    p: 39
+    p: 41
   45.130.200.103:
     f: 6m
     i: Eisenia AB
@@ -582,7 +582,7 @@ Obnoxious:
   196.245.54.157:
     f: 07h 21m 06s
     i: Orion Network Limited
-    p: 32
+    p: 34
   54.36.120.8:
     f: 14m
     i: OVH SAS
@@ -751,7 +751,7 @@ Obnoxious:
   45.153.34.119:
     f: 42m 36s
     i: TechTies Inc.
-    p: 304
+    p: 310
     u: MCOcto
   45.32.203.5:
     f: 01m 24s
@@ -884,7 +884,7 @@ Obnoxious:
   45.198.224.32:
     f: 01h 52m 00s
     i: Vpsvault.host Ltd
-    p: 231
+    p: 274
   94.131.100.102:
     f: 7-9m
     i: WorkTitans B.V.

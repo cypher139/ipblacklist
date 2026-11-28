@@ -215,7 +215,7 @@ Obnoxious:
   150.251.225.29:
     f: 10h 14m 00s
     i: Datacamp Limited
-    p: 28
+    p: 30
   156.146.63.144:
     f: 12-60m
     i: Datacamp Limited
@@ -236,6 +236,10 @@ Obnoxious:
     f: 17m
     i: Datacamp Limited
     p: 32
+  158.173.241.19:
+    f: 10h 45m 37s
+    i: Datacamp Limited
+    p: 30
   169.150.196.9:
     f: 12m
     i: Datacamp Limited
@@ -259,7 +263,7 @@ Obnoxious:
   194.5.49.84:
     f: 08h 24m 54s
     i: Datacamp Limited
-    p: 33
+    p: 40
   37.19.210.3:
     f: 6m
     i: Datacamp Limited
@@ -331,11 +335,19 @@ Obnoxious:
   158.173.77.85:
     f: 10h 39m 00s
     i: F.n.s. Holdings Limited
-    p: 30
+    p: 35
+  158.173.166.7:
+    f: 11h 46m 25s
+    i: Glesys Sweden AB
+    p: 29
+  158.173.74.33:
+    f: 09h 43m 26s
+    i: Glesys Sweden AB
+    p: 34
   188.126.89.61:
     f: 10h 31m 51s
     i: Glesys Sweden AB
-    p: 36
+    p: 42
   188.126.94.91:
     f: 30m
     i: Glesys Sweden AB
@@ -594,7 +606,7 @@ Obnoxious:
   196.245.54.157:
     f: 07h 21m 06s
     i: Orion Network Limited
-    p: 44
+    p: 50
   54.36.120.8:
     f: 14m
     i: OVH SAS
@@ -896,7 +908,7 @@ Obnoxious:
   45.198.224.32:
     f: 01h 52m 00s
     i: Vpsvault.host Ltd
-    p: 324
+    p: 393
   94.131.100.102:
     f: 7-9m
     i: WorkTitans B.V.
